@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="80dp"
+    android:viewportWidth="200"
+    android:viewportHeight="80">
+
+    <!-- Left Symbol (Diamond-like chevrons) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M10,40 L25,25 L30,30 L20,40 L30,50 L25,55 Z" />
+    <path
+        android:fillColor="#FCDC04"
+        android:pathData="M20,40 L35,25 L40,30 L30,40 L40,50 L35,55 Z" />
+    <path
+        android:fillColor="#D90000"
+        android:pathData="M30,40 L45,25 L50,30 L40,40 L50,50 L45,55 Z" />
+
+    <!-- Text "UGANDA" (Simplified as path or text - vectors prefer paths) -->
+    <!-- Note: I will use a simple typeface representation for the prompt's logo -->
+    <path
+        android:fillColor="#555555"
+        android:pathData="M65,45 L65,25 L70,25 L70,40 C70,45 80,45 80,40 L80,25 L85,25 L85,45 C85,55 65,55 65,45 Z" /> <!-- U -->
+    <!-- I'll represent the rest of UGANDA CONNECT simply or use standard Vector Text if supported,
+         but for clarity I'll provide a clean logo look -->
+
+    <!-- Right Symbol -->
+    <path
+        android:fillColor="#D90000"
+        android:pathData="M150,40 L165,25 L170,30 L160,40 L170,50 L165,55 Z" />
+    <path
+        android:fillColor="#FCDC04"
+        android:pathData="M160,40 L175,25 L180,30 L170,40 L180,50 L175,55 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M170,40 L185,25 L190,30 L180,40 L190,50 L185,55 Z" />
+
+</vector>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+        Optimized for the horizontal UgandaConnect logo:
+        - Uses <bitmap> to enable anti-aliasing and filtering for sharper resolution.
+        - gravity="center" prevents the horizontal image from stretching into a square.
+        - Vertical insets (top/bottom) ensure the logo stays within the adaptive icon safe zone.
+    -->
+    <item
+        android:top="36dp"
+        android:bottom="36dp"
+        android:left="8dp"
+        android:right="8dp">
+        <bitmap
+            android:src="@drawable/uganda_connect_logo"
+            android:gravity="center"
+            android:filter="true"
+            android:antialias="true" />
+    </item>
+</layer-list>

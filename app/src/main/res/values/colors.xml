@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Uganda National Colors -->
+    <color name="uganda_black">#000000</color>
+    <color name="uganda_yellow">#FCDC04</color>
+    <color name="uganda_red">#D90000</color>
+
+    <!-- Service Colors -->
+    <color name="service_solar">#4CAF50</color>
+    <color name="service_health">#2196F3</color>
+    <color name="service_education">#FFC107</color>
+    <color name="service_bills">#FF9800</color>
+
+    <!-- Material 3 style semantic colors (placeholders) -->
+    <color name="primary">#000000</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="secondary">#FCDC04</color>
+    <color name="tertiary">#D90000</color>
+</resources>

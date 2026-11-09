@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UgandaConnect" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/uganda_black</item>
+        <item name="colorSecondary">@color/uganda_yellow</item>
+        <item name="colorTertiary">@color/uganda_red</item>
+    </style>
+
+    <style name="Theme.UgandaConnect" parent="Base.Theme.UgandaConnect" />
+
+    <!-- Splash Screen Theme -->
+    <style name="Theme.UgandaConnect.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/uganda_connect_logo</item>
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="postSplashScreenTheme">@style/Theme.UgandaConnect</item>
+    </style>
+</resources>
