@@ -1,0 +1,5 @@
+
+# keep shell scripts LF so they run inside Linux containers when checked out on Windows
+*.sh text eol=lf
+load-testing/**/*.sh text eol=lf
+*.jmx text eol=lf

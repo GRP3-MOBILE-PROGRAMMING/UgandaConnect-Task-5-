@@ -1,0 +1,5001 @@
+searchDistrict,specialty,visitReason
+Mbarara,IMMUNISATION,Fever and headache
+Lira,GENERAL,Follow-up visit
+Kabale,OPTICAL,Antenatal visit
+Gulu,OPTICAL,Child immunisation
+Kabale,HIV_CARE,Tooth pain
+Arua,MENTAL_HEALTH,Eye test
+Masaka,OPTICAL,Routine check-up
+Moroto,SURGERY,Prescription refill
+Tororo,SURGERY,Child immunisation
+Mukono,MENTAL_HEALTH,Prescription refill
+Kabale,ANTENATAL,Routine check-up
+Gulu,DENTAL,Child immunisation
+Fort Portal,ANTENATAL,Child immunisation
+Jinja,DENTAL,Prescription refill
+Masaka,SURGERY,Child immunisation
+Kasese,SURGERY,Antenatal visit
+Kasese,IMMUNISATION,Routine check-up
+Jinja,SURGERY,Antenatal visit
+Hoima,HIV_CARE,Fever and headache
+Kabale,SURGERY,Eye test
+Jinja,HIV_CARE,Follow-up visit
+Hoima,MENTAL_HEALTH,Eye test
+Kasese,OPTICAL,Fever and headache
+Gulu,GENERAL,Follow-up visit
+Soroti,DENTAL,Prescription refill
+Gulu,DENTAL,Fever and headache
+Kampala,MATERNITY,Prescription refill
+Lira,GENERAL,Child immunisation
+Masindi,IMMUNISATION,Follow-up visit
+Arua,OPTICAL,Prescription refill
+Kampala,IMMUNISATION,Prescription refill
+Moroto,SURGERY,Follow-up visit
+Soroti,GENERAL,Antenatal visit
+Hoima,MATERNITY,Child immunisation
+Mukono,GENERAL,Fever and headache
+Fort Portal,MATERNITY,Tooth pain
+Arua,GENERAL,Tooth pain
+Jinja,GENERAL,Eye test
+Hoima,MENTAL_HEALTH,Routine check-up
+Masaka,PAEDIATRICS,Fever and headache
+Mukono,OPTICAL,Tooth pain
+Arua,IMMUNISATION,Prescription refill
+Arua,DENTAL,Follow-up visit
+Kampala,HIV_CARE,Antenatal visit
+Arua,OPTICAL,Antenatal visit
+Tororo,ANTENATAL,Tooth pain
+Mukono,DENTAL,Tooth pain
+Arua,OPTICAL,Prescription refill
+Kasese,SURGERY,Child immunisation
+Moroto,ANTENATAL,Antenatal visit
+Masindi,MATERNITY,Tooth pain
+Iganga,DENTAL,Routine check-up
+Mukono,SURGERY,Antenatal visit
+Lira,MATERNITY,Child immunisation
+Kampala,PAEDIATRICS,Routine check-up
+Lira,GENERAL,Routine check-up
+Kasese,HIV_CARE,Prescription refill
+Kasese,SURGERY,Tooth pain
+Kabale,HIV_CARE,Routine check-up
+Hoima,PAEDIATRICS,Fever and headache
+Hoima,SURGERY,Child immunisation
+Mbale,ANTENATAL,Fever and headache
+Busia,PAEDIATRICS,Follow-up visit
+Gulu,SURGERY,Routine check-up
+Busia,GENERAL,Prescription refill
+Masindi,HIV_CARE,Routine check-up
+Masindi,SURGERY,Fever and headache
+Gulu,OPTICAL,Antenatal visit
+Hoima,GENERAL,Prescription refill
+Kampala,IMMUNISATION,Follow-up visit
+Lira,IMMUNISATION,Eye test
+Tororo,DENTAL,Fever and headache
+Fort Portal,DENTAL,Eye test
+Mbale,PAEDIATRICS,Prescription refill
+Jinja,MENTAL_HEALTH,Follow-up visit
+Masaka,DENTAL,Antenatal visit
+Busia,HIV_CARE,Tooth pain
+Wakiso,MATERNITY,Fever and headache
+Mukono,SURGERY,Follow-up visit
+Moroto,GENERAL,Prescription refill
+Moroto,HIV_CARE,Child immunisation
+Tororo,HIV_CARE,Child immunisation
+Soroti,SURGERY,Routine check-up
+Mbale,PAEDIATRICS,Prescription refill
+Soroti,DENTAL,Routine check-up
+Soroti,GENERAL,Eye test
+Lira,MATERNITY,Prescription refill
+Busia,DENTAL,Eye test
+Kasese,MATERNITY,Tooth pain
+Fort Portal,DENTAL,Prescription refill
+Tororo,MATERNITY,Follow-up visit
+Arua,GENERAL,Antenatal visit
+Lira,PAEDIATRICS,Routine check-up
+Fort Portal,GENERAL,Routine check-up
+Iganga,PAEDIATRICS,Eye test
+Mukono,GENERAL,Antenatal visit
+Moroto,IMMUNISATION,Fever and headache
+Mukono,ANTENATAL,Eye test
+Kabale,OPTICAL,Child immunisation
+Wakiso,MENTAL_HEALTH,Child immunisation
+Tororo,SURGERY,Antenatal visit
+Busia,ANTENATAL,Child immunisation
+Mbale,OPTICAL,Child immunisation
+Masindi,HIV_CARE,Tooth pain
+Kasese,GENERAL,Routine check-up
+Wakiso,MENTAL_HEALTH,Tooth pain
+Kabale,MATERNITY,Eye test
+Lira,HIV_CARE,Routine check-up
+Soroti,GENERAL,Child immunisation
+Kabale,IMMUNISATION,Eye test
+Kabale,PAEDIATRICS,Prescription refill
+Gulu,IMMUNISATION,Child immunisation
+Wakiso,MATERNITY,Follow-up visit
+Masaka,ANTENATAL,Fever and headache
+Fort Portal,OPTICAL,Tooth pain
+Wakiso,HIV_CARE,Fever and headache
+Kasese,SURGERY,Fever and headache
+Jinja,DENTAL,Antenatal visit
+Busia,ANTENATAL,Antenatal visit
+Mukono,SURGERY,Prescription refill
+Tororo,PAEDIATRICS,Child immunisation
+Jinja,MENTAL_HEALTH,Routine check-up
+Kampala,GENERAL,Routine check-up
+Masindi,GENERAL,Tooth pain
+Moroto,ANTENATAL,Eye test
+Gulu,MATERNITY,Child immunisation
+Wakiso,IMMUNISATION,Fever and headache
+Kampala,OPTICAL,Follow-up visit
+Lira,DENTAL,Routine check-up
+Mukono,GENERAL,Eye test
+Masaka,GENERAL,Prescription refill
+Moroto,HIV_CARE,Routine check-up
+Mbale,MENTAL_HEALTH,Antenatal visit
+Soroti,ANTENATAL,Child immunisation
+Lira,PAEDIATRICS,Tooth pain
+Moroto,OPTICAL,Fever and headache
+Hoima,HIV_CARE,Routine check-up
+Moroto,HIV_CARE,Tooth pain
+Mbale,SURGERY,Fever and headache
+Lira,MATERNITY,Prescription refill
+Hoima,GENERAL,Tooth pain
+Masaka,SURGERY,Child immunisation
+Hoima,ANTENATAL,Routine check-up
+Fort Portal,DENTAL,Child immunisation
+Iganga,IMMUNISATION,Antenatal visit
+Gulu,SURGERY,Fever and headache
+Jinja,OPTICAL,Eye test
+Tororo,PAEDIATRICS,Fever and headache
+Busia,PAEDIATRICS,Prescription refill
+Masaka,SURGERY,Eye test
+Gulu,PAEDIATRICS,Tooth pain
+Hoima,SURGERY,Follow-up visit
+Kampala,MENTAL_HEALTH,Eye test
+Gulu,OPTICAL,Eye test
+Hoima,MENTAL_HEALTH,Antenatal visit
+Mbale,DENTAL,Prescription refill
+Iganga,IMMUNISATION,Antenatal visit
+Mbarara,PAEDIATRICS,Eye test
+Fort Portal,IMMUNISATION,Follow-up visit
+Lira,SURGERY,Antenatal visit
+Kabale,OPTICAL,Routine check-up
+Fort Portal,OPTICAL,Child immunisation
+Kasese,DENTAL,Antenatal visit
+Wakiso,IMMUNISATION,Fever and headache
+Kampala,MATERNITY,Child immunisation
+Fort Portal,PAEDIATRICS,Child immunisation
+Moroto,GENERAL,Child immunisation
+Mbale,ANTENATAL,Antenatal visit
+Tororo,MATERNITY,Eye test
+Mbale,MENTAL_HEALTH,Antenatal visit
+Kabale,ANTENATAL,Fever and headache
+Kasese,MENTAL_HEALTH,Follow-up visit
+Tororo,SURGERY,Fever and headache
+Moroto,ANTENATAL,Follow-up visit
+Lira,ANTENATAL,Follow-up visit
+Arua,MENTAL_HEALTH,Prescription refill
+Tororo,DENTAL,Fever and headache
+Soroti,ANTENATAL,Child immunisation
+Jinja,SURGERY,Child immunisation
+Iganga,MENTAL_HEALTH,Fever and headache
+Lira,PAEDIATRICS,Prescription refill
+Hoima,MENTAL_HEALTH,Child immunisation
+Wakiso,ANTENATAL,Antenatal visit
+Lira,DENTAL,Tooth pain
+Kampala,GENERAL,Child immunisation
+Busia,HIV_CARE,Child immunisation
+Kabale,PAEDIATRICS,Fever and headache
+Masaka,MATERNITY,Antenatal visit
+Arua,IMMUNISATION,Antenatal visit
+Busia,GENERAL,Tooth pain
+Kasese,OPTICAL,Eye test
+Busia,MENTAL_HEALTH,Eye test
+Arua,IMMUNISATION,Tooth pain
+Tororo,GENERAL,Eye test
+Mukono,MATERNITY,Tooth pain
+Kabale,MATERNITY,Antenatal visit
+Arua,IMMUNISATION,Tooth pain
+Iganga,MENTAL_HEALTH,Tooth pain
+Mukono,PAEDIATRICS,Follow-up visit
+Mbale,SURGERY,Follow-up visit
+Tororo,ANTENATAL,Eye test
+Masindi,DENTAL,Fever and headache
+Lira,ANTENATAL,Child immunisation
+Kasese,IMMUNISATION,Prescription refill
+Kasese,SURGERY,Prescription refill
+Mbarara,SURGERY,Prescription refill
+Mbarara,ANTENATAL,Antenatal visit
+Kasese,MENTAL_HEALTH,Tooth pain
+Mbarara,GENERAL,Prescription refill
+Lira,DENTAL,Routine check-up
+Moroto,SURGERY,Follow-up visit
+Moroto,MATERNITY,Eye test
+Moroto,SURGERY,Eye test
+Busia,ANTENATAL,Eye test
+Kasese,MENTAL_HEALTH,Antenatal visit
+Kabale,SURGERY,Child immunisation
+Moroto,DENTAL,Antenatal visit
+Hoima,OPTICAL,Follow-up visit
+Hoima,MATERNITY,Follow-up visit
+Kampala,OPTICAL,Tooth pain
+Mbale,ANTENATAL,Antenatal visit
+Iganga,MATERNITY,Tooth pain
+Wakiso,PAEDIATRICS,Eye test
+Hoima,MATERNITY,Child immunisation
+Lira,ANTENATAL,Follow-up visit
+Kasese,DENTAL,Prescription refill
+Wakiso,ANTENATAL,Eye test
+Hoima,PAEDIATRICS,Prescription refill
+Wakiso,MATERNITY,Antenatal visit
+Kasese,MATERNITY,Fever and headache
+Wakiso,MATERNITY,Routine check-up
+Wakiso,MATERNITY,Routine check-up
+Gulu,IMMUNISATION,Follow-up visit
+Mbale,OPTICAL,Follow-up visit
+Mbarara,GENERAL,Tooth pain
+Lira,OPTICAL,Antenatal visit
+Moroto,MATERNITY,Fever and headache
+Kasese,GENERAL,Follow-up visit
+Moroto,ANTENATAL,Eye test
+Masaka,SURGERY,Tooth pain
+Lira,HIV_CARE,Child immunisation
+Kabale,DENTAL,Eye test
+Mukono,MENTAL_HEALTH,Antenatal visit
+Wakiso,IMMUNISATION,Tooth pain
+Masindi,OPTICAL,Fever and headache
+Mukono,GENERAL,Routine check-up
+Busia,GENERAL,Fever and headache
+Busia,DENTAL,Follow-up visit
+Wakiso,ANTENATAL,Eye test
+Mbale,IMMUNISATION,Tooth pain
+Wakiso,MATERNITY,Follow-up visit
+Kampala,DENTAL,Child immunisation
+Mukono,MENTAL_HEALTH,Follow-up visit
+Mbale,OPTICAL,Eye test
+Kampala,IMMUNISATION,Prescription refill
+Gulu,OPTICAL,Eye test
+Iganga,HIV_CARE,Tooth pain
+Gulu,MATERNITY,Eye test
+Soroti,SURGERY,Tooth pain
+Kasese,DENTAL,Antenatal visit
+Fort Portal,DENTAL,Child immunisation
+Kasese,MATERNITY,Routine check-up
+Moroto,DENTAL,Prescription refill
+Kampala,DENTAL,Child immunisation
+Mukono,PAEDIATRICS,Eye test
+Soroti,DENTAL,Fever and headache
+Kasese,HIV_CARE,Antenatal visit
+Iganga,IMMUNISATION,Routine check-up
+Tororo,MATERNITY,Antenatal visit
+Mbarara,MENTAL_HEALTH,Fever and headache
+Tororo,ANTENATAL,Prescription refill
+Kasese,MENTAL_HEALTH,Prescription refill
+Soroti,HIV_CARE,Follow-up visit
+Fort Portal,DENTAL,Child immunisation
+Arua,HIV_CARE,Eye test
+Mukono,SURGERY,Tooth pain
+Tororo,HIV_CARE,Child immunisation
+Lira,MENTAL_HEALTH,Child immunisation
+Gulu,OPTICAL,Tooth pain
+Hoima,MENTAL_HEALTH,Follow-up visit
+Busia,HIV_CARE,Antenatal visit
+Jinja,MENTAL_HEALTH,Child immunisation
+Lira,MENTAL_HEALTH,Prescription refill
+Tororo,IMMUNISATION,Routine check-up
+Arua,MENTAL_HEALTH,Routine check-up
+Hoima,OPTICAL,Antenatal visit
+Busia,OPTICAL,Eye test
+Jinja,OPTICAL,Prescription refill
+Kasese,PAEDIATRICS,Routine check-up
+Kampala,IMMUNISATION,Prescription refill
+Kabale,HIV_CARE,Eye test
+Lira,PAEDIATRICS,Fever and headache
+Hoima,OPTICAL,Antenatal visit
+Mbale,MATERNITY,Child immunisation
+Kampala,DENTAL,Prescription refill
+Tororo,SURGERY,Fever and headache
+Masindi,IMMUNISATION,Antenatal visit
+Lira,IMMUNISATION,Routine check-up
+Kabale,ANTENATAL,Antenatal visit
+Iganga,MENTAL_HEALTH,Antenatal visit
+Arua,ANTENATAL,Routine check-up
+Hoima,MENTAL_HEALTH,Follow-up visit
+Soroti,HIV_CARE,Routine check-up
+Mbale,ANTENATAL,Routine check-up
+Soroti,GENERAL,Prescription refill
+Gulu,DENTAL,Tooth pain
+Mbarara,HIV_CARE,Routine check-up
+Moroto,SURGERY,Prescription refill
+Masindi,PAEDIATRICS,Follow-up visit
+Masaka,ANTENATAL,Routine check-up
+Hoima,SURGERY,Prescription refill
+Jinja,IMMUNISATION,Antenatal visit
+Kampala,DENTAL,Fever and headache
+Soroti,DENTAL,Eye test
+Wakiso,OPTICAL,Fever and headache
+Iganga,HIV_CARE,Eye test
+Masaka,HIV_CARE,Prescription refill
+Kampala,ANTENATAL,Eye test
+Arua,MATERNITY,Child immunisation
+Wakiso,MATERNITY,Child immunisation
+Lira,DENTAL,Eye test
+Moroto,MENTAL_HEALTH,Follow-up visit
+Moroto,IMMUNISATION,Prescription refill
+Wakiso,GENERAL,Child immunisation
+Mbale,OPTICAL,Fever and headache
+Soroti,MATERNITY,Eye test
+Mbale,DENTAL,Prescription refill
+Hoima,SURGERY,Routine check-up
+Jinja,SURGERY,Antenatal visit
+Fort Portal,SURGERY,Routine check-up
+Busia,GENERAL,Tooth pain
+Jinja,PAEDIATRICS,Prescription refill
+Arua,GENERAL,Tooth pain
+Soroti,PAEDIATRICS,Child immunisation
+Gulu,ANTENATAL,Fever and headache
+Tororo,ANTENATAL,Routine check-up
+Wakiso,PAEDIATRICS,Routine check-up
+Lira,MATERNITY,Prescription refill
+Kabale,MENTAL_HEALTH,Antenatal visit
+Fort Portal,IMMUNISATION,Antenatal visit
+Gulu,IMMUNISATION,Fever and headache
+Masindi,MENTAL_HEALTH,Antenatal visit
+Wakiso,HIV_CARE,Prescription refill
+Masindi,OPTICAL,Eye test
+Gulu,DENTAL,Child immunisation
+Iganga,SURGERY,Child immunisation
+Kasese,DENTAL,Fever and headache
+Wakiso,OPTICAL,Eye test
+Jinja,PAEDIATRICS,Antenatal visit
+Fort Portal,IMMUNISATION,Antenatal visit
+Mukono,MENTAL_HEALTH,Prescription refill
+Masindi,PAEDIATRICS,Antenatal visit
+Jinja,MATERNITY,Antenatal visit
+Kasese,MATERNITY,Routine check-up
+Tororo,SURGERY,Follow-up visit
+Fort Portal,OPTICAL,Prescription refill
+Kasese,IMMUNISATION,Child immunisation
+Arua,MENTAL_HEALTH,Fever and headache
+Moroto,HIV_CARE,Child immunisation
+Moroto,MATERNITY,Follow-up visit
+Jinja,OPTICAL,Antenatal visit
+Jinja,ANTENATAL,Routine check-up
+Hoima,OPTICAL,Child immunisation
+Masaka,MATERNITY,Fever and headache
+Mukono,DENTAL,Tooth pain
+Mbarara,HIV_CARE,Child immunisation
+Gulu,ANTENATAL,Tooth pain
+Hoima,MATERNITY,Tooth pain
+Gulu,GENERAL,Follow-up visit
+Moroto,PAEDIATRICS,Antenatal visit
+Moroto,DENTAL,Prescription refill
+Kampala,IMMUNISATION,Eye test
+Gulu,ANTENATAL,Eye test
+Soroti,MATERNITY,Prescription refill
+Moroto,MENTAL_HEALTH,Prescription refill
+Arua,HIV_CARE,Child immunisation
+Arua,PAEDIATRICS,Follow-up visit
+Masaka,SURGERY,Follow-up visit
+Kasese,PAEDIATRICS,Follow-up visit
+Masindi,IMMUNISATION,Antenatal visit
+Mbale,SURGERY,Fever and headache
+Fort Portal,IMMUNISATION,Eye test
+Jinja,MATERNITY,Prescription refill
+Jinja,GENERAL,Follow-up visit
+Arua,MATERNITY,Antenatal visit
+Mbale,IMMUNISATION,Prescription refill
+Hoima,HIV_CARE,Eye test
+Arua,SURGERY,Eye test
+Soroti,MENTAL_HEALTH,Child immunisation
+Moroto,SURGERY,Follow-up visit
+Soroti,GENERAL,Fever and headache
+Kampala,HIV_CARE,Tooth pain
+Kampala,SURGERY,Prescription refill
+Mbale,MENTAL_HEALTH,Follow-up visit
+Busia,ANTENATAL,Child immunisation
+Iganga,GENERAL,Fever and headache
+Jinja,GENERAL,Tooth pain
+Fort Portal,DENTAL,Routine check-up
+Kasese,SURGERY,Antenatal visit
+Wakiso,OPTICAL,Child immunisation
+Iganga,HIV_CARE,Child immunisation
+Masindi,HIV_CARE,Routine check-up
+Soroti,MENTAL_HEALTH,Child immunisation
+Masaka,MENTAL_HEALTH,Eye test
+Tororo,SURGERY,Antenatal visit
+Masaka,HIV_CARE,Antenatal visit
+Kasese,DENTAL,Fever and headache
+Kampala,GENERAL,Child immunisation
+Kasese,IMMUNISATION,Tooth pain
+Kampala,OPTICAL,Prescription refill
+Busia,SURGERY,Routine check-up
+Gulu,GENERAL,Follow-up visit
+Busia,HIV_CARE,Routine check-up
+Mukono,PAEDIATRICS,Tooth pain
+Gulu,PAEDIATRICS,Child immunisation
+Busia,PAEDIATRICS,Eye test
+Tororo,SURGERY,Fever and headache
+Iganga,MENTAL_HEALTH,Tooth pain
+Arua,OPTICAL,Eye test
+Hoima,MENTAL_HEALTH,Child immunisation
+Mukono,IMMUNISATION,Routine check-up
+Soroti,MENTAL_HEALTH,Routine check-up
+Fort Portal,SURGERY,Child immunisation
+Arua,SURGERY,Child immunisation
+Hoima,MATERNITY,Routine check-up
+Kasese,GENERAL,Routine check-up
+Mukono,MENTAL_HEALTH,Eye test
+Iganga,HIV_CARE,Follow-up visit
+Kabale,MENTAL_HEALTH,Fever and headache
+Mbarara,ANTENATAL,Tooth pain
+Gulu,OPTICAL,Fever and headache
+Kabale,HIV_CARE,Fever and headache
+Busia,DENTAL,Eye test
+Moroto,GENERAL,Eye test
+Mbale,PAEDIATRICS,Child immunisation
+Arua,GENERAL,Prescription refill
+Mbale,OPTICAL,Tooth pain
+Tororo,DENTAL,Prescription refill
+Mbarara,GENERAL,Routine check-up
+Arua,PAEDIATRICS,Follow-up visit
+Moroto,HIV_CARE,Child immunisation
+Jinja,GENERAL,Eye test
+Gulu,SURGERY,Routine check-up
+Soroti,MENTAL_HEALTH,Routine check-up
+Moroto,MATERNITY,Antenatal visit
+Mukono,GENERAL,Child immunisation
+Kampala,ANTENATAL,Routine check-up
+Kabale,OPTICAL,Child immunisation
+Tororo,PAEDIATRICS,Tooth pain
+Lira,GENERAL,Child immunisation
+Mbarara,PAEDIATRICS,Prescription refill
+Tororo,MATERNITY,Child immunisation
+Lira,DENTAL,Follow-up visit
+Fort Portal,HIV_CARE,Eye test
+Wakiso,DENTAL,Prescription refill
+Masaka,GENERAL,Eye test
+Masindi,MENTAL_HEALTH,Fever and headache
+Jinja,IMMUNISATION,Child immunisation
+Masaka,OPTICAL,Tooth pain
+Mukono,OPTICAL,Eye test
+Mbale,MATERNITY,Antenatal visit
+Busia,OPTICAL,Follow-up visit
+Fort Portal,IMMUNISATION,Routine check-up
+Fort Portal,SURGERY,Eye test
+Kampala,DENTAL,Child immunisation
+Wakiso,OPTICAL,Child immunisation
+Kabale,GENERAL,Prescription refill
+Wakiso,HIV_CARE,Child immunisation
+Mukono,IMMUNISATION,Routine check-up
+Masindi,OPTICAL,Fever and headache
+Hoima,HIV_CARE,Child immunisation
+Masindi,ANTENATAL,Prescription refill
+Wakiso,PAEDIATRICS,Fever and headache
+Moroto,PAEDIATRICS,Fever and headache
+Mbarara,IMMUNISATION,Follow-up visit
+Fort Portal,PAEDIATRICS,Child immunisation
+Kasese,HIV_CARE,Child immunisation
+Moroto,MATERNITY,Fever and headache
+Gulu,HIV_CARE,Fever and headache
+Kasese,HIV_CARE,Prescription refill
+Jinja,GENERAL,Child immunisation
+Hoima,GENERAL,Tooth pain
+Soroti,GENERAL,Prescription refill
+Hoima,IMMUNISATION,Child immunisation
+Mbarara,IMMUNISATION,Routine check-up
+Kampala,ANTENATAL,Eye test
+Soroti,MATERNITY,Follow-up visit
+Soroti,IMMUNISATION,Routine check-up
+Hoima,ANTENATAL,Eye test
+Moroto,MENTAL_HEALTH,Prescription refill
+Masindi,OPTICAL,Routine check-up
+Fort Portal,DENTAL,Child immunisation
+Gulu,MATERNITY,Child immunisation
+Kabale,MATERNITY,Fever and headache
+Masindi,GENERAL,Prescription refill
+Gulu,MATERNITY,Follow-up visit
+Moroto,MATERNITY,Child immunisation
+Fort Portal,MENTAL_HEALTH,Antenatal visit
+Iganga,MENTAL_HEALTH,Tooth pain
+Kasese,MATERNITY,Routine check-up
+Jinja,PAEDIATRICS,Child immunisation
+Tororo,OPTICAL,Eye test
+Mukono,OPTICAL,Antenatal visit
+Lira,DENTAL,Fever and headache
+Wakiso,MENTAL_HEALTH,Antenatal visit
+Kampala,HIV_CARE,Child immunisation
+Mukono,IMMUNISATION,Fever and headache
+Iganga,PAEDIATRICS,Child immunisation
+Masaka,DENTAL,Follow-up visit
+Mbale,MENTAL_HEALTH,Eye test
+Arua,MENTAL_HEALTH,Tooth pain
+Kasese,SURGERY,Tooth pain
+Wakiso,ANTENATAL,Eye test
+Tororo,MENTAL_HEALTH,Follow-up visit
+Fort Portal,ANTENATAL,Routine check-up
+Gulu,SURGERY,Child immunisation
+Masindi,SURGERY,Routine check-up
+Kampala,MATERNITY,Fever and headache
+Tororo,IMMUNISATION,Prescription refill
+Masaka,OPTICAL,Follow-up visit
+Wakiso,OPTICAL,Eye test
+Gulu,MATERNITY,Antenatal visit
+Mbale,MENTAL_HEALTH,Eye test
+Arua,DENTAL,Follow-up visit
+Kasese,GENERAL,Routine check-up
+Lira,PAEDIATRICS,Eye test
+Tororo,HIV_CARE,Routine check-up
+Kampala,GENERAL,Tooth pain
+Masaka,HIV_CARE,Prescription refill
+Jinja,MATERNITY,Routine check-up
+Jinja,DENTAL,Fever and headache
+Kabale,OPTICAL,Prescription refill
+Mukono,MATERNITY,Child immunisation
+Lira,ANTENATAL,Prescription refill
+Kabale,OPTICAL,Fever and headache
+Soroti,SURGERY,Fever and headache
+Mbarara,HIV_CARE,Routine check-up
+Kampala,ANTENATAL,Follow-up visit
+Masaka,IMMUNISATION,Follow-up visit
+Soroti,GENERAL,Fever and headache
+Lira,OPTICAL,Prescription refill
+Wakiso,DENTAL,Follow-up visit
+Arua,GENERAL,Prescription refill
+Kabale,OPTICAL,Eye test
+Busia,DENTAL,Prescription refill
+Hoima,OPTICAL,Fever and headache
+Gulu,MENTAL_HEALTH,Follow-up visit
+Mbale,OPTICAL,Eye test
+Jinja,IMMUNISATION,Tooth pain
+Mukono,IMMUNISATION,Fever and headache
+Gulu,MENTAL_HEALTH,Tooth pain
+Kabale,DENTAL,Follow-up visit
+Kasese,PAEDIATRICS,Child immunisation
+Gulu,ANTENATAL,Follow-up visit
+Kabale,SURGERY,Routine check-up
+Arua,ANTENATAL,Child immunisation
+Kabale,PAEDIATRICS,Fever and headache
+Hoima,HIV_CARE,Child immunisation
+Tororo,MATERNITY,Antenatal visit
+Arua,HIV_CARE,Eye test
+Masaka,SURGERY,Antenatal visit
+Busia,ANTENATAL,Antenatal visit
+Arua,MENTAL_HEALTH,Prescription refill
+Wakiso,OPTICAL,Antenatal visit
+Hoima,ANTENATAL,Fever and headache
+Gulu,SURGERY,Antenatal visit
+Soroti,ANTENATAL,Child immunisation
+Soroti,ANTENATAL,Fever and headache
+Gulu,PAEDIATRICS,Eye test
+Kampala,MENTAL_HEALTH,Tooth pain
+Wakiso,PAEDIATRICS,Tooth pain
+Lira,ANTENATAL,Follow-up visit
+Jinja,MATERNITY,Follow-up visit
+Kasese,GENERAL,Child immunisation
+Fort Portal,DENTAL,Routine check-up
+Mukono,IMMUNISATION,Child immunisation
+Fort Portal,OPTICAL,Antenatal visit
+Kabale,PAEDIATRICS,Fever and headache
+Soroti,MATERNITY,Routine check-up
+Arua,DENTAL,Fever and headache
+Tororo,ANTENATAL,Prescription refill
+Gulu,PAEDIATRICS,Child immunisation
+Tororo,MENTAL_HEALTH,Antenatal visit
+Soroti,IMMUNISATION,Routine check-up
+Kasese,SURGERY,Fever and headache
+Gulu,ANTENATAL,Tooth pain
+Mbarara,HIV_CARE,Child immunisation
+Kabale,IMMUNISATION,Child immunisation
+Kampala,GENERAL,Routine check-up
+Mukono,HIV_CARE,Eye test
+Fort Portal,PAEDIATRICS,Tooth pain
+Mbale,PAEDIATRICS,Eye test
+Lira,OPTICAL,Follow-up visit
+Tororo,DENTAL,Fever and headache
+Masaka,OPTICAL,Eye test
+Kasese,SURGERY,Follow-up visit
+Mbarara,OPTICAL,Eye test
+Busia,GENERAL,Prescription refill
+Fort Portal,SURGERY,Eye test
+Mukono,DENTAL,Follow-up visit
+Gulu,MATERNITY,Fever and headache
+Arua,IMMUNISATION,Prescription refill
+Arua,DENTAL,Child immunisation
+Jinja,OPTICAL,Prescription refill
+Hoima,MATERNITY,Follow-up visit
+Mbarara,MATERNITY,Fever and headache
+Tororo,GENERAL,Prescription refill
+Kasese,PAEDIATRICS,Follow-up visit
+Masindi,ANTENATAL,Eye test
+Kasese,PAEDIATRICS,Follow-up visit
+Arua,IMMUNISATION,Tooth pain
+Mukono,SURGERY,Eye test
+Jinja,OPTICAL,Antenatal visit
+Kabale,HIV_CARE,Follow-up visit
+Moroto,DENTAL,Routine check-up
+Busia,MENTAL_HEALTH,Antenatal visit
+Mbale,DENTAL,Fever and headache
+Fort Portal,SURGERY,Tooth pain
+Fort Portal,ANTENATAL,Antenatal visit
+Kampala,MATERNITY,Eye test
+Moroto,PAEDIATRICS,Child immunisation
+Soroti,HIV_CARE,Prescription refill
+Moroto,PAEDIATRICS,Prescription refill
+Gulu,HIV_CARE,Routine check-up
+Mbarara,PAEDIATRICS,Fever and headache
+Moroto,HIV_CARE,Antenatal visit
+Mbarara,IMMUNISATION,Child immunisation
+Masindi,MENTAL_HEALTH,Prescription refill
+Fort Portal,PAEDIATRICS,Child immunisation
+Soroti,IMMUNISATION,Tooth pain
+Kampala,IMMUNISATION,Follow-up visit
+Fort Portal,MENTAL_HEALTH,Eye test
+Fort Portal,GENERAL,Prescription refill
+Mbarara,DENTAL,Follow-up visit
+Fort Portal,MATERNITY,Tooth pain
+Busia,ANTENATAL,Routine check-up
+Masaka,ANTENATAL,Tooth pain
+Gulu,MENTAL_HEALTH,Tooth pain
+Moroto,MENTAL_HEALTH,Prescription refill
+Kasese,GENERAL,Fever and headache
+Hoima,SURGERY,Prescription refill
+Mbarara,GENERAL,Fever and headache
+Masaka,MENTAL_HEALTH,Fever and headache
+Mukono,IMMUNISATION,Follow-up visit
+Moroto,DENTAL,Child immunisation
+Gulu,MENTAL_HEALTH,Fever and headache
+Lira,GENERAL,Child immunisation
+Mukono,SURGERY,Eye test
+Iganga,GENERAL,Routine check-up
+Masindi,GENERAL,Antenatal visit
+Arua,PAEDIATRICS,Child immunisation
+Masaka,MENTAL_HEALTH,Routine check-up
+Kasese,IMMUNISATION,Prescription refill
+Kasese,IMMUNISATION,Tooth pain
+Masindi,HIV_CARE,Follow-up visit
+Gulu,OPTICAL,Antenatal visit
+Moroto,PAEDIATRICS,Fever and headache
+Masaka,DENTAL,Fever and headache
+Masaka,SURGERY,Antenatal visit
+Kabale,ANTENATAL,Antenatal visit
+Kampala,MATERNITY,Child immunisation
+Lira,MENTAL_HEALTH,Tooth pain
+Arua,PAEDIATRICS,Eye test
+Masaka,SURGERY,Child immunisation
+Gulu,DENTAL,Follow-up visit
+Tororo,HIV_CARE,Fever and headache
+Mukono,PAEDIATRICS,Fever and headache
+Kampala,HIV_CARE,Follow-up visit
+Moroto,OPTICAL,Routine check-up
+Iganga,HIV_CARE,Tooth pain
+Fort Portal,ANTENATAL,Tooth pain
+Masindi,SURGERY,Fever and headache
+Mbarara,DENTAL,Tooth pain
+Hoima,ANTENATAL,Routine check-up
+Tororo,OPTICAL,Tooth pain
+Jinja,MATERNITY,Follow-up visit
+Lira,DENTAL,Follow-up visit
+Hoima,ANTENATAL,Antenatal visit
+Mbale,HIV_CARE,Fever and headache
+Jinja,ANTENATAL,Routine check-up
+Moroto,OPTICAL,Eye test
+Kabale,PAEDIATRICS,Child immunisation
+Lira,ANTENATAL,Prescription refill
+Hoima,SURGERY,Routine check-up
+Gulu,ANTENATAL,Antenatal visit
+Iganga,OPTICAL,Follow-up visit
+Lira,ANTENATAL,Antenatal visit
+Kasese,HIV_CARE,Tooth pain
+Tororo,PAEDIATRICS,Follow-up visit
+Fort Portal,MATERNITY,Tooth pain
+Hoima,IMMUNISATION,Prescription refill
+Kampala,MATERNITY,Follow-up visit
+Fort Portal,SURGERY,Fever and headache
+Kampala,SURGERY,Routine check-up
+Gulu,ANTENATAL,Antenatal visit
+Jinja,MATERNITY,Routine check-up
+Gulu,MENTAL_HEALTH,Eye test
+Kampala,SURGERY,Fever and headache
+Fort Portal,SURGERY,Child immunisation
+Wakiso,IMMUNISATION,Child immunisation
+Lira,SURGERY,Follow-up visit
+Kabale,GENERAL,Tooth pain
+Hoima,PAEDIATRICS,Fever and headache
+Fort Portal,OPTICAL,Routine check-up
+Mbale,GENERAL,Routine check-up
+Kasese,PAEDIATRICS,Follow-up visit
+Lira,IMMUNISATION,Tooth pain
+Kampala,DENTAL,Fever and headache
+Lira,HIV_CARE,Follow-up visit
+Kampala,DENTAL,Eye test
+Soroti,HIV_CARE,Follow-up visit
+Lira,PAEDIATRICS,Eye test
+Mukono,ANTENATAL,Antenatal visit
+Hoima,SURGERY,Tooth pain
+Kampala,SURGERY,Child immunisation
+Mbarara,OPTICAL,Antenatal visit
+Hoima,ANTENATAL,Eye test
+Busia,OPTICAL,Routine check-up
+Kabale,ANTENATAL,Child immunisation
+Kasese,IMMUNISATION,Prescription refill
+Mbale,DENTAL,Child immunisation
+Fort Portal,PAEDIATRICS,Antenatal visit
+Fort Portal,OPTICAL,Tooth pain
+Moroto,ANTENATAL,Antenatal visit
+Mukono,ANTENATAL,Eye test
+Arua,MATERNITY,Eye test
+Tororo,DENTAL,Tooth pain
+Mukono,DENTAL,Follow-up visit
+Hoima,MATERNITY,Child immunisation
+Masaka,DENTAL,Routine check-up
+Lira,SURGERY,Tooth pain
+Jinja,GENERAL,Prescription refill
+Iganga,HIV_CARE,Antenatal visit
+Soroti,OPTICAL,Eye test
+Jinja,DENTAL,Fever and headache
+Mbarara,DENTAL,Fever and headache
+Mbarara,ANTENATAL,Follow-up visit
+Kabale,ANTENATAL,Fever and headache
+Arua,GENERAL,Follow-up visit
+Kasese,SURGERY,Antenatal visit
+Kabale,IMMUNISATION,Prescription refill
+Gulu,OPTICAL,Antenatal visit
+Fort Portal,PAEDIATRICS,Eye test
+Mbale,HIV_CARE,Prescription refill
+Wakiso,OPTICAL,Prescription refill
+Kasese,PAEDIATRICS,Antenatal visit
+Soroti,DENTAL,Eye test
+Busia,PAEDIATRICS,Routine check-up
+Kabale,PAEDIATRICS,Child immunisation
+Hoima,GENERAL,Follow-up visit
+Wakiso,ANTENATAL,Child immunisation
+Hoima,ANTENATAL,Prescription refill
+Wakiso,GENERAL,Follow-up visit
+Lira,GENERAL,Follow-up visit
+Masindi,DENTAL,Tooth pain
+Mbale,MENTAL_HEALTH,Child immunisation
+Mukono,ANTENATAL,Routine check-up
+Kasese,HIV_CARE,Tooth pain
+Wakiso,PAEDIATRICS,Child immunisation
+Fort Portal,IMMUNISATION,Eye test
+Mukono,HIV_CARE,Tooth pain
+Mbarara,GENERAL,Eye test
+Kasese,IMMUNISATION,Child immunisation
+Mbale,ANTENATAL,Eye test
+Jinja,PAEDIATRICS,Tooth pain
+Lira,GENERAL,Tooth pain
+Kasese,OPTICAL,Eye test
+Masindi,DENTAL,Eye test
+Gulu,OPTICAL,Routine check-up
+Lira,HIV_CARE,Antenatal visit
+Lira,MENTAL_HEALTH,Follow-up visit
+Kabale,MENTAL_HEALTH,Antenatal visit
+Lira,OPTICAL,Follow-up visit
+Masaka,PAEDIATRICS,Prescription refill
+Arua,MATERNITY,Tooth pain
+Wakiso,OPTICAL,Prescription refill
+Jinja,PAEDIATRICS,Eye test
+Masindi,DENTAL,Follow-up visit
+Moroto,ANTENATAL,Eye test
+Hoima,SURGERY,Eye test
+Lira,PAEDIATRICS,Child immunisation
+Wakiso,SURGERY,Tooth pain
+Masindi,OPTICAL,Prescription refill
+Masindi,OPTICAL,Routine check-up
+Mbale,PAEDIATRICS,Routine check-up
+Kabale,SURGERY,Eye test
+Moroto,PAEDIATRICS,Fever and headache
+Iganga,HIV_CARE,Eye test
+Soroti,ANTENATAL,Routine check-up
+Moroto,HIV_CARE,Eye test
+Kampala,MENTAL_HEALTH,Routine check-up
+Mukono,HIV_CARE,Follow-up visit
+Kabale,DENTAL,Child immunisation
+Masaka,MATERNITY,Prescription refill
+Kabale,SURGERY,Antenatal visit
+Lira,DENTAL,Follow-up visit
+Mukono,DENTAL,Follow-up visit
+Masindi,ANTENATAL,Fever and headache
+Mbarara,IMMUNISATION,Follow-up visit
+Soroti,SURGERY,Routine check-up
+Lira,MATERNITY,Eye test
+Busia,IMMUNISATION,Prescription refill
+Mukono,MENTAL_HEALTH,Follow-up visit
+Mukono,ANTENATAL,Routine check-up
+Soroti,IMMUNISATION,Antenatal visit
+Soroti,ANTENATAL,Child immunisation
+Masindi,DENTAL,Tooth pain
+Moroto,GENERAL,Routine check-up
+Iganga,ANTENATAL,Child immunisation
+Jinja,MATERNITY,Eye test
+Kasese,ANTENATAL,Child immunisation
+Arua,PAEDIATRICS,Follow-up visit
+Masaka,GENERAL,Eye test
+Masindi,MATERNITY,Eye test
+Wakiso,IMMUNISATION,Fever and headache
+Jinja,GENERAL,Antenatal visit
+Kasese,MATERNITY,Routine check-up
+Moroto,IMMUNISATION,Fever and headache
+Mbarara,OPTICAL,Child immunisation
+Fort Portal,PAEDIATRICS,Follow-up visit
+Jinja,IMMUNISATION,Prescription refill
+Mukono,DENTAL,Prescription refill
+Hoima,OPTICAL,Follow-up visit
+Mbale,HIV_CARE,Child immunisation
+Mbarara,GENERAL,Fever and headache
+Wakiso,DENTAL,Antenatal visit
+Tororo,IMMUNISATION,Prescription refill
+Kasese,MATERNITY,Child immunisation
+Mukono,OPTICAL,Eye test
+Jinja,PAEDIATRICS,Prescription refill
+Kabale,OPTICAL,Routine check-up
+Masindi,MENTAL_HEALTH,Prescription refill
+Busia,SURGERY,Tooth pain
+Kabale,MATERNITY,Fever and headache
+Mbarara,PAEDIATRICS,Routine check-up
+Lira,ANTENATAL,Antenatal visit
+Wakiso,MENTAL_HEALTH,Tooth pain
+Mbarara,IMMUNISATION,Routine check-up
+Masaka,ANTENATAL,Prescription refill
+Masaka,ANTENATAL,Antenatal visit
+Jinja,HIV_CARE,Child immunisation
+Kabale,GENERAL,Eye test
+Kabale,SURGERY,Tooth pain
+Arua,MENTAL_HEALTH,Follow-up visit
+Fort Portal,SURGERY,Child immunisation
+Kampala,MATERNITY,Follow-up visit
+Tororo,PAEDIATRICS,Tooth pain
+Kabale,IMMUNISATION,Tooth pain
+Mbarara,SURGERY,Prescription refill
+Moroto,HIV_CARE,Follow-up visit
+Kasese,PAEDIATRICS,Child immunisation
+Busia,HIV_CARE,Routine check-up
+Mbale,GENERAL,Child immunisation
+Arua,MENTAL_HEALTH,Prescription refill
+Wakiso,ANTENATAL,Antenatal visit
+Iganga,ANTENATAL,Fever and headache
+Iganga,ANTENATAL,Antenatal visit
+Moroto,ANTENATAL,Routine check-up
+Mbale,GENERAL,Follow-up visit
+Masaka,SURGERY,Prescription refill
+Gulu,HIV_CARE,Follow-up visit
+Masindi,DENTAL,Eye test
+Kabale,IMMUNISATION,Prescription refill
+Hoima,IMMUNISATION,Child immunisation
+Moroto,MENTAL_HEALTH,Eye test
+Masaka,IMMUNISATION,Prescription refill
+Masaka,SURGERY,Tooth pain
+Masaka,HIV_CARE,Eye test
+Busia,SURGERY,Routine check-up
+Gulu,SURGERY,Antenatal visit
+Gulu,MATERNITY,Tooth pain
+Masaka,IMMUNISATION,Follow-up visit
+Fort Portal,ANTENATAL,Tooth pain
+Hoima,SURGERY,Follow-up visit
+Mbarara,PAEDIATRICS,Tooth pain
+Fort Portal,OPTICAL,Prescription refill
+Moroto,OPTICAL,Routine check-up
+Jinja,OPTICAL,Tooth pain
+Mbarara,HIV_CARE,Follow-up visit
+Masaka,SURGERY,Eye test
+Arua,MATERNITY,Antenatal visit
+Soroti,IMMUNISATION,Eye test
+Mbale,OPTICAL,Tooth pain
+Kampala,DENTAL,Follow-up visit
+Hoima,IMMUNISATION,Eye test
+Fort Portal,OPTICAL,Antenatal visit
+Kabale,DENTAL,Tooth pain
+Masaka,OPTICAL,Antenatal visit
+Iganga,HIV_CARE,Fever and headache
+Hoima,MATERNITY,Follow-up visit
+Moroto,MATERNITY,Antenatal visit
+Mukono,MATERNITY,Fever and headache
+Tororo,MATERNITY,Antenatal visit
+Iganga,HIV_CARE,Fever and headache
+Fort Portal,GENERAL,Routine check-up
+Wakiso,SURGERY,Tooth pain
+Gulu,IMMUNISATION,Eye test
+Iganga,ANTENATAL,Fever and headache
+Kasese,SURGERY,Routine check-up
+Jinja,OPTICAL,Tooth pain
+Fort Portal,HIV_CARE,Child immunisation
+Fort Portal,SURGERY,Fever and headache
+Gulu,DENTAL,Fever and headache
+Mukono,PAEDIATRICS,Routine check-up
+Lira,DENTAL,Routine check-up
+Kampala,HIV_CARE,Routine check-up
+Moroto,MENTAL_HEALTH,Antenatal visit
+Wakiso,HIV_CARE,Follow-up visit
+Tororo,ANTENATAL,Follow-up visit
+Mbale,IMMUNISATION,Routine check-up
+Wakiso,DENTAL,Eye test
+Masaka,MENTAL_HEALTH,Antenatal visit
+Mbale,OPTICAL,Routine check-up
+Soroti,MENTAL_HEALTH,Routine check-up
+Mukono,MENTAL_HEALTH,Routine check-up
+Tororo,HIV_CARE,Prescription refill
+Lira,IMMUNISATION,Routine check-up
+Kabale,PAEDIATRICS,Antenatal visit
+Mukono,GENERAL,Fever and headache
+Iganga,ANTENATAL,Routine check-up
+Tororo,GENERAL,Tooth pain
+Moroto,IMMUNISATION,Fever and headache
+Fort Portal,SURGERY,Child immunisation
+Mbale,MENTAL_HEALTH,Fever and headache
+Masindi,SURGERY,Prescription refill
+Kampala,DENTAL,Antenatal visit
+Gulu,MENTAL_HEALTH,Routine check-up
+Mbarara,OPTICAL,Eye test
+Masindi,MENTAL_HEALTH,Antenatal visit
+Busia,GENERAL,Tooth pain
+Mukono,PAEDIATRICS,Tooth pain
+Busia,GENERAL,Child immunisation
+Mbale,SURGERY,Eye test
+Arua,PAEDIATRICS,Child immunisation
+Masindi,SURGERY,Fever and headache
+Lira,MENTAL_HEALTH,Prescription refill
+Lira,IMMUNISATION,Fever and headache
+Kasese,ANTENATAL,Child immunisation
+Soroti,MENTAL_HEALTH,Antenatal visit
+Busia,MENTAL_HEALTH,Routine check-up
+Kabale,IMMUNISATION,Follow-up visit
+Kabale,DENTAL,Eye test
+Fort Portal,MENTAL_HEALTH,Tooth pain
+Wakiso,HIV_CARE,Routine check-up
+Soroti,PAEDIATRICS,Eye test
+Fort Portal,PAEDIATRICS,Child immunisation
+Kabale,OPTICAL,Eye test
+Wakiso,IMMUNISATION,Eye test
+Mbale,HIV_CARE,Tooth pain
+Hoima,PAEDIATRICS,Eye test
+Hoima,OPTICAL,Fever and headache
+Mbale,GENERAL,Eye test
+Moroto,MATERNITY,Fever and headache
+Moroto,ANTENATAL,Tooth pain
+Busia,SURGERY,Eye test
+Kampala,GENERAL,Child immunisation
+Fort Portal,OPTICAL,Follow-up visit
+Fort Portal,ANTENATAL,Fever and headache
+Kabale,IMMUNISATION,Eye test
+Kabale,HIV_CARE,Eye test
+Gulu,DENTAL,Child immunisation
+Masaka,ANTENATAL,Tooth pain
+Moroto,SURGERY,Tooth pain
+Mukono,IMMUNISATION,Tooth pain
+Masindi,SURGERY,Routine check-up
+Tororo,DENTAL,Fever and headache
+Mukono,PAEDIATRICS,Prescription refill
+Mbarara,OPTICAL,Eye test
+Masindi,MENTAL_HEALTH,Fever and headache
+Hoima,OPTICAL,Follow-up visit
+Lira,ANTENATAL,Child immunisation
+Mbale,GENERAL,Child immunisation
+Fort Portal,PAEDIATRICS,Follow-up visit
+Tororo,MENTAL_HEALTH,Eye test
+Mukono,MENTAL_HEALTH,Antenatal visit
+Kabale,SURGERY,Routine check-up
+Tororo,MATERNITY,Fever and headache
+Moroto,ANTENATAL,Follow-up visit
+Kampala,DENTAL,Prescription refill
+Mbale,DENTAL,Antenatal visit
+Arua,GENERAL,Eye test
+Moroto,ANTENATAL,Routine check-up
+Moroto,ANTENATAL,Child immunisation
+Kabale,PAEDIATRICS,Child immunisation
+Moroto,MENTAL_HEALTH,Prescription refill
+Jinja,ANTENATAL,Antenatal visit
+Iganga,SURGERY,Tooth pain
+Lira,DENTAL,Fever and headache
+Soroti,HIV_CARE,Tooth pain
+Mukono,GENERAL,Fever and headache
+Busia,MATERNITY,Prescription refill
+Busia,DENTAL,Antenatal visit
+Tororo,MENTAL_HEALTH,Antenatal visit
+Fort Portal,DENTAL,Prescription refill
+Iganga,MENTAL_HEALTH,Antenatal visit
+Masaka,MENTAL_HEALTH,Routine check-up
+Gulu,ANTENATAL,Fever and headache
+Hoima,HIV_CARE,Follow-up visit
+Jinja,OPTICAL,Child immunisation
+Busia,MENTAL_HEALTH,Child immunisation
+Kasese,PAEDIATRICS,Child immunisation
+Soroti,HIV_CARE,Prescription refill
+Busia,MATERNITY,Follow-up visit
+Mbale,PAEDIATRICS,Tooth pain
+Fort Portal,HIV_CARE,Child immunisation
+Masindi,IMMUNISATION,Eye test
+Busia,PAEDIATRICS,Eye test
+Kabale,SURGERY,Eye test
+Tororo,MENTAL_HEALTH,Child immunisation
+Hoima,PAEDIATRICS,Tooth pain
+Kampala,DENTAL,Routine check-up
+Mbarara,PAEDIATRICS,Eye test
+Mbarara,GENERAL,Child immunisation
+Iganga,SURGERY,Tooth pain
+Masindi,SURGERY,Antenatal visit
+Masaka,DENTAL,Follow-up visit
+Mbarara,MATERNITY,Eye test
+Masindi,DENTAL,Child immunisation
+Soroti,MATERNITY,Tooth pain
+Busia,PAEDIATRICS,Tooth pain
+Mbale,MATERNITY,Fever and headache
+Kabale,HIV_CARE,Tooth pain
+Moroto,MATERNITY,Follow-up visit
+Hoima,GENERAL,Child immunisation
+Masindi,ANTENATAL,Follow-up visit
+Tororo,MATERNITY,Tooth pain
+Mukono,GENERAL,Fever and headache
+Jinja,PAEDIATRICS,Fever and headache
+Tororo,PAEDIATRICS,Prescription refill
+Hoima,HIV_CARE,Tooth pain
+Kabale,MENTAL_HEALTH,Tooth pain
+Iganga,HIV_CARE,Follow-up visit
+Lira,GENERAL,Eye test
+Hoima,DENTAL,Prescription refill
+Kampala,OPTICAL,Routine check-up
+Wakiso,HIV_CARE,Tooth pain
+Masaka,SURGERY,Follow-up visit
+Hoima,MENTAL_HEALTH,Routine check-up
+Masaka,SURGERY,Prescription refill
+Mbarara,ANTENATAL,Fever and headache
+Fort Portal,MENTAL_HEALTH,Prescription refill
+Kabale,IMMUNISATION,Child immunisation
+Arua,DENTAL,Fever and headache
+Iganga,IMMUNISATION,Eye test
+Wakiso,MATERNITY,Tooth pain
+Gulu,MATERNITY,Eye test
+Mbarara,MENTAL_HEALTH,Routine check-up
+Kampala,IMMUNISATION,Prescription refill
+Lira,IMMUNISATION,Prescription refill
+Tororo,SURGERY,Tooth pain
+Moroto,GENERAL,Prescription refill
+Mbarara,MATERNITY,Routine check-up
+Iganga,SURGERY,Antenatal visit
+Kasese,MATERNITY,Routine check-up
+Hoima,MATERNITY,Child immunisation
+Mbarara,GENERAL,Routine check-up
+Kabale,MATERNITY,Prescription refill
+Mukono,ANTENATAL,Follow-up visit
+Moroto,MATERNITY,Follow-up visit
+Kasese,HIV_CARE,Prescription refill
+Masindi,PAEDIATRICS,Fever and headache
+Gulu,SURGERY,Eye test
+Moroto,OPTICAL,Follow-up visit
+Gulu,IMMUNISATION,Follow-up visit
+Fort Portal,MENTAL_HEALTH,Fever and headache
+Kampala,MENTAL_HEALTH,Antenatal visit
+Iganga,OPTICAL,Antenatal visit
+Soroti,DENTAL,Child immunisation
+Soroti,IMMUNISATION,Tooth pain
+Kampala,MENTAL_HEALTH,Routine check-up
+Mbarara,MENTAL_HEALTH,Child immunisation
+Gulu,GENERAL,Child immunisation
+Mbarara,MATERNITY,Antenatal visit
+Moroto,ANTENATAL,Eye test
+Arua,PAEDIATRICS,Tooth pain
+Mbarara,PAEDIATRICS,Fever and headache
+Hoima,MATERNITY,Child immunisation
+Mukono,DENTAL,Antenatal visit
+Gulu,OPTICAL,Prescription refill
+Arua,SURGERY,Antenatal visit
+Kabale,MATERNITY,Fever and headache
+Fort Portal,PAEDIATRICS,Prescription refill
+Tororo,HIV_CARE,Routine check-up
+Jinja,OPTICAL,Routine check-up
+Kabale,GENERAL,Prescription refill
+Mbale,GENERAL,Child immunisation
+Masaka,GENERAL,Tooth pain
+Arua,ANTENATAL,Follow-up visit
+Soroti,DENTAL,Routine check-up
+Iganga,GENERAL,Child immunisation
+Fort Portal,IMMUNISATION,Routine check-up
+Kabale,HIV_CARE,Eye test
+Fort Portal,PAEDIATRICS,Fever and headache
+Jinja,HIV_CARE,Child immunisation
+Mbarara,GENERAL,Fever and headache
+Iganga,DENTAL,Fever and headache
+Masindi,SURGERY,Routine check-up
+Tororo,HIV_CARE,Fever and headache
+Iganga,HIV_CARE,Follow-up visit
+Kabale,MENTAL_HEALTH,Child immunisation
+Gulu,MATERNITY,Follow-up visit
+Jinja,GENERAL,Prescription refill
+Fort Portal,HIV_CARE,Follow-up visit
+Gulu,GENERAL,Tooth pain
+Lira,MENTAL_HEALTH,Fever and headache
+Busia,GENERAL,Fever and headache
+Iganga,MATERNITY,Child immunisation
+Wakiso,MENTAL_HEALTH,Fever and headache
+Mbale,MATERNITY,Child immunisation
+Busia,IMMUNISATION,Routine check-up
+Hoima,MATERNITY,Antenatal visit
+Masaka,SURGERY,Fever and headache
+Busia,HIV_CARE,Follow-up visit
+Busia,DENTAL,Tooth pain
+Tororo,MENTAL_HEALTH,Eye test
+Mukono,ANTENATAL,Routine check-up
+Mukono,MATERNITY,Fever and headache
+Hoima,SURGERY,Prescription refill
+Tororo,DENTAL,Antenatal visit
+Gulu,SURGERY,Eye test
+Mbarara,DENTAL,Fever and headache
+Kasese,MENTAL_HEALTH,Routine check-up
+Tororo,PAEDIATRICS,Eye test
+Mukono,SURGERY,Antenatal visit
+Moroto,IMMUNISATION,Eye test
+Hoima,MATERNITY,Antenatal visit
+Kampala,PAEDIATRICS,Fever and headache
+Mukono,GENERAL,Prescription refill
+Busia,MATERNITY,Prescription refill
+Hoima,HIV_CARE,Routine check-up
+Moroto,SURGERY,Tooth pain
+Gulu,HIV_CARE,Follow-up visit
+Lira,IMMUNISATION,Child immunisation
+Moroto,IMMUNISATION,Eye test
+Gulu,OPTICAL,Tooth pain
+Busia,SURGERY,Routine check-up
+Tororo,HIV_CARE,Antenatal visit
+Soroti,PAEDIATRICS,Follow-up visit
+Masaka,ANTENATAL,Routine check-up
+Kasese,DENTAL,Eye test
+Iganga,ANTENATAL,Prescription refill
+Mukono,OPTICAL,Fever and headache
+Tororo,IMMUNISATION,Eye test
+Hoima,SURGERY,Prescription refill
+Hoima,GENERAL,Eye test
+Kabale,PAEDIATRICS,Routine check-up
+Lira,GENERAL,Prescription refill
+Fort Portal,GENERAL,Fever and headache
+Jinja,MENTAL_HEALTH,Follow-up visit
+Wakiso,ANTENATAL,Fever and headache
+Soroti,IMMUNISATION,Tooth pain
+Kabale,PAEDIATRICS,Eye test
+Kasese,GENERAL,Tooth pain
+Gulu,MATERNITY,Prescription refill
+Hoima,OPTICAL,Fever and headache
+Hoima,MENTAL_HEALTH,Follow-up visit
+Fort Portal,PAEDIATRICS,Follow-up visit
+Mukono,SURGERY,Eye test
+Arua,PAEDIATRICS,Fever and headache
+Soroti,MATERNITY,Prescription refill
+Gulu,MENTAL_HEALTH,Tooth pain
+Soroti,MATERNITY,Child immunisation
+Gulu,ANTENATAL,Fever and headache
+Masindi,ANTENATAL,Tooth pain
+Kampala,SURGERY,Routine check-up
+Kasese,IMMUNISATION,Child immunisation
+Fort Portal,DENTAL,Antenatal visit
+Mbarara,IMMUNISATION,Child immunisation
+Masindi,MENTAL_HEALTH,Child immunisation
+Moroto,SURGERY,Routine check-up
+Hoima,DENTAL,Eye test
+Jinja,ANTENATAL,Antenatal visit
+Iganga,MENTAL_HEALTH,Routine check-up
+Arua,OPTICAL,Routine check-up
+Kabale,DENTAL,Routine check-up
+Kasese,IMMUNISATION,Follow-up visit
+Iganga,MENTAL_HEALTH,Fever and headache
+Iganga,MENTAL_HEALTH,Tooth pain
+Arua,HIV_CARE,Tooth pain
+Jinja,PAEDIATRICS,Antenatal visit
+Kampala,HIV_CARE,Tooth pain
+Fort Portal,SURGERY,Follow-up visit
+Mukono,IMMUNISATION,Tooth pain
+Moroto,PAEDIATRICS,Antenatal visit
+Mbale,OPTICAL,Child immunisation
+Tororo,PAEDIATRICS,Prescription refill
+Jinja,IMMUNISATION,Routine check-up
+Soroti,HIV_CARE,Routine check-up
+Masaka,OPTICAL,Follow-up visit
+Tororo,MATERNITY,Tooth pain
+Soroti,ANTENATAL,Child immunisation
+Mbale,MENTAL_HEALTH,Tooth pain
+Jinja,OPTICAL,Child immunisation
+Hoima,DENTAL,Prescription refill
+Iganga,GENERAL,Follow-up visit
+Mbale,ANTENATAL,Child immunisation
+Tororo,ANTENATAL,Prescription refill
+Mbarara,PAEDIATRICS,Tooth pain
+Mbarara,HIV_CARE,Child immunisation
+Mbale,IMMUNISATION,Antenatal visit
+Busia,SURGERY,Follow-up visit
+Lira,MENTAL_HEALTH,Child immunisation
+Hoima,DENTAL,Child immunisation
+Iganga,MATERNITY,Tooth pain
+Soroti,OPTICAL,Fever and headache
+Moroto,HIV_CARE,Tooth pain
+Masindi,GENERAL,Routine check-up
+Iganga,GENERAL,Child immunisation
+Masaka,PAEDIATRICS,Routine check-up
+Soroti,DENTAL,Routine check-up
+Mbale,MATERNITY,Eye test
+Kabale,MATERNITY,Follow-up visit
+Kampala,ANTENATAL,Child immunisation
+Kampala,MENTAL_HEALTH,Routine check-up
+Busia,SURGERY,Follow-up visit
+Jinja,SURGERY,Follow-up visit
+Iganga,ANTENATAL,Fever and headache
+Gulu,GENERAL,Eye test
+Arua,OPTICAL,Prescription refill
+Hoima,MATERNITY,Eye test
+Masindi,IMMUNISATION,Routine check-up
+Masindi,MENTAL_HEALTH,Follow-up visit
+Kasese,SURGERY,Routine check-up
+Gulu,HIV_CARE,Prescription refill
+Mbarara,MENTAL_HEALTH,Routine check-up
+Jinja,MENTAL_HEALTH,Prescription refill
+Kasese,OPTICAL,Routine check-up
+Kampala,ANTENATAL,Prescription refill
+Kasese,ANTENATAL,Routine check-up
+Gulu,OPTICAL,Follow-up visit
+Kasese,DENTAL,Routine check-up
+Wakiso,GENERAL,Tooth pain
+Masindi,MATERNITY,Antenatal visit
+Masindi,MENTAL_HEALTH,Fever and headache
+Mbale,MATERNITY,Tooth pain
+Mukono,GENERAL,Eye test
+Masindi,DENTAL,Follow-up visit
+Lira,IMMUNISATION,Prescription refill
+Tororo,PAEDIATRICS,Eye test
+Jinja,IMMUNISATION,Routine check-up
+Lira,GENERAL,Antenatal visit
+Kabale,OPTICAL,Routine check-up
+Masindi,DENTAL,Tooth pain
+Busia,HIV_CARE,Antenatal visit
+Mbarara,IMMUNISATION,Eye test
+Wakiso,SURGERY,Follow-up visit
+Masindi,ANTENATAL,Fever and headache
+Kasese,GENERAL,Tooth pain
+Soroti,IMMUNISATION,Follow-up visit
+Tororo,ANTENATAL,Routine check-up
+Mbarara,PAEDIATRICS,Follow-up visit
+Soroti,SURGERY,Eye test
+Wakiso,MATERNITY,Follow-up visit
+Fort Portal,DENTAL,Tooth pain
+Mbarara,GENERAL,Child immunisation
+Iganga,SURGERY,Follow-up visit
+Gulu,GENERAL,Fever and headache
+Mukono,OPTICAL,Routine check-up
+Masaka,MENTAL_HEALTH,Follow-up visit
+Wakiso,DENTAL,Tooth pain
+Masindi,GENERAL,Eye test
+Hoima,HIV_CARE,Fever and headache
+Masindi,ANTENATAL,Follow-up visit
+Soroti,SURGERY,Prescription refill
+Kampala,DENTAL,Prescription refill
+Lira,MENTAL_HEALTH,Tooth pain
+Iganga,HIV_CARE,Routine check-up
+Fort Portal,GENERAL,Eye test
+Lira,MATERNITY,Antenatal visit
+Fort Portal,MENTAL_HEALTH,Tooth pain
+Iganga,OPTICAL,Prescription refill
+Kampala,SURGERY,Eye test
+Wakiso,MATERNITY,Prescription refill
+Mbarara,HIV_CARE,Child immunisation
+Hoima,MATERNITY,Follow-up visit
+Arua,HIV_CARE,Child immunisation
+Wakiso,ANTENATAL,Antenatal visit
+Iganga,SURGERY,Tooth pain
+Mukono,SURGERY,Eye test
+Arua,DENTAL,Routine check-up
+Jinja,DENTAL,Child immunisation
+Masaka,SURGERY,Eye test
+Jinja,MENTAL_HEALTH,Antenatal visit
+Kabale,DENTAL,Tooth pain
+Wakiso,GENERAL,Eye test
+Busia,SURGERY,Prescription refill
+Fort Portal,SURGERY,Antenatal visit
+Busia,MATERNITY,Follow-up visit
+Lira,PAEDIATRICS,Child immunisation
+Kasese,MENTAL_HEALTH,Prescription refill
+Mbale,GENERAL,Follow-up visit
+Mukono,OPTICAL,Routine check-up
+Moroto,PAEDIATRICS,Prescription refill
+Moroto,HIV_CARE,Routine check-up
+Mbale,MATERNITY,Follow-up visit
+Mukono,MENTAL_HEALTH,Tooth pain
+Mbarara,PAEDIATRICS,Tooth pain
+Masindi,ANTENATAL,Antenatal visit
+Masindi,MENTAL_HEALTH,Tooth pain
+Mukono,OPTICAL,Antenatal visit
+Arua,MATERNITY,Antenatal visit
+Masindi,MENTAL_HEALTH,Child immunisation
+Jinja,DENTAL,Child immunisation
+Wakiso,IMMUNISATION,Antenatal visit
+Lira,MATERNITY,Antenatal visit
+Soroti,ANTENATAL,Child immunisation
+Busia,HIV_CARE,Fever and headache
+Masindi,MENTAL_HEALTH,Prescription refill
+Wakiso,IMMUNISATION,Tooth pain
+Gulu,ANTENATAL,Routine check-up
+Mukono,GENERAL,Child immunisation
+Moroto,MENTAL_HEALTH,Fever and headache
+Soroti,DENTAL,Routine check-up
+Hoima,ANTENATAL,Follow-up visit
+Mbarara,IMMUNISATION,Follow-up visit
+Hoima,HIV_CARE,Tooth pain
+Kampala,DENTAL,Fever and headache
+Kabale,SURGERY,Antenatal visit
+Lira,GENERAL,Routine check-up
+Kasese,MENTAL_HEALTH,Routine check-up
+Fort Portal,OPTICAL,Prescription refill
+Tororo,PAEDIATRICS,Fever and headache
+Lira,MATERNITY,Follow-up visit
+Kabale,IMMUNISATION,Antenatal visit
+Gulu,PAEDIATRICS,Child immunisation
+Lira,OPTICAL,Fever and headache
+Kasese,DENTAL,Antenatal visit
+Moroto,PAEDIATRICS,Fever and headache
+Kabale,OPTICAL,Tooth pain
+Tororo,DENTAL,Fever and headache
+Wakiso,ANTENATAL,Tooth pain
+Busia,DENTAL,Eye test
+Fort Portal,MENTAL_HEALTH,Antenatal visit
+Soroti,PAEDIATRICS,Eye test
+Kasese,HIV_CARE,Prescription refill
+Jinja,HIV_CARE,Child immunisation
+Mbale,DENTAL,Prescription refill
+Tororo,PAEDIATRICS,Follow-up visit
+Mukono,DENTAL,Prescription refill
+Moroto,OPTICAL,Routine check-up
+Hoima,MENTAL_HEALTH,Prescription refill
+Iganga,HIV_CARE,Antenatal visit
+Jinja,IMMUNISATION,Follow-up visit
+Kampala,PAEDIATRICS,Eye test
+Hoima,GENERAL,Antenatal visit
+Hoima,ANTENATAL,Child immunisation
+Mukono,PAEDIATRICS,Fever and headache
+Busia,ANTENATAL,Eye test
+Mbale,DENTAL,Antenatal visit
+Kampala,IMMUNISATION,Follow-up visit
+Fort Portal,PAEDIATRICS,Routine check-up
+Tororo,DENTAL,Routine check-up
+Masaka,IMMUNISATION,Routine check-up
+Jinja,PAEDIATRICS,Routine check-up
+Hoima,SURGERY,Antenatal visit
+Kabale,SURGERY,Routine check-up
+Soroti,SURGERY,Antenatal visit
+Mbarara,IMMUNISATION,Antenatal visit
+Busia,MATERNITY,Prescription refill
+Kabale,ANTENATAL,Follow-up visit
+Gulu,ANTENATAL,Eye test
+Tororo,GENERAL,Antenatal visit
+Kampala,SURGERY,Prescription refill
+Kampala,IMMUNISATION,Follow-up visit
+Arua,IMMUNISATION,Child immunisation
+Lira,ANTENATAL,Antenatal visit
+Gulu,HIV_CARE,Fever and headache
+Lira,MATERNITY,Follow-up visit
+Arua,IMMUNISATION,Prescription refill
+Fort Portal,MATERNITY,Child immunisation
+Kasese,IMMUNISATION,Fever and headache
+Hoima,SURGERY,Prescription refill
+Masindi,DENTAL,Antenatal visit
+Soroti,DENTAL,Prescription refill
+Soroti,PAEDIATRICS,Antenatal visit
+Masaka,ANTENATAL,Child immunisation
+Mbale,HIV_CARE,Fever and headache
+Busia,SURGERY,Tooth pain
+Mukono,HIV_CARE,Prescription refill
+Kampala,ANTENATAL,Tooth pain
+Fort Portal,GENERAL,Child immunisation
+Hoima,PAEDIATRICS,Antenatal visit
+Moroto,OPTICAL,Prescription refill
+Kampala,HIV_CARE,Routine check-up
+Moroto,ANTENATAL,Routine check-up
+Iganga,DENTAL,Eye test
+Lira,IMMUNISATION,Routine check-up
+Soroti,HIV_CARE,Fever and headache
+Fort Portal,MATERNITY,Prescription refill
+Masaka,ANTENATAL,Routine check-up
+Moroto,DENTAL,Child immunisation
+Hoima,PAEDIATRICS,Tooth pain
+Masaka,MENTAL_HEALTH,Antenatal visit
+Fort Portal,DENTAL,Child immunisation
+Mbale,PAEDIATRICS,Fever and headache
+Tororo,SURGERY,Routine check-up
+Kasese,IMMUNISATION,Prescription refill
+Busia,OPTICAL,Fever and headache
+Iganga,OPTICAL,Prescription refill
+Iganga,HIV_CARE,Follow-up visit
+Soroti,OPTICAL,Tooth pain
+Tororo,GENERAL,Prescription refill
+Busia,GENERAL,Antenatal visit
+Gulu,OPTICAL,Follow-up visit
+Mbarara,HIV_CARE,Tooth pain
+Lira,GENERAL,Child immunisation
+Kampala,DENTAL,Routine check-up
+Mbarara,MENTAL_HEALTH,Fever and headache
+Kabale,SURGERY,Tooth pain
+Hoima,PAEDIATRICS,Child immunisation
+Jinja,GENERAL,Eye test
+Busia,GENERAL,Follow-up visit
+Mbale,MATERNITY,Eye test
+Gulu,MATERNITY,Eye test
+Gulu,SURGERY,Eye test
+Moroto,OPTICAL,Antenatal visit
+Iganga,HIV_CARE,Tooth pain
+Busia,PAEDIATRICS,Antenatal visit
+Hoima,GENERAL,Prescription refill
+Wakiso,MATERNITY,Fever and headache
+Jinja,ANTENATAL,Routine check-up
+Kasese,HIV_CARE,Routine check-up
+Mbale,SURGERY,Antenatal visit
+Arua,IMMUNISATION,Child immunisation
+Mbale,HIV_CARE,Follow-up visit
+Hoima,GENERAL,Routine check-up
+Iganga,DENTAL,Fever and headache
+Hoima,MATERNITY,Antenatal visit
+Moroto,IMMUNISATION,Antenatal visit
+Masindi,HIV_CARE,Eye test
+Iganga,SURGERY,Eye test
+Moroto,DENTAL,Tooth pain
+Gulu,SURGERY,Tooth pain
+Kampala,SURGERY,Prescription refill
+Mukono,SURGERY,Routine check-up
+Hoima,MATERNITY,Fever and headache
+Mbarara,HIV_CARE,Antenatal visit
+Mukono,OPTICAL,Eye test
+Iganga,OPTICAL,Child immunisation
+Hoima,DENTAL,Eye test
+Mukono,MENTAL_HEALTH,Fever and headache
+Kampala,HIV_CARE,Routine check-up
+Moroto,GENERAL,Fever and headache
+Kasese,PAEDIATRICS,Eye test
+Wakiso,MATERNITY,Prescription refill
+Hoima,GENERAL,Eye test
+Mukono,ANTENATAL,Child immunisation
+Mbarara,MENTAL_HEALTH,Eye test
+Busia,HIV_CARE,Prescription refill
+Iganga,SURGERY,Fever and headache
+Gulu,MATERNITY,Tooth pain
+Gulu,IMMUNISATION,Prescription refill
+Jinja,GENERAL,Eye test
+Busia,OPTICAL,Routine check-up
+Mukono,DENTAL,Tooth pain
+Gulu,HIV_CARE,Prescription refill
+Mbarara,OPTICAL,Fever and headache
+Gulu,OPTICAL,Follow-up visit
+Soroti,SURGERY,Fever and headache
+Moroto,SURGERY,Follow-up visit
+Wakiso,GENERAL,Follow-up visit
+Mbarara,OPTICAL,Eye test
+Arua,HIV_CARE,Eye test
+Lira,PAEDIATRICS,Child immunisation
+Soroti,ANTENATAL,Eye test
+Soroti,IMMUNISATION,Prescription refill
+Wakiso,OPTICAL,Antenatal visit
+Fort Portal,IMMUNISATION,Eye test
+Hoima,PAEDIATRICS,Follow-up visit
+Kabale,IMMUNISATION,Child immunisation
+Moroto,MENTAL_HEALTH,Tooth pain
+Jinja,IMMUNISATION,Prescription refill
+Busia,MATERNITY,Prescription refill
+Kampala,IMMUNISATION,Prescription refill
+Tororo,OPTICAL,Routine check-up
+Fort Portal,IMMUNISATION,Tooth pain
+Moroto,MENTAL_HEALTH,Antenatal visit
+Masindi,DENTAL,Fever and headache
+Iganga,ANTENATAL,Follow-up visit
+Lira,IMMUNISATION,Eye test
+Mbale,GENERAL,Prescription refill
+Soroti,PAEDIATRICS,Prescription refill
+Mukono,MENTAL_HEALTH,Routine check-up
+Masindi,MATERNITY,Eye test
+Kabale,OPTICAL,Child immunisation
+Mbale,GENERAL,Eye test
+Kampala,MENTAL_HEALTH,Antenatal visit
+Mukono,MENTAL_HEALTH,Antenatal visit
+Arua,OPTICAL,Prescription refill
+Masaka,PAEDIATRICS,Fever and headache
+Mbale,PAEDIATRICS,Child immunisation
+Moroto,OPTICAL,Follow-up visit
+Mbale,IMMUNISATION,Follow-up visit
+Iganga,PAEDIATRICS,Child immunisation
+Moroto,MATERNITY,Antenatal visit
+Moroto,ANTENATAL,Fever and headache
+Hoima,MENTAL_HEALTH,Child immunisation
+Mbarara,MATERNITY,Eye test
+Fort Portal,IMMUNISATION,Tooth pain
+Kampala,ANTENATAL,Routine check-up
+Busia,GENERAL,Prescription refill
+Wakiso,MENTAL_HEALTH,Fever and headache
+Mukono,DENTAL,Follow-up visit
+Iganga,ANTENATAL,Fever and headache
+Kabale,MATERNITY,Follow-up visit
+Kasese,MENTAL_HEALTH,Fever and headache
+Tororo,OPTICAL,Follow-up visit
+Jinja,HIV_CARE,Tooth pain
+Mbale,HIV_CARE,Child immunisation
+Kampala,HIV_CARE,Fever and headache
+Masindi,MATERNITY,Child immunisation
+Moroto,IMMUNISATION,Tooth pain
+Kampala,OPTICAL,Child immunisation
+Moroto,GENERAL,Routine check-up
+Lira,SURGERY,Eye test
+Mbarara,MATERNITY,Eye test
+Mbale,SURGERY,Antenatal visit
+Masaka,DENTAL,Fever and headache
+Kampala,HIV_CARE,Routine check-up
+Moroto,DENTAL,Routine check-up
+Hoima,ANTENATAL,Fever and headache
+Moroto,MENTAL_HEALTH,Prescription refill
+Tororo,HIV_CARE,Child immunisation
+Fort Portal,IMMUNISATION,Fever and headache
+Mbale,IMMUNISATION,Child immunisation
+Kampala,SURGERY,Antenatal visit
+Hoima,SURGERY,Fever and headache
+Lira,SURGERY,Child immunisation
+Kabale,PAEDIATRICS,Prescription refill
+Hoima,ANTENATAL,Routine check-up
+Iganga,MATERNITY,Tooth pain
+Mbarara,MENTAL_HEALTH,Routine check-up
+Lira,SURGERY,Eye test
+Soroti,MATERNITY,Fever and headache
+Hoima,ANTENATAL,Fever and headache
+Gulu,HIV_CARE,Fever and headache
+Moroto,ANTENATAL,Antenatal visit
+Iganga,ANTENATAL,Follow-up visit
+Mukono,MENTAL_HEALTH,Antenatal visit
+Tororo,GENERAL,Eye test
+Mbarara,PAEDIATRICS,Antenatal visit
+Mbarara,PAEDIATRICS,Antenatal visit
+Jinja,OPTICAL,Prescription refill
+Hoima,MATERNITY,Fever and headache
+Mbarara,HIV_CARE,Tooth pain
+Mbarara,OPTICAL,Tooth pain
+Soroti,DENTAL,Fever and headache
+Mbarara,HIV_CARE,Antenatal visit
+Kabale,MATERNITY,Eye test
+Masindi,MENTAL_HEALTH,Child immunisation
+Hoima,IMMUNISATION,Antenatal visit
+Gulu,IMMUNISATION,Follow-up visit
+Fort Portal,SURGERY,Child immunisation
+Lira,MENTAL_HEALTH,Routine check-up
+Mukono,PAEDIATRICS,Prescription refill
+Tororo,HIV_CARE,Prescription refill
+Masindi,HIV_CARE,Routine check-up
+Moroto,HIV_CARE,Follow-up visit
+Kabale,SURGERY,Child immunisation
+Soroti,DENTAL,Tooth pain
+Kampala,ANTENATAL,Child immunisation
+Wakiso,GENERAL,Fever and headache
+Kasese,HIV_CARE,Prescription refill
+Kabale,ANTENATAL,Antenatal visit
+Gulu,OPTICAL,Antenatal visit
+Soroti,MATERNITY,Follow-up visit
+Arua,GENERAL,Tooth pain
+Moroto,ANTENATAL,Routine check-up
+Kabale,MENTAL_HEALTH,Child immunisation
+Lira,PAEDIATRICS,Eye test
+Moroto,PAEDIATRICS,Fever and headache
+Masaka,PAEDIATRICS,Routine check-up
+Masindi,DENTAL,Child immunisation
+Hoima,MENTAL_HEALTH,Prescription refill
+Kabale,SURGERY,Fever and headache
+Soroti,HIV_CARE,Fever and headache
+Tororo,MENTAL_HEALTH,Eye test
+Soroti,MENTAL_HEALTH,Antenatal visit
+Masaka,SURGERY,Routine check-up
+Kasese,ANTENATAL,Child immunisation
+Tororo,HIV_CARE,Child immunisation
+Mukono,MATERNITY,Follow-up visit
+Mukono,IMMUNISATION,Fever and headache
+Mukono,MATERNITY,Eye test
+Wakiso,MATERNITY,Routine check-up
+Kampala,OPTICAL,Fever and headache
+Kabale,OPTICAL,Child immunisation
+Mbale,MENTAL_HEALTH,Antenatal visit
+Kabale,GENERAL,Prescription refill
+Jinja,OPTICAL,Prescription refill
+Soroti,ANTENATAL,Fever and headache
+Kampala,SURGERY,Antenatal visit
+Mbale,MATERNITY,Prescription refill
+Mbale,MENTAL_HEALTH,Follow-up visit
+Lira,GENERAL,Antenatal visit
+Iganga,GENERAL,Eye test
+Moroto,PAEDIATRICS,Fever and headache
+Lira,ANTENATAL,Tooth pain
+Lira,PAEDIATRICS,Eye test
+Jinja,MATERNITY,Routine check-up
+Gulu,MENTAL_HEALTH,Eye test
+Soroti,OPTICAL,Prescription refill
+Kasese,HIV_CARE,Eye test
+Kasese,MATERNITY,Child immunisation
+Fort Portal,ANTENATAL,Fever and headache
+Wakiso,MENTAL_HEALTH,Prescription refill
+Busia,DENTAL,Fever and headache
+Kampala,ANTENATAL,Tooth pain
+Moroto,OPTICAL,Eye test
+Moroto,GENERAL,Eye test
+Busia,HIV_CARE,Follow-up visit
+Hoima,MENTAL_HEALTH,Prescription refill
+Mbarara,ANTENATAL,Fever and headache
+Jinja,ANTENATAL,Child immunisation
+Lira,ANTENATAL,Tooth pain
+Hoima,ANTENATAL,Tooth pain
+Masindi,MATERNITY,Prescription refill
+Arua,PAEDIATRICS,Follow-up visit
+Fort Portal,GENERAL,Eye test
+Mukono,MENTAL_HEALTH,Fever and headache
+Wakiso,MENTAL_HEALTH,Follow-up visit
+Soroti,IMMUNISATION,Follow-up visit
+Soroti,MATERNITY,Follow-up visit
+Mukono,PAEDIATRICS,Prescription refill
+Kabale,GENERAL,Prescription refill
+Masindi,MENTAL_HEALTH,Routine check-up
+Mbale,HIV_CARE,Child immunisation
+Mbarara,HIV_CARE,Follow-up visit
+Iganga,PAEDIATRICS,Prescription refill
+Mukono,ANTENATAL,Eye test
+Iganga,IMMUNISATION,Child immunisation
+Mbarara,ANTENATAL,Prescription refill
+Fort Portal,PAEDIATRICS,Routine check-up
+Kasese,MENTAL_HEALTH,Child immunisation
+Tororo,IMMUNISATION,Child immunisation
+Fort Portal,SURGERY,Eye test
+Mukono,MENTAL_HEALTH,Antenatal visit
+Jinja,MATERNITY,Prescription refill
+Mbarara,OPTICAL,Routine check-up
+Kabale,IMMUNISATION,Antenatal visit
+Arua,DENTAL,Child immunisation
+Arua,MENTAL_HEALTH,Prescription refill
+Masaka,HIV_CARE,Routine check-up
+Fort Portal,HIV_CARE,Antenatal visit
+Hoima,MENTAL_HEALTH,Child immunisation
+Gulu,MENTAL_HEALTH,Follow-up visit
+Gulu,MENTAL_HEALTH,Follow-up visit
+Wakiso,SURGERY,Child immunisation
+Arua,GENERAL,Tooth pain
+Busia,PAEDIATRICS,Antenatal visit
+Iganga,MENTAL_HEALTH,Antenatal visit
+Mbale,MENTAL_HEALTH,Child immunisation
+Soroti,SURGERY,Follow-up visit
+Busia,HIV_CARE,Follow-up visit
+Masindi,HIV_CARE,Tooth pain
+Wakiso,PAEDIATRICS,Child immunisation
+Masindi,MATERNITY,Prescription refill
+Kasese,GENERAL,Eye test
+Wakiso,MATERNITY,Child immunisation
+Kampala,SURGERY,Tooth pain
+Tororo,MENTAL_HEALTH,Fever and headache
+Masaka,SURGERY,Follow-up visit
+Mbarara,OPTICAL,Antenatal visit
+Fort Portal,DENTAL,Follow-up visit
+Busia,MATERNITY,Antenatal visit
+Busia,DENTAL,Fever and headache
+Masindi,PAEDIATRICS,Prescription refill
+Kasese,MATERNITY,Child immunisation
+Arua,MENTAL_HEALTH,Tooth pain
+Kasese,GENERAL,Fever and headache
+Fort Portal,MATERNITY,Eye test
+Kasese,PAEDIATRICS,Child immunisation
+Kampala,OPTICAL,Tooth pain
+Masindi,IMMUNISATION,Routine check-up
+Soroti,SURGERY,Tooth pain
+Busia,OPTICAL,Tooth pain
+Soroti,MENTAL_HEALTH,Fever and headache
+Kasese,PAEDIATRICS,Child immunisation
+Masaka,OPTICAL,Tooth pain
+Arua,MENTAL_HEALTH,Child immunisation
+Kampala,GENERAL,Fever and headache
+Masindi,IMMUNISATION,Antenatal visit
+Moroto,PAEDIATRICS,Fever and headache
+Arua,IMMUNISATION,Prescription refill
+Kampala,GENERAL,Eye test
+Fort Portal,ANTENATAL,Eye test
+Wakiso,DENTAL,Child immunisation
+Masindi,IMMUNISATION,Antenatal visit
+Masindi,SURGERY,Child immunisation
+Fort Portal,IMMUNISATION,Follow-up visit
+Gulu,MENTAL_HEALTH,Eye test
+Kampala,OPTICAL,Fever and headache
+Masaka,PAEDIATRICS,Routine check-up
+Mbale,ANTENATAL,Prescription refill
+Moroto,OPTICAL,Tooth pain
+Mukono,PAEDIATRICS,Tooth pain
+Tororo,OPTICAL,Routine check-up
+Mbarara,SURGERY,Fever and headache
+Lira,DENTAL,Routine check-up
+Mukono,SURGERY,Fever and headache
+Soroti,IMMUNISATION,Fever and headache
+Masindi,GENERAL,Fever and headache
+Hoima,SURGERY,Eye test
+Mbale,OPTICAL,Follow-up visit
+Mbale,SURGERY,Child immunisation
+Masindi,PAEDIATRICS,Follow-up visit
+Kasese,MATERNITY,Follow-up visit
+Mukono,IMMUNISATION,Follow-up visit
+Kampala,MATERNITY,Routine check-up
+Wakiso,IMMUNISATION,Tooth pain
+Masaka,GENERAL,Child immunisation
+Fort Portal,ANTENATAL,Follow-up visit
+Gulu,HIV_CARE,Child immunisation
+Fort Portal,DENTAL,Eye test
+Busia,MATERNITY,Eye test
+Mbarara,HIV_CARE,Fever and headache
+Kabale,MATERNITY,Follow-up visit
+Kasese,IMMUNISATION,Fever and headache
+Mbale,SURGERY,Prescription refill
+Busia,IMMUNISATION,Fever and headache
+Kampala,IMMUNISATION,Prescription refill
+Kampala,PAEDIATRICS,Antenatal visit
+Soroti,HIV_CARE,Prescription refill
+Gulu,IMMUNISATION,Fever and headache
+Iganga,HIV_CARE,Antenatal visit
+Kabale,ANTENATAL,Fever and headache
+Hoima,MATERNITY,Routine check-up
+Masaka,MENTAL_HEALTH,Eye test
+Fort Portal,PAEDIATRICS,Prescription refill
+Kabale,GENERAL,Fever and headache
+Wakiso,GENERAL,Follow-up visit
+Masaka,ANTENATAL,Follow-up visit
+Masaka,OPTICAL,Tooth pain
+Gulu,GENERAL,Follow-up visit
+Kampala,HIV_CARE,Antenatal visit
+Iganga,MENTAL_HEALTH,Follow-up visit
+Moroto,GENERAL,Fever and headache
+Kabale,MENTAL_HEALTH,Eye test
+Lira,HIV_CARE,Routine check-up
+Jinja,SURGERY,Prescription refill
+Masindi,ANTENATAL,Antenatal visit
+Kabale,HIV_CARE,Prescription refill
+Jinja,IMMUNISATION,Follow-up visit
+Arua,GENERAL,Antenatal visit
+Gulu,HIV_CARE,Antenatal visit
+Masaka,GENERAL,Routine check-up
+Soroti,ANTENATAL,Routine check-up
+Kasese,HIV_CARE,Routine check-up
+Iganga,HIV_CARE,Tooth pain
+Busia,IMMUNISATION,Prescription refill
+Busia,PAEDIATRICS,Fever and headache
+Hoima,MATERNITY,Eye test
+Masindi,MENTAL_HEALTH,Routine check-up
+Masindi,OPTICAL,Antenatal visit
+Busia,ANTENATAL,Fever and headache
+Fort Portal,IMMUNISATION,Prescription refill
+Gulu,PAEDIATRICS,Prescription refill
+Masaka,ANTENATAL,Child immunisation
+Hoima,IMMUNISATION,Follow-up visit
+Fort Portal,MENTAL_HEALTH,Tooth pain
+Iganga,GENERAL,Eye test
+Masaka,MENTAL_HEALTH,Child immunisation
+Gulu,IMMUNISATION,Child immunisation
+Hoima,DENTAL,Routine check-up
+Busia,SURGERY,Child immunisation
+Kasese,ANTENATAL,Follow-up visit
+Lira,MENTAL_HEALTH,Antenatal visit
+Kampala,IMMUNISATION,Antenatal visit
+Kampala,HIV_CARE,Routine check-up
+Kasese,DENTAL,Tooth pain
+Hoima,MATERNITY,Antenatal visit
+Wakiso,ANTENATAL,Follow-up visit
+Kasese,IMMUNISATION,Eye test
+Hoima,OPTICAL,Prescription refill
+Hoima,OPTICAL,Routine check-up
+Hoima,HIV_CARE,Follow-up visit
+Fort Portal,DENTAL,Fever and headache
+Kasese,PAEDIATRICS,Routine check-up
+Hoima,SURGERY,Antenatal visit
+Fort Portal,PAEDIATRICS,Fever and headache
+Arua,MENTAL_HEALTH,Child immunisation
+Moroto,HIV_CARE,Tooth pain
+Mbale,GENERAL,Fever and headache
+Gulu,DENTAL,Follow-up visit
+Jinja,PAEDIATRICS,Child immunisation
+Hoima,GENERAL,Fever and headache
+Kabale,PAEDIATRICS,Antenatal visit
+Iganga,OPTICAL,Fever and headache
+Mukono,IMMUNISATION,Child immunisation
+Masaka,HIV_CARE,Tooth pain
+Kabale,IMMUNISATION,Follow-up visit
+Kampala,HIV_CARE,Routine check-up
+Moroto,DENTAL,Fever and headache
+Tororo,GENERAL,Tooth pain
+Moroto,GENERAL,Child immunisation
+Masaka,IMMUNISATION,Eye test
+Busia,MENTAL_HEALTH,Eye test
+Tororo,ANTENATAL,Routine check-up
+Mbarara,MENTAL_HEALTH,Tooth pain
+Tororo,SURGERY,Fever and headache
+Arua,HIV_CARE,Fever and headache
+Hoima,PAEDIATRICS,Child immunisation
+Soroti,OPTICAL,Follow-up visit
+Fort Portal,IMMUNISATION,Eye test
+Fort Portal,SURGERY,Child immunisation
+Wakiso,OPTICAL,Antenatal visit
+Busia,OPTICAL,Follow-up visit
+Iganga,MATERNITY,Routine check-up
+Fort Portal,DENTAL,Eye test
+Kasese,MATERNITY,Prescription refill
+Kampala,DENTAL,Eye test
+Masindi,DENTAL,Tooth pain
+Lira,DENTAL,Antenatal visit
+Gulu,MENTAL_HEALTH,Prescription refill
+Gulu,PAEDIATRICS,Fever and headache
+Soroti,SURGERY,Prescription refill
+Mbarara,MENTAL_HEALTH,Eye test
+Masindi,HIV_CARE,Child immunisation
+Masaka,OPTICAL,Child immunisation
+Mbale,GENERAL,Antenatal visit
+Lira,IMMUNISATION,Eye test
+Mbale,MENTAL_HEALTH,Tooth pain
+Busia,HIV_CARE,Child immunisation
+Arua,MATERNITY,Fever and headache
+Jinja,HIV_CARE,Fever and headache
+Kampala,MATERNITY,Fever and headache
+Hoima,PAEDIATRICS,Tooth pain
+Busia,IMMUNISATION,Tooth pain
+Mbale,ANTENATAL,Antenatal visit
+Kabale,SURGERY,Prescription refill
+Moroto,MENTAL_HEALTH,Follow-up visit
+Lira,DENTAL,Fever and headache
+Mukono,HIV_CARE,Fever and headache
+Kabale,ANTENATAL,Child immunisation
+Lira,DENTAL,Eye test
+Mbarara,PAEDIATRICS,Tooth pain
+Fort Portal,SURGERY,Tooth pain
+Tororo,ANTENATAL,Eye test
+Kabale,SURGERY,Routine check-up
+Lira,SURGERY,Prescription refill
+Gulu,DENTAL,Child immunisation
+Kampala,MENTAL_HEALTH,Follow-up visit
+Soroti,HIV_CARE,Tooth pain
+Lira,ANTENATAL,Follow-up visit
+Busia,IMMUNISATION,Follow-up visit
+Masaka,DENTAL,Antenatal visit
+Lira,ANTENATAL,Prescription refill
+Jinja,DENTAL,Eye test
+Busia,PAEDIATRICS,Antenatal visit
+Wakiso,MATERNITY,Antenatal visit
+Lira,HIV_CARE,Follow-up visit
+Hoima,DENTAL,Eye test
+Wakiso,OPTICAL,Fever and headache
+Kabale,MATERNITY,Routine check-up
+Kabale,ANTENATAL,Child immunisation
+Fort Portal,SURGERY,Child immunisation
+Masindi,DENTAL,Follow-up visit
+Jinja,ANTENATAL,Routine check-up
+Mbarara,SURGERY,Child immunisation
+Hoima,MENTAL_HEALTH,Follow-up visit
+Hoima,SURGERY,Prescription refill
+Kabale,IMMUNISATION,Tooth pain
+Iganga,IMMUNISATION,Child immunisation
+Fort Portal,SURGERY,Follow-up visit
+Fort Portal,OPTICAL,Follow-up visit
+Jinja,SURGERY,Tooth pain
+Moroto,SURGERY,Routine check-up
+Moroto,ANTENATAL,Prescription refill
+Mukono,SURGERY,Child immunisation
+Lira,DENTAL,Child immunisation
+Mbarara,OPTICAL,Tooth pain
+Busia,GENERAL,Eye test
+Jinja,ANTENATAL,Fever and headache
+Soroti,HIV_CARE,Antenatal visit
+Kampala,HIV_CARE,Prescription refill
+Jinja,PAEDIATRICS,Eye test
+Mbarara,MATERNITY,Routine check-up
+Arua,PAEDIATRICS,Prescription refill
+Iganga,OPTICAL,Tooth pain
+Busia,OPTICAL,Routine check-up
+Lira,HIV_CARE,Antenatal visit
+Wakiso,SURGERY,Antenatal visit
+Busia,GENERAL,Eye test
+Jinja,IMMUNISATION,Eye test
+Busia,GENERAL,Antenatal visit
+Mukono,ANTENATAL,Eye test
+Fort Portal,IMMUNISATION,Fever and headache
+Masindi,MENTAL_HEALTH,Fever and headache
+Mbale,OPTICAL,Fever and headache
+Lira,GENERAL,Follow-up visit
+Tororo,OPTICAL,Eye test
+Kampala,SURGERY,Follow-up visit
+Mbarara,MENTAL_HEALTH,Routine check-up
+Busia,ANTENATAL,Child immunisation
+Masindi,MATERNITY,Routine check-up
+Moroto,PAEDIATRICS,Tooth pain
+Fort Portal,OPTICAL,Child immunisation
+Kampala,GENERAL,Routine check-up
+Kampala,SURGERY,Eye test
+Kasese,HIV_CARE,Antenatal visit
+Mbarara,GENERAL,Routine check-up
+Mbale,IMMUNISATION,Child immunisation
+Lira,DENTAL,Child immunisation
+Kampala,ANTENATAL,Routine check-up
+Hoima,MATERNITY,Child immunisation
+Moroto,HIV_CARE,Tooth pain
+Jinja,GENERAL,Follow-up visit
+Wakiso,ANTENATAL,Prescription refill
+Kabale,SURGERY,Follow-up visit
+Wakiso,GENERAL,Fever and headache
+Soroti,MENTAL_HEALTH,Child immunisation
+Kabale,HIV_CARE,Antenatal visit
+Soroti,MENTAL_HEALTH,Child immunisation
+Wakiso,SURGERY,Antenatal visit
+Lira,HIV_CARE,Fever and headache
+Kasese,DENTAL,Child immunisation
+Hoima,MATERNITY,Tooth pain
+Kasese,HIV_CARE,Follow-up visit
+Soroti,MENTAL_HEALTH,Antenatal visit
+Moroto,MENTAL_HEALTH,Tooth pain
+Jinja,OPTICAL,Fever and headache
+Wakiso,ANTENATAL,Eye test
+Kampala,MATERNITY,Eye test
+Masindi,SURGERY,Fever and headache
+Busia,HIV_CARE,Tooth pain
+Kampala,MATERNITY,Antenatal visit
+Gulu,HIV_CARE,Tooth pain
+Jinja,SURGERY,Routine check-up
+Kabale,OPTICAL,Antenatal visit
+Gulu,IMMUNISATION,Child immunisation
+Busia,IMMUNISATION,Antenatal visit
+Kasese,MENTAL_HEALTH,Prescription refill
+Tororo,IMMUNISATION,Eye test
+Mbale,OPTICAL,Child immunisation
+Lira,IMMUNISATION,Follow-up visit
+Tororo,MENTAL_HEALTH,Antenatal visit
+Wakiso,GENERAL,Tooth pain
+Iganga,GENERAL,Tooth pain
+Moroto,OPTICAL,Routine check-up
+Kasese,HIV_CARE,Child immunisation
+Lira,MATERNITY,Fever and headache
+Soroti,SURGERY,Child immunisation
+Gulu,HIV_CARE,Follow-up visit
+Kampala,ANTENATAL,Prescription refill
+Soroti,MATERNITY,Fever and headache
+Jinja,DENTAL,Fever and headache
+Iganga,HIV_CARE,Prescription refill
+Mukono,ANTENATAL,Eye test
+Moroto,DENTAL,Antenatal visit
+Hoima,SURGERY,Tooth pain
+Jinja,SURGERY,Fever and headache
+Iganga,MATERNITY,Fever and headache
+Kasese,GENERAL,Follow-up visit
+Mukono,OPTICAL,Tooth pain
+Masindi,SURGERY,Routine check-up
+Moroto,OPTICAL,Routine check-up
+Jinja,MATERNITY,Eye test
+Fort Portal,MENTAL_HEALTH,Prescription refill
+Masaka,OPTICAL,Routine check-up
+Mbarara,MATERNITY,Follow-up visit
+Iganga,ANTENATAL,Routine check-up
+Gulu,MENTAL_HEALTH,Tooth pain
+Masindi,OPTICAL,Antenatal visit
+Hoima,PAEDIATRICS,Prescription refill
+Lira,MENTAL_HEALTH,Fever and headache
+Mukono,IMMUNISATION,Eye test
+Hoima,OPTICAL,Follow-up visit
+Busia,GENERAL,Eye test
+Kampala,MATERNITY,Tooth pain
+Busia,MENTAL_HEALTH,Prescription refill
+Gulu,SURGERY,Tooth pain
+Masaka,GENERAL,Follow-up visit
+Mbale,SURGERY,Tooth pain
+Masaka,PAEDIATRICS,Prescription refill
+Masaka,GENERAL,Routine check-up
+Fort Portal,IMMUNISATION,Tooth pain
+Tororo,HIV_CARE,Tooth pain
+Mbale,OPTICAL,Child immunisation
+Fort Portal,MENTAL_HEALTH,Tooth pain
+Gulu,HIV_CARE,Eye test
+Kasese,ANTENATAL,Routine check-up
+Jinja,DENTAL,Follow-up visit
+Fort Portal,GENERAL,Eye test
+Kasese,PAEDIATRICS,Eye test
+Arua,MENTAL_HEALTH,Tooth pain
+Busia,IMMUNISATION,Routine check-up
+Wakiso,MATERNITY,Eye test
+Arua,ANTENATAL,Tooth pain
+Kabale,DENTAL,Follow-up visit
+Moroto,OPTICAL,Child immunisation
+Wakiso,PAEDIATRICS,Eye test
+Arua,OPTICAL,Routine check-up
+Fort Portal,GENERAL,Antenatal visit
+Mbale,IMMUNISATION,Fever and headache
+Fort Portal,DENTAL,Prescription refill
+Gulu,ANTENATAL,Tooth pain
+Kampala,ANTENATAL,Eye test
+Iganga,MATERNITY,Routine check-up
+Kampala,ANTENATAL,Eye test
+Masaka,OPTICAL,Fever and headache
+Lira,GENERAL,Antenatal visit
+Fort Portal,PAEDIATRICS,Eye test
+Jinja,DENTAL,Prescription refill
+Iganga,OPTICAL,Eye test
+Iganga,DENTAL,Child immunisation
+Busia,GENERAL,Fever and headache
+Busia,MATERNITY,Antenatal visit
+Arua,PAEDIATRICS,Eye test
+Kasese,GENERAL,Child immunisation
+Tororo,HIV_CARE,Follow-up visit
+Iganga,IMMUNISATION,Antenatal visit
+Masindi,HIV_CARE,Prescription refill
+Kabale,GENERAL,Routine check-up
+Masaka,MENTAL_HEALTH,Tooth pain
+Mukono,MATERNITY,Antenatal visit
+Lira,DENTAL,Follow-up visit
+Kasese,OPTICAL,Tooth pain
+Kasese,IMMUNISATION,Antenatal visit
+Mukono,OPTICAL,Follow-up visit
+Kampala,PAEDIATRICS,Routine check-up
+Kasese,MATERNITY,Child immunisation
+Masindi,SURGERY,Follow-up visit
+Soroti,MATERNITY,Tooth pain
+Soroti,PAEDIATRICS,Fever and headache
+Jinja,PAEDIATRICS,Prescription refill
+Mukono,HIV_CARE,Eye test
+Soroti,SURGERY,Prescription refill
+Jinja,MENTAL_HEALTH,Routine check-up
+Tororo,MATERNITY,Routine check-up
+Gulu,HIV_CARE,Fever and headache
+Masindi,IMMUNISATION,Prescription refill
+Wakiso,MATERNITY,Prescription refill
+Jinja,MATERNITY,Tooth pain
+Jinja,OPTICAL,Eye test
+Gulu,PAEDIATRICS,Follow-up visit
+Wakiso,MATERNITY,Follow-up visit
+Wakiso,IMMUNISATION,Child immunisation
+Kasese,DENTAL,Antenatal visit
+Soroti,OPTICAL,Child immunisation
+Tororo,DENTAL,Eye test
+Busia,PAEDIATRICS,Routine check-up
+Iganga,DENTAL,Follow-up visit
+Mbale,IMMUNISATION,Eye test
+Fort Portal,MENTAL_HEALTH,Antenatal visit
+Mbarara,GENERAL,Child immunisation
+Mbale,SURGERY,Child immunisation
+Kabale,SURGERY,Routine check-up
+Fort Portal,OPTICAL,Tooth pain
+Jinja,MENTAL_HEALTH,Child immunisation
+Mbale,GENERAL,Tooth pain
+Mukono,HIV_CARE,Tooth pain
+Soroti,OPTICAL,Tooth pain
+Kasese,SURGERY,Follow-up visit
+Gulu,GENERAL,Fever and headache
+Moroto,HIV_CARE,Eye test
+Mukono,MENTAL_HEALTH,Routine check-up
+Jinja,ANTENATAL,Routine check-up
+Mbarara,MATERNITY,Prescription refill
+Soroti,MENTAL_HEALTH,Routine check-up
+Mbarara,MATERNITY,Child immunisation
+Masaka,OPTICAL,Follow-up visit
+Wakiso,GENERAL,Tooth pain
+Arua,DENTAL,Routine check-up
+Fort Portal,OPTICAL,Child immunisation
+Lira,PAEDIATRICS,Prescription refill
+Iganga,SURGERY,Tooth pain
+Moroto,GENERAL,Tooth pain
+Busia,SURGERY,Routine check-up
+Jinja,HIV_CARE,Prescription refill
+Mbarara,ANTENATAL,Tooth pain
+Hoima,IMMUNISATION,Routine check-up
+Arua,PAEDIATRICS,Prescription refill
+Busia,OPTICAL,Routine check-up
+Mukono,HIV_CARE,Routine check-up
+Mbale,PAEDIATRICS,Prescription refill
+Masaka,OPTICAL,Child immunisation
+Hoima,PAEDIATRICS,Fever and headache
+Tororo,PAEDIATRICS,Fever and headache
+Busia,MATERNITY,Fever and headache
+Gulu,DENTAL,Eye test
+Jinja,PAEDIATRICS,Antenatal visit
+Masaka,OPTICAL,Prescription refill
+Arua,MENTAL_HEALTH,Routine check-up
+Gulu,GENERAL,Child immunisation
+Arua,MENTAL_HEALTH,Routine check-up
+Mbale,MENTAL_HEALTH,Prescription refill
+Mbale,HIV_CARE,Child immunisation
+Masindi,OPTICAL,Fever and headache
+Kasese,SURGERY,Prescription refill
+Soroti,GENERAL,Eye test
+Kabale,OPTICAL,Routine check-up
+Mukono,ANTENATAL,Routine check-up
+Kasese,OPTICAL,Fever and headache
+Busia,DENTAL,Tooth pain
+Kabale,ANTENATAL,Routine check-up
+Iganga,IMMUNISATION,Prescription refill
+Kampala,GENERAL,Follow-up visit
+Wakiso,ANTENATAL,Fever and headache
+Mbale,IMMUNISATION,Follow-up visit
+Mbarara,MENTAL_HEALTH,Tooth pain
+Jinja,PAEDIATRICS,Prescription refill
+Kabale,OPTICAL,Routine check-up
+Gulu,HIV_CARE,Prescription refill
+Kabale,PAEDIATRICS,Fever and headache
+Mukono,OPTICAL,Eye test
+Mbale,ANTENATAL,Fever and headache
+Mbarara,IMMUNISATION,Prescription refill
+Lira,SURGERY,Follow-up visit
+Iganga,SURGERY,Follow-up visit
+Iganga,SURGERY,Child immunisation
+Lira,IMMUNISATION,Child immunisation
+Wakiso,PAEDIATRICS,Tooth pain
+Gulu,PAEDIATRICS,Child immunisation
+Mbale,MENTAL_HEALTH,Prescription refill
+Iganga,HIV_CARE,Fever and headache
+Jinja,DENTAL,Follow-up visit
+Mbale,ANTENATAL,Antenatal visit
+Lira,SURGERY,Child immunisation
+Masindi,DENTAL,Antenatal visit
+Mbale,PAEDIATRICS,Eye test
+Kabale,MENTAL_HEALTH,Follow-up visit
+Masaka,IMMUNISATION,Eye test
+Wakiso,GENERAL,Follow-up visit
+Hoima,GENERAL,Tooth pain
+Busia,IMMUNISATION,Child immunisation
+Busia,MENTAL_HEALTH,Fever and headache
+Masindi,PAEDIATRICS,Routine check-up
+Masaka,IMMUNISATION,Child immunisation
+Kabale,IMMUNISATION,Prescription refill
+Gulu,IMMUNISATION,Child immunisation
+Arua,HIV_CARE,Follow-up visit
+Masaka,SURGERY,Follow-up visit
+Kasese,DENTAL,Fever and headache
+Moroto,GENERAL,Fever and headache
+Mbale,GENERAL,Fever and headache
+Mukono,IMMUNISATION,Tooth pain
+Kabale,DENTAL,Follow-up visit
+Lira,GENERAL,Follow-up visit
+Moroto,IMMUNISATION,Antenatal visit
+Mbarara,SURGERY,Eye test
+Tororo,MENTAL_HEALTH,Routine check-up
+Jinja,MENTAL_HEALTH,Fever and headache
+Gulu,PAEDIATRICS,Follow-up visit
+Moroto,DENTAL,Fever and headache
+Mukono,ANTENATAL,Routine check-up
+Iganga,MENTAL_HEALTH,Eye test
+Moroto,MENTAL_HEALTH,Follow-up visit
+Mbale,MATERNITY,Prescription refill
+Kabale,HIV_CARE,Prescription refill
+Fort Portal,MENTAL_HEALTH,Tooth pain
+Masindi,HIV_CARE,Antenatal visit
+Gulu,IMMUNISATION,Child immunisation
+Gulu,GENERAL,Prescription refill
+Tororo,GENERAL,Follow-up visit
+Mukono,HIV_CARE,Tooth pain
+Kampala,MATERNITY,Child immunisation
+Mbale,DENTAL,Eye test
+Lira,SURGERY,Child immunisation
+Iganga,OPTICAL,Routine check-up
+Lira,ANTENATAL,Child immunisation
+Kampala,GENERAL,Tooth pain
+Kabale,MATERNITY,Antenatal visit
+Moroto,DENTAL,Follow-up visit
+Masaka,DENTAL,Routine check-up
+Kabale,MATERNITY,Antenatal visit
+Hoima,GENERAL,Prescription refill
+Masindi,SURGERY,Fever and headache
+Mbarara,DENTAL,Child immunisation
+Mbale,IMMUNISATION,Eye test
+Busia,MENTAL_HEALTH,Follow-up visit
+Tororo,SURGERY,Eye test
+Mukono,DENTAL,Prescription refill
+Mbale,DENTAL,Antenatal visit
+Iganga,IMMUNISATION,Prescription refill
+Tororo,ANTENATAL,Child immunisation
+Hoima,ANTENATAL,Fever and headache
+Iganga,PAEDIATRICS,Antenatal visit
+Fort Portal,PAEDIATRICS,Antenatal visit
+Kampala,MATERNITY,Tooth pain
+Soroti,HIV_CARE,Tooth pain
+Iganga,MENTAL_HEALTH,Child immunisation
+Fort Portal,IMMUNISATION,Child immunisation
+Tororo,HIV_CARE,Fever and headache
+Mbarara,OPTICAL,Tooth pain
+Jinja,OPTICAL,Follow-up visit
+Tororo,MATERNITY,Tooth pain
+Lira,OPTICAL,Eye test
+Fort Portal,IMMUNISATION,Antenatal visit
+Kabale,DENTAL,Eye test
+Wakiso,OPTICAL,Follow-up visit
+Busia,DENTAL,Routine check-up
+Mbarara,ANTENATAL,Eye test
+Iganga,MATERNITY,Follow-up visit
+Moroto,ANTENATAL,Child immunisation
+Fort Portal,DENTAL,Child immunisation
+Kasese,HIV_CARE,Antenatal visit
+Lira,MENTAL_HEALTH,Child immunisation
+Masaka,ANTENATAL,Routine check-up
+Arua,MENTAL_HEALTH,Fever and headache
+Jinja,OPTICAL,Antenatal visit
+Tororo,OPTICAL,Fever and headache
+Moroto,OPTICAL,Follow-up visit
+Tororo,MATERNITY,Follow-up visit
+Tororo,IMMUNISATION,Prescription refill
+Kasese,GENERAL,Antenatal visit
+Arua,SURGERY,Eye test
+Fort Portal,SURGERY,Routine check-up
+Kasese,ANTENATAL,Routine check-up
+Mukono,DENTAL,Follow-up visit
+Iganga,IMMUNISATION,Eye test
+Gulu,HIV_CARE,Prescription refill
+Fort Portal,MENTAL_HEALTH,Eye test
+Kampala,MENTAL_HEALTH,Tooth pain
+Kabale,PAEDIATRICS,Prescription refill
+Masindi,SURGERY,Antenatal visit
+Masindi,SURGERY,Follow-up visit
+Tororo,OPTICAL,Tooth pain
+Masindi,DENTAL,Follow-up visit
+Mbarara,OPTICAL,Prescription refill
+Kasese,ANTENATAL,Fever and headache
+Moroto,IMMUNISATION,Follow-up visit
+Kasese,HIV_CARE,Fever and headache
+Gulu,DENTAL,Follow-up visit
+Kasese,ANTENATAL,Eye test
+Mukono,MENTAL_HEALTH,Routine check-up
+Kasese,OPTICAL,Antenatal visit
+Lira,IMMUNISATION,Eye test
+Arua,MATERNITY,Eye test
+Kasese,MENTAL_HEALTH,Prescription refill
+Masindi,DENTAL,Routine check-up
+Busia,GENERAL,Antenatal visit
+Moroto,MENTAL_HEALTH,Child immunisation
+Arua,HIV_CARE,Fever and headache
+Jinja,MATERNITY,Routine check-up
+Hoima,SURGERY,Tooth pain
+Mbale,MENTAL_HEALTH,Fever and headache
+Kasese,IMMUNISATION,Child immunisation
+Mukono,HIV_CARE,Follow-up visit
+Moroto,MATERNITY,Eye test
+Iganga,MENTAL_HEALTH,Child immunisation
+Iganga,ANTENATAL,Fever and headache
+Moroto,MATERNITY,Antenatal visit
+Moroto,SURGERY,Prescription refill
+Iganga,OPTICAL,Antenatal visit
+Kabale,MATERNITY,Prescription refill
+Arua,GENERAL,Prescription refill
+Masindi,OPTICAL,Routine check-up
+Masindi,MATERNITY,Antenatal visit
+Arua,ANTENATAL,Eye test
+Wakiso,SURGERY,Eye test
+Tororo,MATERNITY,Prescription refill
+Mukono,IMMUNISATION,Tooth pain
+Masaka,IMMUNISATION,Antenatal visit
+Hoima,HIV_CARE,Routine check-up
+Gulu,IMMUNISATION,Child immunisation
+Busia,DENTAL,Fever and headache
+Iganga,DENTAL,Fever and headache
+Busia,ANTENATAL,Eye test
+Mbarara,MATERNITY,Routine check-up
+Mbarara,HIV_CARE,Tooth pain
+Kasese,HIV_CARE,Follow-up visit
+Arua,SURGERY,Follow-up visit
+Mukono,DENTAL,Tooth pain
+Busia,GENERAL,Fever and headache
+Masindi,ANTENATAL,Routine check-up
+Tororo,ANTENATAL,Tooth pain
+Fort Portal,OPTICAL,Fever and headache
+Arua,HIV_CARE,Child immunisation
+Kabale,SURGERY,Follow-up visit
+Moroto,PAEDIATRICS,Prescription refill
+Tororo,GENERAL,Child immunisation
+Wakiso,HIV_CARE,Tooth pain
+Wakiso,PAEDIATRICS,Antenatal visit
+Wakiso,MENTAL_HEALTH,Prescription refill
+Tororo,MENTAL_HEALTH,Antenatal visit
+Masindi,SURGERY,Prescription refill
+Soroti,ANTENATAL,Follow-up visit
+Lira,MENTAL_HEALTH,Fever and headache
+Kampala,SURGERY,Antenatal visit
+Busia,ANTENATAL,Follow-up visit
+Soroti,IMMUNISATION,Follow-up visit
+Kampala,MENTAL_HEALTH,Antenatal visit
+Lira,IMMUNISATION,Follow-up visit
+Mbale,IMMUNISATION,Routine check-up
+Busia,OPTICAL,Prescription refill
+Busia,GENERAL,Prescription refill
+Iganga,DENTAL,Antenatal visit
+Mukono,ANTENATAL,Fever and headache
+Mbarara,HIV_CARE,Prescription refill
+Jinja,MENTAL_HEALTH,Eye test
+Mukono,SURGERY,Antenatal visit
+Kampala,DENTAL,Eye test
+Wakiso,SURGERY,Follow-up visit
+Kampala,SURGERY,Fever and headache
+Iganga,DENTAL,Prescription refill
+Wakiso,DENTAL,Follow-up visit
+Tororo,MENTAL_HEALTH,Antenatal visit
+Arua,DENTAL,Antenatal visit
+Mbarara,OPTICAL,Fever and headache
+Gulu,MATERNITY,Tooth pain
+Kasese,GENERAL,Fever and headache
+Iganga,IMMUNISATION,Prescription refill
+Wakiso,DENTAL,Fever and headache
+Mbale,HIV_CARE,Tooth pain
+Masaka,MATERNITY,Routine check-up
+Mukono,GENERAL,Fever and headache
+Soroti,PAEDIATRICS,Eye test
+Mukono,OPTICAL,Fever and headache
+Lira,IMMUNISATION,Tooth pain
+Arua,HIV_CARE,Follow-up visit
+Busia,ANTENATAL,Routine check-up
+Mbale,MATERNITY,Antenatal visit
+Busia,IMMUNISATION,Tooth pain
+Fort Portal,IMMUNISATION,Antenatal visit
+Masaka,HIV_CARE,Routine check-up
+Arua,SURGERY,Routine check-up
+Hoima,PAEDIATRICS,Eye test
+Fort Portal,DENTAL,Eye test
+Mukono,HIV_CARE,Child immunisation
+Kabale,OPTICAL,Eye test
+Kampala,GENERAL,Antenatal visit
+Gulu,MENTAL_HEALTH,Fever and headache
+Masaka,MENTAL_HEALTH,Tooth pain
+Hoima,IMMUNISATION,Follow-up visit
+Mbarara,GENERAL,Follow-up visit
+Masindi,ANTENATAL,Routine check-up
+Wakiso,PAEDIATRICS,Prescription refill
+Kampala,SURGERY,Prescription refill
+Arua,MENTAL_HEALTH,Child immunisation
+Mbarara,MATERNITY,Antenatal visit
+Jinja,MATERNITY,Routine check-up
+Jinja,PAEDIATRICS,Antenatal visit
+Tororo,SURGERY,Routine check-up
+Mbale,HIV_CARE,Child immunisation
+Hoima,PAEDIATRICS,Antenatal visit
+Jinja,GENERAL,Routine check-up
+Fort Portal,DENTAL,Prescription refill
+Wakiso,GENERAL,Routine check-up
+Kabale,ANTENATAL,Child immunisation
+Mbarara,PAEDIATRICS,Tooth pain
+Mbarara,PAEDIATRICS,Fever and headache
+Hoima,MENTAL_HEALTH,Prescription refill
+Mbale,MATERNITY,Fever and headache
+Wakiso,MENTAL_HEALTH,Child immunisation
+Jinja,IMMUNISATION,Fever and headache
+Hoima,GENERAL,Routine check-up
+Mukono,SURGERY,Prescription refill
+Gulu,HIV_CARE,Tooth pain
+Iganga,SURGERY,Prescription refill
+Kampala,DENTAL,Eye test
+Jinja,HIV_CARE,Eye test
+Wakiso,DENTAL,Tooth pain
+Mbarara,HIV_CARE,Antenatal visit
+Mbale,OPTICAL,Antenatal visit
+Masaka,HIV_CARE,Tooth pain
+Kampala,HIV_CARE,Antenatal visit
+Fort Portal,MATERNITY,Tooth pain
+Wakiso,ANTENATAL,Follow-up visit
+Mbarara,MENTAL_HEALTH,Routine check-up
+Iganga,PAEDIATRICS,Routine check-up
+Mbarara,HIV_CARE,Follow-up visit
+Busia,SURGERY,Eye test
+Iganga,MENTAL_HEALTH,Antenatal visit
+Gulu,ANTENATAL,Follow-up visit
+Lira,ANTENATAL,Antenatal visit
+Iganga,ANTENATAL,Antenatal visit
+Iganga,OPTICAL,Antenatal visit
+Kasese,OPTICAL,Tooth pain
+Mbale,DENTAL,Follow-up visit
+Gulu,HIV_CARE,Eye test
+Soroti,HIV_CARE,Eye test
+Gulu,MATERNITY,Antenatal visit
+Kabale,SURGERY,Fever and headache
+Masindi,IMMUNISATION,Prescription refill
+Gulu,MENTAL_HEALTH,Fever and headache
+Kampala,MATERNITY,Fever and headache
+Gulu,GENERAL,Tooth pain
+Arua,IMMUNISATION,Tooth pain
+Kabale,PAEDIATRICS,Child immunisation
+Masaka,HIV_CARE,Eye test
+Kampala,IMMUNISATION,Eye test
+Wakiso,MENTAL_HEALTH,Eye test
+Mbale,DENTAL,Prescription refill
+Arua,MENTAL_HEALTH,Routine check-up
+Lira,GENERAL,Fever and headache
+Mukono,PAEDIATRICS,Tooth pain
+Moroto,MATERNITY,Follow-up visit
+Mbale,PAEDIATRICS,Follow-up visit
+Tororo,OPTICAL,Eye test
+Jinja,GENERAL,Routine check-up
+Soroti,MATERNITY,Routine check-up
+Tororo,MENTAL_HEALTH,Antenatal visit
+Gulu,MATERNITY,Routine check-up
+Mbarara,PAEDIATRICS,Fever and headache
+Iganga,SURGERY,Fever and headache
+Moroto,IMMUNISATION,Follow-up visit
+Kabale,DENTAL,Tooth pain
+Masindi,PAEDIATRICS,Prescription refill
+Fort Portal,PAEDIATRICS,Tooth pain
+Masaka,HIV_CARE,Follow-up visit
+Busia,ANTENATAL,Antenatal visit
+Gulu,DENTAL,Child immunisation
+Moroto,HIV_CARE,Follow-up visit
+Lira,GENERAL,Fever and headache
+Kampala,DENTAL,Tooth pain
+Mbarara,MATERNITY,Routine check-up
+Moroto,HIV_CARE,Child immunisation
+Kasese,GENERAL,Prescription refill
+Fort Portal,ANTENATAL,Routine check-up
+Wakiso,IMMUNISATION,Child immunisation
+Tororo,PAEDIATRICS,Tooth pain
+Busia,SURGERY,Fever and headache
+Iganga,GENERAL,Eye test
+Masindi,MATERNITY,Prescription refill
+Hoima,HIV_CARE,Eye test
+Tororo,OPTICAL,Routine check-up
+Masindi,MATERNITY,Child immunisation
+Kampala,PAEDIATRICS,Prescription refill
+Mbarara,IMMUNISATION,Tooth pain
+Tororo,ANTENATAL,Prescription refill
+Masindi,IMMUNISATION,Fever and headache
+Arua,ANTENATAL,Fever and headache
+Hoima,GENERAL,Follow-up visit
+Mbale,MATERNITY,Routine check-up
+Masindi,MATERNITY,Child immunisation
+Hoima,PAEDIATRICS,Routine check-up
+Fort Portal,MATERNITY,Antenatal visit
+Soroti,GENERAL,Prescription refill
+Arua,OPTICAL,Child immunisation
+Tororo,ANTENATAL,Fever and headache
+Jinja,GENERAL,Eye test
+Jinja,ANTENATAL,Prescription refill
+Masaka,IMMUNISATION,Routine check-up
+Kampala,ANTENATAL,Tooth pain
+Busia,MENTAL_HEALTH,Follow-up visit
+Iganga,DENTAL,Follow-up visit
+Mukono,IMMUNISATION,Tooth pain
+Fort Portal,OPTICAL,Child immunisation
+Kabale,ANTENATAL,Routine check-up
+Mukono,MATERNITY,Follow-up visit
+Kabale,MATERNITY,Antenatal visit
+Wakiso,DENTAL,Tooth pain
+Busia,MATERNITY,Tooth pain
+Iganga,PAEDIATRICS,Child immunisation
+Arua,DENTAL,Prescription refill
+Busia,GENERAL,Antenatal visit
+Jinja,PAEDIATRICS,Child immunisation
+Tororo,IMMUNISATION,Fever and headache
+Iganga,IMMUNISATION,Antenatal visit
+Tororo,SURGERY,Follow-up visit
+Mukono,SURGERY,Routine check-up
+Soroti,SURGERY,Prescription refill
+Mukono,OPTICAL,Routine check-up
+Jinja,MENTAL_HEALTH,Routine check-up
+Busia,IMMUNISATION,Eye test
+Jinja,MENTAL_HEALTH,Follow-up visit
+Arua,MATERNITY,Tooth pain
+Lira,HIV_CARE,Prescription refill
+Iganga,GENERAL,Eye test
+Soroti,OPTICAL,Prescription refill
+Mbarara,SURGERY,Fever and headache
+Kampala,MENTAL_HEALTH,Eye test
+Tororo,MATERNITY,Follow-up visit
+Kasese,MATERNITY,Prescription refill
+Gulu,MENTAL_HEALTH,Prescription refill
+Mbarara,IMMUNISATION,Eye test
+Iganga,DENTAL,Tooth pain
+Jinja,MATERNITY,Eye test
+Busia,MATERNITY,Child immunisation
+Gulu,SURGERY,Tooth pain
+Masindi,MENTAL_HEALTH,Follow-up visit
+Masaka,SURGERY,Prescription refill
+Lira,PAEDIATRICS,Follow-up visit
+Mbarara,SURGERY,Follow-up visit
+Soroti,MENTAL_HEALTH,Prescription refill
+Moroto,HIV_CARE,Follow-up visit
+Wakiso,PAEDIATRICS,Tooth pain
+Jinja,SURGERY,Prescription refill
+Mukono,HIV_CARE,Antenatal visit
+Kasese,IMMUNISATION,Routine check-up
+Mukono,IMMUNISATION,Follow-up visit
+Arua,OPTICAL,Prescription refill
+Kabale,GENERAL,Prescription refill
+Busia,MATERNITY,Follow-up visit
+Soroti,HIV_CARE,Child immunisation
+Busia,DENTAL,Prescription refill
+Lira,OPTICAL,Prescription refill
+Iganga,GENERAL,Prescription refill
+Kasese,DENTAL,Tooth pain
+Masaka,SURGERY,Routine check-up
+Lira,HIV_CARE,Child immunisation
+Masindi,MENTAL_HEALTH,Prescription refill
+Masindi,MENTAL_HEALTH,Child immunisation
+Fort Portal,MATERNITY,Follow-up visit
+Masindi,DENTAL,Antenatal visit
+Hoima,OPTICAL,Antenatal visit
+Kasese,SURGERY,Tooth pain
+Iganga,DENTAL,Tooth pain
+Jinja,MATERNITY,Fever and headache
+Gulu,ANTENATAL,Routine check-up
+Kabale,SURGERY,Tooth pain
+Busia,SURGERY,Follow-up visit
+Masaka,MATERNITY,Fever and headache
+Masaka,DENTAL,Child immunisation
+Lira,HIV_CARE,Follow-up visit
+Arua,DENTAL,Antenatal visit
+Mbale,PAEDIATRICS,Prescription refill
+Kampala,MENTAL_HEALTH,Tooth pain
+Iganga,SURGERY,Follow-up visit
+Fort Portal,MENTAL_HEALTH,Eye test
+Jinja,GENERAL,Child immunisation
+Hoima,GENERAL,Child immunisation
+Hoima,MENTAL_HEALTH,Child immunisation
+Mbarara,DENTAL,Routine check-up
+Kampala,MENTAL_HEALTH,Routine check-up
+Busia,MENTAL_HEALTH,Child immunisation
+Fort Portal,ANTENATAL,Eye test
+Tororo,MENTAL_HEALTH,Fever and headache
+Busia,GENERAL,Prescription refill
+Wakiso,SURGERY,Antenatal visit
+Masindi,HIV_CARE,Routine check-up
+Iganga,ANTENATAL,Tooth pain
+Kampala,MATERNITY,Child immunisation
+Kampala,PAEDIATRICS,Fever and headache
+Mbarara,SURGERY,Prescription refill
+Jinja,ANTENATAL,Prescription refill
+Kasese,SURGERY,Eye test
+Hoima,HIV_CARE,Eye test
+Busia,SURGERY,Antenatal visit
+Mukono,GENERAL,Prescription refill
+Busia,MATERNITY,Tooth pain
+Lira,GENERAL,Child immunisation
+Busia,OPTICAL,Antenatal visit
+Fort Portal,ANTENATAL,Prescription refill
+Arua,GENERAL,Prescription refill
+Arua,ANTENATAL,Routine check-up
+Tororo,OPTICAL,Tooth pain
+Hoima,GENERAL,Fever and headache
+Kasese,OPTICAL,Prescription refill
+Jinja,GENERAL,Fever and headache
+Mbale,DENTAL,Prescription refill
+Tororo,ANTENATAL,Eye test
+Wakiso,PAEDIATRICS,Prescription refill
+Arua,SURGERY,Follow-up visit
+Mukono,OPTICAL,Follow-up visit
+Soroti,HIV_CARE,Tooth pain
+Kasese,ANTENATAL,Tooth pain
+Jinja,OPTICAL,Prescription refill
+Mbale,DENTAL,Antenatal visit
+Iganga,GENERAL,Prescription refill
+Fort Portal,SURGERY,Eye test
+Fort Portal,PAEDIATRICS,Tooth pain
+Masaka,GENERAL,Routine check-up
+Arua,OPTICAL,Child immunisation
+Wakiso,MATERNITY,Eye test
+Kasese,PAEDIATRICS,Routine check-up
+Masaka,MATERNITY,Antenatal visit
+Busia,SURGERY,Follow-up visit
+Soroti,DENTAL,Child immunisation
+Mukono,OPTICAL,Antenatal visit
+Wakiso,IMMUNISATION,Eye test
+Kampala,GENERAL,Tooth pain
+Moroto,SURGERY,Child immunisation
+Wakiso,DENTAL,Follow-up visit
+Tororo,IMMUNISATION,Routine check-up
+Fort Portal,OPTICAL,Prescription refill
+Jinja,SURGERY,Tooth pain
+Kabale,SURGERY,Eye test
+Kasese,IMMUNISATION,Child immunisation
+Gulu,MATERNITY,Child immunisation
+Busia,SURGERY,Follow-up visit
+Wakiso,IMMUNISATION,Follow-up visit
+Mbarara,PAEDIATRICS,Routine check-up
+Masaka,OPTICAL,Eye test
+Kasese,GENERAL,Antenatal visit
+Masindi,ANTENATAL,Prescription refill
+Kasese,GENERAL,Prescription refill
+Arua,MENTAL_HEALTH,Fever and headache
+Tororo,SURGERY,Fever and headache
+Lira,PAEDIATRICS,Tooth pain
+Kasese,GENERAL,Fever and headache
+Kampala,OPTICAL,Prescription refill
+Soroti,OPTICAL,Tooth pain
+Masaka,MENTAL_HEALTH,Eye test
+Jinja,SURGERY,Eye test
+Jinja,ANTENATAL,Antenatal visit
+Iganga,OPTICAL,Tooth pain
+Masaka,MATERNITY,Follow-up visit
+Kampala,SURGERY,Antenatal visit
+Arua,GENERAL,Prescription refill
+Mukono,SURGERY,Tooth pain
+Moroto,GENERAL,Fever and headache
+Kasese,MATERNITY,Tooth pain
+Gulu,ANTENATAL,Prescription refill
+Arua,MENTAL_HEALTH,Eye test
+Lira,MATERNITY,Routine check-up
+Mukono,SURGERY,Prescription refill
+Moroto,MATERNITY,Tooth pain
+Kabale,HIV_CARE,Eye test
+Moroto,SURGERY,Fever and headache
+Moroto,ANTENATAL,Antenatal visit
+Mukono,ANTENATAL,Prescription refill
+Jinja,PAEDIATRICS,Tooth pain
+Busia,GENERAL,Follow-up visit
+Busia,SURGERY,Antenatal visit
+Jinja,MATERNITY,Child immunisation
+Kabale,GENERAL,Antenatal visit
+Jinja,DENTAL,Routine check-up
+Fort Portal,OPTICAL,Prescription refill
+Kasese,DENTAL,Child immunisation
+Kasese,PAEDIATRICS,Tooth pain
+Arua,OPTICAL,Antenatal visit
+Soroti,PAEDIATRICS,Routine check-up
+Lira,PAEDIATRICS,Prescription refill
+Mbale,GENERAL,Child immunisation
+Lira,GENERAL,Follow-up visit
+Hoima,DENTAL,Fever and headache
+Gulu,SURGERY,Prescription refill
+Gulu,DENTAL,Child immunisation
+Mukono,OPTICAL,Tooth pain
+Tororo,MATERNITY,Fever and headache
+Tororo,MENTAL_HEALTH,Antenatal visit
+Arua,SURGERY,Antenatal visit
+Kasese,ANTENATAL,Tooth pain
+Mbale,MATERNITY,Routine check-up
+Kampala,IMMUNISATION,Eye test
+Mbale,ANTENATAL,Follow-up visit
+Arua,GENERAL,Fever and headache
+Mukono,ANTENATAL,Child immunisation
+Tororo,ANTENATAL,Prescription refill
+Iganga,DENTAL,Child immunisation
+Gulu,IMMUNISATION,Tooth pain
+Hoima,MENTAL_HEALTH,Tooth pain
+Soroti,IMMUNISATION,Fever and headache
+Hoima,PAEDIATRICS,Routine check-up
+Hoima,DENTAL,Fever and headache
+Masaka,OPTICAL,Prescription refill
+Arua,GENERAL,Antenatal visit
+Kabale,ANTENATAL,Follow-up visit
+Soroti,ANTENATAL,Tooth pain
+Tororo,MENTAL_HEALTH,Follow-up visit
+Kasese,SURGERY,Child immunisation
+Iganga,IMMUNISATION,Child immunisation
+Busia,IMMUNISATION,Tooth pain
+Jinja,DENTAL,Prescription refill
+Mbale,DENTAL,Tooth pain
+Kabale,SURGERY,Prescription refill
+Moroto,PAEDIATRICS,Follow-up visit
+Kasese,IMMUNISATION,Routine check-up
+Masindi,OPTICAL,Follow-up visit
+Hoima,PAEDIATRICS,Prescription refill
+Jinja,ANTENATAL,Routine check-up
+Moroto,IMMUNISATION,Fever and headache
+Masindi,IMMUNISATION,Antenatal visit
+Lira,ANTENATAL,Antenatal visit
+Gulu,MENTAL_HEALTH,Eye test
+Mukono,GENERAL,Routine check-up
+Jinja,HIV_CARE,Fever and headache
+Jinja,PAEDIATRICS,Fever and headache
+Kabale,HIV_CARE,Tooth pain
+Lira,SURGERY,Prescription refill
+Arua,SURGERY,Tooth pain
+Mbarara,SURGERY,Routine check-up
+Busia,DENTAL,Follow-up visit
+Arua,HIV_CARE,Eye test
+Mbarara,ANTENATAL,Follow-up visit
+Kasese,HIV_CARE,Tooth pain
+Wakiso,ANTENATAL,Antenatal visit
+Masaka,DENTAL,Antenatal visit
+Mukono,MENTAL_HEALTH,Child immunisation
+Iganga,SURGERY,Eye test
+Tororo,PAEDIATRICS,Tooth pain
+Fort Portal,ANTENATAL,Antenatal visit
+Busia,MENTAL_HEALTH,Antenatal visit
+Mukono,IMMUNISATION,Fever and headache
+Masindi,HIV_CARE,Prescription refill
+Iganga,HIV_CARE,Follow-up visit
+Arua,MENTAL_HEALTH,Prescription refill
+Hoima,ANTENATAL,Antenatal visit
+Jinja,DENTAL,Eye test
+Arua,PAEDIATRICS,Antenatal visit
+Gulu,GENERAL,Antenatal visit
+Wakiso,GENERAL,Child immunisation
+Lira,MATERNITY,Tooth pain
+Moroto,HIV_CARE,Fever and headache
+Kabale,HIV_CARE,Child immunisation
+Moroto,PAEDIATRICS,Follow-up visit
+Jinja,GENERAL,Routine check-up
+Kasese,SURGERY,Antenatal visit
+Hoima,MATERNITY,Prescription refill
+Masaka,PAEDIATRICS,Antenatal visit
+Masaka,MATERNITY,Routine check-up
+Moroto,OPTICAL,Child immunisation
+Mbarara,OPTICAL,Prescription refill
+Jinja,MENTAL_HEALTH,Child immunisation
+Kampala,MENTAL_HEALTH,Routine check-up
+Kabale,DENTAL,Antenatal visit
+Busia,HIV_CARE,Fever and headache
+Tororo,MATERNITY,Antenatal visit
+Mbarara,ANTENATAL,Routine check-up
+Gulu,GENERAL,Follow-up visit
+Gulu,ANTENATAL,Tooth pain
+Kasese,DENTAL,Antenatal visit
+Moroto,DENTAL,Routine check-up
+Fort Portal,HIV_CARE,Fever and headache
+Busia,MATERNITY,Prescription refill
+Kampala,GENERAL,Prescription refill
+Gulu,DENTAL,Child immunisation
+Kampala,DENTAL,Fever and headache
+Kampala,IMMUNISATION,Routine check-up
+Mukono,OPTICAL,Antenatal visit
+Kampala,MATERNITY,Prescription refill
+Masindi,SURGERY,Antenatal visit
+Masindi,SURGERY,Child immunisation
+Moroto,ANTENATAL,Tooth pain
+Lira,OPTICAL,Fever and headache
+Gulu,MATERNITY,Follow-up visit
+Kampala,OPTICAL,Routine check-up
+Hoima,MENTAL_HEALTH,Fever and headache
+Kampala,IMMUNISATION,Child immunisation
+Gulu,GENERAL,Prescription refill
+Masindi,GENERAL,Routine check-up
+Mukono,GENERAL,Tooth pain
+Soroti,SURGERY,Prescription refill
+Fort Portal,PAEDIATRICS,Antenatal visit
+Jinja,DENTAL,Tooth pain
+Kampala,PAEDIATRICS,Fever and headache
+Iganga,IMMUNISATION,Antenatal visit
+Busia,ANTENATAL,Follow-up visit
+Soroti,OPTICAL,Child immunisation
+Gulu,GENERAL,Tooth pain
+Fort Portal,OPTICAL,Tooth pain
+Moroto,IMMUNISATION,Tooth pain
+Wakiso,ANTENATAL,Antenatal visit
+Mukono,SURGERY,Antenatal visit
+Arua,PAEDIATRICS,Routine check-up
+Masindi,IMMUNISATION,Fever and headache
+Masaka,MATERNITY,Fever and headache
+Soroti,HIV_CARE,Follow-up visit
+Busia,DENTAL,Eye test
+Hoima,ANTENATAL,Eye test
+Fort Portal,PAEDIATRICS,Eye test
+Soroti,IMMUNISATION,Routine check-up
+Mbarara,DENTAL,Eye test
+Busia,IMMUNISATION,Eye test
+Iganga,GENERAL,Fever and headache
+Busia,GENERAL,Routine check-up
+Kampala,PAEDIATRICS,Follow-up visit
+Mukono,MATERNITY,Routine check-up
+Masaka,SURGERY,Follow-up visit
+Wakiso,IMMUNISATION,Follow-up visit
+Kampala,ANTENATAL,Routine check-up
+Masindi,GENERAL,Child immunisation
+Wakiso,OPTICAL,Tooth pain
+Busia,DENTAL,Tooth pain
+Iganga,MENTAL_HEALTH,Follow-up visit
+Soroti,OPTICAL,Eye test
+Kasese,MENTAL_HEALTH,Fever and headache
+Arua,PAEDIATRICS,Antenatal visit
+Mbale,MENTAL_HEALTH,Prescription refill
+Kasese,HIV_CARE,Fever and headache
+Arua,MENTAL_HEALTH,Follow-up visit
+Moroto,ANTENATAL,Child immunisation
+Kampala,IMMUNISATION,Antenatal visit
+Kasese,PAEDIATRICS,Fever and headache
+Iganga,HIV_CARE,Tooth pain
+Hoima,OPTICAL,Routine check-up
+Iganga,ANTENATAL,Prescription refill
+Mbarara,ANTENATAL,Follow-up visit
+Soroti,PAEDIATRICS,Antenatal visit
+Lira,MENTAL_HEALTH,Tooth pain
+Mbale,DENTAL,Child immunisation
+Masaka,GENERAL,Fever and headache
+Kasese,PAEDIATRICS,Eye test
+Gulu,IMMUNISATION,Child immunisation
+Soroti,MENTAL_HEALTH,Tooth pain
+Kampala,DENTAL,Tooth pain
+Masaka,OPTICAL,Routine check-up
+Kasese,MATERNITY,Follow-up visit
+Masaka,GENERAL,Prescription refill
+Masaka,IMMUNISATION,Eye test
+Soroti,DENTAL,Routine check-up
+Masindi,SURGERY,Tooth pain
+Tororo,MATERNITY,Child immunisation
+Masaka,SURGERY,Tooth pain
+Wakiso,OPTICAL,Routine check-up
+Moroto,PAEDIATRICS,Routine check-up
+Mbarara,SURGERY,Antenatal visit
+Gulu,IMMUNISATION,Child immunisation
+Masindi,MENTAL_HEALTH,Tooth pain
+Tororo,HIV_CARE,Eye test
+Wakiso,DENTAL,Routine check-up
+Fort Portal,ANTENATAL,Follow-up visit
+Fort Portal,DENTAL,Tooth pain
+Iganga,IMMUNISATION,Tooth pain
+Mbale,HIV_CARE,Child immunisation
+Hoima,MENTAL_HEALTH,Tooth pain
+Masaka,SURGERY,Follow-up visit
+Soroti,DENTAL,Eye test
+Kabale,HIV_CARE,Eye test
+Mbarara,SURGERY,Follow-up visit
+Lira,HIV_CARE,Tooth pain
+Iganga,ANTENATAL,Fever and headache
+Kasese,HIV_CARE,Follow-up visit
+Moroto,MATERNITY,Follow-up visit
+Jinja,ANTENATAL,Follow-up visit
+Lira,SURGERY,Child immunisation
+Wakiso,DENTAL,Tooth pain
+Mbarara,MATERNITY,Eye test
+Fort Portal,HIV_CARE,Eye test
+Tororo,IMMUNISATION,Eye test
+Arua,PAEDIATRICS,Fever and headache
+Masaka,HIV_CARE,Follow-up visit
+Mbale,IMMUNISATION,Fever and headache
+Wakiso,IMMUNISATION,Tooth pain
+Fort Portal,HIV_CARE,Child immunisation
+Moroto,MATERNITY,Follow-up visit
+Lira,IMMUNISATION,Child immunisation
+Masindi,GENERAL,Fever and headache
+Masaka,MENTAL_HEALTH,Prescription refill
+Tororo,ANTENATAL,Tooth pain
+Soroti,ANTENATAL,Tooth pain
+Kabale,GENERAL,Prescription refill
+Gulu,MENTAL_HEALTH,Prescription refill
+Mbarara,GENERAL,Fever and headache
+Mbarara,ANTENATAL,Antenatal visit
+Moroto,GENERAL,Fever and headache
+Kasese,PAEDIATRICS,Routine check-up
+Fort Portal,ANTENATAL,Follow-up visit
+Tororo,ANTENATAL,Tooth pain
+Masindi,PAEDIATRICS,Eye test
+Kampala,GENERAL,Routine check-up
+Masaka,GENERAL,Child immunisation
+Gulu,PAEDIATRICS,Tooth pain
+Moroto,IMMUNISATION,Prescription refill
+Busia,GENERAL,Prescription refill
+Kabale,DENTAL,Antenatal visit
+Kampala,OPTICAL,Routine check-up
+Kasese,DENTAL,Tooth pain
+Arua,ANTENATAL,Prescription refill
+Soroti,GENERAL,Follow-up visit
+Jinja,MENTAL_HEALTH,Child immunisation
+Lira,MENTAL_HEALTH,Fever and headache
+Soroti,IMMUNISATION,Routine check-up
+Mukono,MENTAL_HEALTH,Prescription refill
+Gulu,DENTAL,Routine check-up
+Kabale,MENTAL_HEALTH,Prescription refill
+Masindi,GENERAL,Fever and headache
+Soroti,MATERNITY,Prescription refill
+Masaka,ANTENATAL,Follow-up visit
+Soroti,ANTENATAL,Routine check-up
+Kampala,MATERNITY,Tooth pain
+Hoima,DENTAL,Child immunisation
+Mbarara,GENERAL,Child immunisation
+Kabale,OPTICAL,Tooth pain
+Soroti,MENTAL_HEALTH,Follow-up visit
+Mukono,HIV_CARE,Tooth pain
+Mukono,DENTAL,Child immunisation
+Mukono,GENERAL,Routine check-up
+Kabale,GENERAL,Routine check-up
+Arua,OPTICAL,Eye test
+Mukono,SURGERY,Eye test
+Mukono,OPTICAL,Antenatal visit
+Kabale,PAEDIATRICS,Fever and headache
+Jinja,GENERAL,Tooth pain
+Kampala,DENTAL,Prescription refill
+Busia,MENTAL_HEALTH,Antenatal visit
+Arua,ANTENATAL,Tooth pain
+Lira,HIV_CARE,Antenatal visit
+Mukono,GENERAL,Tooth pain
+Mbarara,PAEDIATRICS,Tooth pain
+Busia,MENTAL_HEALTH,Child immunisation
+Lira,IMMUNISATION,Eye test
+Soroti,OPTICAL,Routine check-up
+Fort Portal,PAEDIATRICS,Antenatal visit
+Masaka,ANTENATAL,Follow-up visit
+Jinja,DENTAL,Tooth pain
+Arua,HIV_CARE,Antenatal visit
+Fort Portal,GENERAL,Fever and headache
+Iganga,MENTAL_HEALTH,Follow-up visit
+Mbarara,OPTICAL,Tooth pain
+Moroto,MATERNITY,Fever and headache
+Tororo,SURGERY,Eye test
+Mbale,DENTAL,Prescription refill
+Moroto,HIV_CARE,Fever and headache
+Soroti,MATERNITY,Follow-up visit
+Gulu,IMMUNISATION,Follow-up visit
+Iganga,IMMUNISATION,Tooth pain
+Gulu,DENTAL,Eye test
+Jinja,OPTICAL,Follow-up visit
+Lira,SURGERY,Prescription refill
+Masindi,IMMUNISATION,Follow-up visit
+Gulu,MATERNITY,Child immunisation
+Moroto,IMMUNISATION,Eye test
+Arua,MENTAL_HEALTH,Follow-up visit
+Iganga,MATERNITY,Fever and headache
+Kampala,ANTENATAL,Routine check-up
+Fort Portal,GENERAL,Tooth pain
+Mbale,SURGERY,Antenatal visit
+Arua,OPTICAL,Tooth pain
+Mbarara,MATERNITY,Routine check-up
+Soroti,MATERNITY,Routine check-up
+Lira,DENTAL,Eye test
+Mbale,SURGERY,Child immunisation
+Kabale,ANTENATAL,Prescription refill
+Iganga,GENERAL,Fever and headache
+Gulu,MENTAL_HEALTH,Follow-up visit
+Arua,ANTENATAL,Follow-up visit
+Masaka,ANTENATAL,Fever and headache
+Kasese,ANTENATAL,Eye test
+Iganga,SURGERY,Eye test
+Mbale,HIV_CARE,Prescription refill
+Mbarara,MATERNITY,Tooth pain
+Busia,OPTICAL,Follow-up visit
+Lira,PAEDIATRICS,Antenatal visit
+Kampala,MENTAL_HEALTH,Antenatal visit
+Kasese,ANTENATAL,Fever and headache
+Mbale,MATERNITY,Fever and headache
+Masaka,MENTAL_HEALTH,Routine check-up
+Lira,OPTICAL,Tooth pain
+Masindi,SURGERY,Fever and headache
+Masindi,HIV_CARE,Routine check-up
+Tororo,HIV_CARE,Fever and headache
+Arua,IMMUNISATION,Antenatal visit
+Hoima,HIV_CARE,Routine check-up
+Hoima,SURGERY,Tooth pain
+Gulu,MATERNITY,Antenatal visit
+Gulu,OPTICAL,Antenatal visit
+Kabale,PAEDIATRICS,Child immunisation
+Gulu,IMMUNISATION,Prescription refill
+Masaka,MENTAL_HEALTH,Tooth pain
+Gulu,MENTAL_HEALTH,Tooth pain
+Soroti,DENTAL,Child immunisation
+Masaka,MATERNITY,Follow-up visit
+Iganga,MENTAL_HEALTH,Fever and headache
+Moroto,MATERNITY,Follow-up visit
+Tororo,DENTAL,Antenatal visit
+Soroti,GENERAL,Eye test
+Moroto,MENTAL_HEALTH,Fever and headache
+Fort Portal,ANTENATAL,Child immunisation
+Moroto,MENTAL_HEALTH,Tooth pain
+Arua,HIV_CARE,Eye test
+Busia,HIV_CARE,Follow-up visit
+Wakiso,SURGERY,Child immunisation
+Kasese,IMMUNISATION,Eye test
+Hoima,IMMUNISATION,Follow-up visit
+Hoima,MENTAL_HEALTH,Prescription refill
+Busia,MATERNITY,Fever and headache
+Iganga,HIV_CARE,Eye test
+Hoima,PAEDIATRICS,Eye test
+Mbale,HIV_CARE,Eye test
+Iganga,SURGERY,Fever and headache
+Lira,MATERNITY,Antenatal visit
+Mbale,SURGERY,Follow-up visit
+Tororo,GENERAL,Eye test
+Masaka,MENTAL_HEALTH,Eye test
+Fort Portal,HIV_CARE,Antenatal visit
+Masaka,DENTAL,Routine check-up
+Tororo,GENERAL,Routine check-up
+Moroto,SURGERY,Follow-up visit
+Kampala,MATERNITY,Routine check-up
+Masaka,PAEDIATRICS,Fever and headache
+Kasese,IMMUNISATION,Antenatal visit
+Wakiso,DENTAL,Fever and headache
+Kasese,MATERNITY,Child immunisation
+Kasese,PAEDIATRICS,Prescription refill
+Mbarara,MENTAL_HEALTH,Child immunisation
+Hoima,OPTICAL,Child immunisation
+Jinja,MATERNITY,Eye test
+Mbale,MATERNITY,Follow-up visit
+Fort Portal,MENTAL_HEALTH,Eye test
+Masaka,ANTENATAL,Tooth pain
+Lira,SURGERY,Prescription refill
+Kasese,OPTICAL,Tooth pain
+Kabale,ANTENATAL,Routine check-up
+Moroto,DENTAL,Tooth pain
+Tororo,HIV_CARE,Tooth pain
+Mbarara,ANTENATAL,Child immunisation
+Fort Portal,ANTENATAL,Follow-up visit
+Tororo,GENERAL,Tooth pain
+Kasese,ANTENATAL,Tooth pain
+Masaka,OPTICAL,Prescription refill
+Moroto,IMMUNISATION,Fever and headache
+Masaka,GENERAL,Child immunisation
+Masindi,SURGERY,Tooth pain
+Busia,GENERAL,Fever and headache
+Lira,PAEDIATRICS,Tooth pain
+Masaka,PAEDIATRICS,Tooth pain
+Jinja,ANTENATAL,Antenatal visit
+Masindi,MENTAL_HEALTH,Child immunisation
+Wakiso,PAEDIATRICS,Antenatal visit
+Fort Portal,DENTAL,Routine check-up
+Tororo,ANTENATAL,Child immunisation
+Arua,OPTICAL,Routine check-up
+Iganga,ANTENATAL,Fever and headache
+Soroti,MENTAL_HEALTH,Antenatal visit
+Mbale,DENTAL,Child immunisation
+Soroti,SURGERY,Antenatal visit
+Mbarara,SURGERY,Eye test
+Mbale,IMMUNISATION,Follow-up visit
+Fort Portal,PAEDIATRICS,Child immunisation
+Busia,GENERAL,Antenatal visit
+Masaka,HIV_CARE,Fever and headache
+Kampala,HIV_CARE,Tooth pain
+Fort Portal,SURGERY,Antenatal visit
+Masaka,SURGERY,Follow-up visit
+Mukono,MATERNITY,Routine check-up
+Soroti,MENTAL_HEALTH,Child immunisation
+Busia,HIV_CARE,Routine check-up
+Mbarara,ANTENATAL,Eye test
+Jinja,ANTENATAL,Child immunisation
+Moroto,SURGERY,Tooth pain
+Jinja,HIV_CARE,Fever and headache
+Mukono,HIV_CARE,Child immunisation
+Lira,GENERAL,Child immunisation
+Mbale,DENTAL,Routine check-up
+Wakiso,SURGERY,Follow-up visit
+Masindi,HIV_CARE,Follow-up visit
+Masindi,GENERAL,Antenatal visit
+Iganga,DENTAL,Fever and headache
+Masindi,MENTAL_HEALTH,Child immunisation
+Mbale,DENTAL,Prescription refill
+Masaka,MATERNITY,Routine check-up
+Kabale,GENERAL,Follow-up visit
+Tororo,IMMUNISATION,Tooth pain
+Gulu,HIV_CARE,Follow-up visit
+Lira,OPTICAL,Tooth pain
+Kasese,PAEDIATRICS,Fever and headache
+Kampala,ANTENATAL,Child immunisation
+Lira,GENERAL,Routine check-up
+Masindi,ANTENATAL,Routine check-up
+Tororo,OPTICAL,Prescription refill
+Busia,PAEDIATRICS,Tooth pain
+Tororo,MENTAL_HEALTH,Follow-up visit
+Mbarara,DENTAL,Eye test
+Soroti,GENERAL,Routine check-up
+Lira,SURGERY,Tooth pain
+Hoima,DENTAL,Eye test
+Moroto,GENERAL,Tooth pain
+Busia,DENTAL,Tooth pain
+Kasese,OPTICAL,Eye test
+Arua,HIV_CARE,Prescription refill
+Moroto,OPTICAL,Prescription refill
+Mbale,SURGERY,Antenatal visit
+Tororo,HIV_CARE,Follow-up visit
+Busia,OPTICAL,Tooth pain
+Hoima,IMMUNISATION,Child immunisation
+Wakiso,IMMUNISATION,Tooth pain
+Hoima,MENTAL_HEALTH,Tooth pain
+Masaka,OPTICAL,Antenatal visit
+Mukono,OPTICAL,Child immunisation
+Masaka,OPTICAL,Fever and headache
+Tororo,OPTICAL,Follow-up visit
+Moroto,OPTICAL,Fever and headache
+Masindi,HIV_CARE,Child immunisation
+Jinja,GENERAL,Child immunisation
+Mbale,HIV_CARE,Fever and headache
+Masindi,MATERNITY,Antenatal visit
+Masindi,MATERNITY,Routine check-up
+Kabale,GENERAL,Prescription refill
+Kabale,DENTAL,Fever and headache
+Gulu,HIV_CARE,Eye test
+Iganga,ANTENATAL,Prescription refill
+Iganga,ANTENATAL,Routine check-up
+Gulu,DENTAL,Tooth pain
+Hoima,GENERAL,Fever and headache
+Masindi,HIV_CARE,Eye test
+Hoima,OPTICAL,Follow-up visit
+Moroto,MATERNITY,Tooth pain
+Mbarara,PAEDIATRICS,Prescription refill
+Kampala,HIV_CARE,Fever and headache
+Moroto,MENTAL_HEALTH,Fever and headache
+Wakiso,GENERAL,Antenatal visit
+Mukono,MENTAL_HEALTH,Follow-up visit
+Mukono,MATERNITY,Child immunisation
+Lira,OPTICAL,Tooth pain
+Jinja,GENERAL,Child immunisation
+Lira,OPTICAL,Antenatal visit
+Kasese,MENTAL_HEALTH,Fever and headache
+Moroto,DENTAL,Fever and headache
+Gulu,OPTICAL,Child immunisation
+Tororo,GENERAL,Follow-up visit
+Mukono,GENERAL,Child immunisation
+Kasese,PAEDIATRICS,Follow-up visit
+Kampala,SURGERY,Eye test
+Moroto,IMMUNISATION,Child immunisation
+Kasese,GENERAL,Prescription refill
+Hoima,DENTAL,Routine check-up
+Tororo,MATERNITY,Tooth pain
+Mbarara,ANTENATAL,Tooth pain
+Hoima,SURGERY,Antenatal visit
+Mbale,DENTAL,Follow-up visit
+Busia,PAEDIATRICS,Fever and headache
+Hoima,SURGERY,Tooth pain
+Fort Portal,GENERAL,Antenatal visit
+Moroto,OPTICAL,Routine check-up
+Lira,ANTENATAL,Child immunisation
+Wakiso,PAEDIATRICS,Fever and headache
+Kabale,GENERAL,Prescription refill
+Kampala,MENTAL_HEALTH,Prescription refill
+Lira,ANTENATAL,Follow-up visit
+Kasese,SURGERY,Eye test
+Kabale,PAEDIATRICS,Routine check-up
+Arua,OPTICAL,Prescription refill
+Jinja,MATERNITY,Tooth pain
+Masaka,PAEDIATRICS,Antenatal visit
+Gulu,MENTAL_HEALTH,Tooth pain
+Jinja,ANTENATAL,Eye test
+Kampala,HIV_CARE,Child immunisation
+Tororo,MENTAL_HEALTH,Routine check-up
+Moroto,MENTAL_HEALTH,Tooth pain
+Arua,IMMUNISATION,Eye test
+Masindi,MATERNITY,Fever and headache
+Mbarara,GENERAL,Antenatal visit
+Masaka,MATERNITY,Child immunisation
+Mbale,MATERNITY,Child immunisation
+Moroto,PAEDIATRICS,Eye test
+Mbale,OPTICAL,Follow-up visit
+Arua,DENTAL,Routine check-up
+Soroti,HIV_CARE,Tooth pain
+Tororo,MATERNITY,Antenatal visit
+Kasese,ANTENATAL,Antenatal visit
+Mukono,GENERAL,Fever and headache
+Iganga,MENTAL_HEALTH,Child immunisation
+Moroto,MATERNITY,Follow-up visit
+Kampala,DENTAL,Fever and headache
+Soroti,MATERNITY,Antenatal visit
+Jinja,PAEDIATRICS,Eye test
+Arua,SURGERY,Routine check-up
+Lira,SURGERY,Tooth pain
+Hoima,MENTAL_HEALTH,Child immunisation
+Kampala,GENERAL,Child immunisation
+Soroti,HIV_CARE,Fever and headache
+Iganga,PAEDIATRICS,Antenatal visit
+Kabale,SURGERY,Antenatal visit
+Mbarara,OPTICAL,Fever and headache
+Gulu,OPTICAL,Fever and headache
+Moroto,PAEDIATRICS,Fever and headache
+Wakiso,OPTICAL,Routine check-up
+Lira,DENTAL,Eye test
+Fort Portal,MATERNITY,Tooth pain
+Mbale,MENTAL_HEALTH,Follow-up visit
+Tororo,MATERNITY,Follow-up visit
+Mukono,OPTICAL,Eye test
+Mukono,SURGERY,Follow-up visit
+Mbale,PAEDIATRICS,Follow-up visit
+Gulu,ANTENATAL,Tooth pain
+Kabale,IMMUNISATION,Antenatal visit
+Tororo,DENTAL,Follow-up visit
+Wakiso,DENTAL,Prescription refill
+Lira,PAEDIATRICS,Child immunisation
+Mbarara,ANTENATAL,Child immunisation
+Iganga,MENTAL_HEALTH,Antenatal visit
+Jinja,GENERAL,Antenatal visit
+Gulu,HIV_CARE,Child immunisation
+Tororo,PAEDIATRICS,Child immunisation
+Kasese,SURGERY,Eye test
+Mbarara,SURGERY,Fever and headache
+Jinja,MATERNITY,Prescription refill
+Busia,OPTICAL,Antenatal visit
+Lira,IMMUNISATION,Follow-up visit
+Wakiso,DENTAL,Tooth pain
+Lira,HIV_CARE,Eye test
+Iganga,PAEDIATRICS,Child immunisation
+Mukono,OPTICAL,Follow-up visit
+Jinja,MENTAL_HEALTH,Tooth pain
+Mukono,SURGERY,Tooth pain
+Lira,HIV_CARE,Antenatal visit
+Busia,MATERNITY,Child immunisation
+Jinja,DENTAL,Prescription refill
+Mukono,PAEDIATRICS,Follow-up visit
+Moroto,MATERNITY,Follow-up visit
+Kabale,GENERAL,Antenatal visit
+Masindi,OPTICAL,Prescription refill
+Kabale,HIV_CARE,Tooth pain
+Mukono,ANTENATAL,Follow-up visit
+Mukono,OPTICAL,Fever and headache
+Kabale,SURGERY,Fever and headache
+Lira,HIV_CARE,Prescription refill
+Mbarara,MATERNITY,Follow-up visit
+Fort Portal,GENERAL,Prescription refill
+Kabale,HIV_CARE,Fever and headache
+Busia,DENTAL,Fever and headache
+Masindi,HIV_CARE,Eye test
+Kabale,OPTICAL,Fever and headache
+Wakiso,GENERAL,Follow-up visit
+Wakiso,ANTENATAL,Child immunisation
+Kasese,HIV_CARE,Routine check-up
+Masaka,IMMUNISATION,Fever and headache
+Moroto,ANTENATAL,Prescription refill
+Kabale,SURGERY,Prescription refill
+Jinja,DENTAL,Tooth pain
+Iganga,OPTICAL,Follow-up visit
+Masaka,OPTICAL,Routine check-up
+Moroto,MATERNITY,Eye test
+Mukono,GENERAL,Eye test
+Kasese,OPTICAL,Fever and headache
+Mbarara,DENTAL,Tooth pain
+Tororo,IMMUNISATION,Follow-up visit
+Masindi,ANTENATAL,Routine check-up
+Jinja,IMMUNISATION,Fever and headache
+Kampala,SURGERY,Child immunisation
+Fort Portal,GENERAL,Follow-up visit
+Mukono,MENTAL_HEALTH,Routine check-up
+Iganga,SURGERY,Eye test
+Mukono,IMMUNISATION,Follow-up visit
+Tororo,GENERAL,Antenatal visit
+Masindi,GENERAL,Fever and headache
+Mbarara,OPTICAL,Eye test
+Mbale,GENERAL,Antenatal visit
+Kabale,MENTAL_HEALTH,Tooth pain
+Masindi,IMMUNISATION,Routine check-up
+Busia,ANTENATAL,Prescription refill
+Tororo,OPTICAL,Antenatal visit
+Moroto,HIV_CARE,Routine check-up
+Hoima,MENTAL_HEALTH,Antenatal visit
+Masindi,MENTAL_HEALTH,Child immunisation
+Arua,HIV_CARE,Tooth pain
+Masindi,HIV_CARE,Follow-up visit
+Wakiso,SURGERY,Tooth pain
+Mbale,GENERAL,Follow-up visit
+Kampala,MENTAL_HEALTH,Child immunisation
+Jinja,MATERNITY,Tooth pain
+Jinja,DENTAL,Prescription refill
+Tororo,ANTENATAL,Prescription refill
+Moroto,MENTAL_HEALTH,Prescription refill
+Fort Portal,GENERAL,Tooth pain
+Soroti,DENTAL,Routine check-up
+Lira,ANTENATAL,Fever and headache
+Kabale,GENERAL,Child immunisation
+Wakiso,HIV_CARE,Eye test
+Tororo,MENTAL_HEALTH,Prescription refill
+Gulu,OPTICAL,Fever and headache
+Busia,IMMUNISATION,Routine check-up
+Jinja,GENERAL,Eye test
+Kampala,MENTAL_HEALTH,Prescription refill
+Lira,ANTENATAL,Child immunisation
+Masaka,HIV_CARE,Follow-up visit
+Wakiso,PAEDIATRICS,Follow-up visit
+Iganga,HIV_CARE,Routine check-up
+Jinja,GENERAL,Tooth pain
+Tororo,OPTICAL,Eye test
+Mbale,MATERNITY,Tooth pain
+Mbarara,MATERNITY,Routine check-up
+Mukono,MENTAL_HEALTH,Prescription refill
+Mukono,ANTENATAL,Fever and headache
+Moroto,IMMUNISATION,Fever and headache
+Soroti,SURGERY,Antenatal visit
+Wakiso,HIV_CARE,Routine check-up
+Masindi,DENTAL,Tooth pain
+Kampala,GENERAL,Routine check-up
+Jinja,IMMUNISATION,Prescription refill
+Kampala,OPTICAL,Eye test
+Fort Portal,GENERAL,Follow-up visit
+Kabale,IMMUNISATION,Tooth pain
+Iganga,SURGERY,Child immunisation
+Jinja,PAEDIATRICS,Tooth pain
+Fort Portal,MENTAL_HEALTH,Child immunisation
+Kasese,SURGERY,Fever and headache
+Masaka,HIV_CARE,Prescription refill
+Mbale,MENTAL_HEALTH,Eye test
+Kasese,MATERNITY,Prescription refill
+Masaka,MENTAL_HEALTH,Child immunisation
+Kabale,SURGERY,Tooth pain
+Wakiso,PAEDIATRICS,Fever and headache
+Fort Portal,ANTENATAL,Eye test
+Gulu,MENTAL_HEALTH,Child immunisation
+Moroto,MATERNITY,Follow-up visit
+Soroti,MATERNITY,Tooth pain
+Kasese,PAEDIATRICS,Child immunisation
+Kasese,DENTAL,Eye test
+Moroto,MATERNITY,Tooth pain
+Hoima,IMMUNISATION,Routine check-up
+Tororo,SURGERY,Child immunisation
+Tororo,SURGERY,Eye test
+Gulu,DENTAL,Tooth pain
+Mukono,DENTAL,Prescription refill
+Busia,HIV_CARE,Tooth pain
+Masaka,MENTAL_HEALTH,Tooth pain
+Kasese,MATERNITY,Follow-up visit
+Kasese,OPTICAL,Follow-up visit
+Gulu,GENERAL,Prescription refill
+Arua,MENTAL_HEALTH,Antenatal visit
+Lira,GENERAL,Antenatal visit
+Tororo,IMMUNISATION,Prescription refill
+Moroto,SURGERY,Child immunisation
+Masindi,PAEDIATRICS,Prescription refill
+Kampala,SURGERY,Eye test
+Gulu,ANTENATAL,Fever and headache
+Jinja,SURGERY,Antenatal visit
+Gulu,HIV_CARE,Child immunisation
+Wakiso,GENERAL,Follow-up visit
+Mukono,MENTAL_HEALTH,Child immunisation
+Wakiso,MENTAL_HEALTH,Antenatal visit
+Iganga,IMMUNISATION,Routine check-up
+Tororo,PAEDIATRICS,Eye test
+Arua,MATERNITY,Tooth pain
+Mbale,IMMUNISATION,Tooth pain
+Kabale,IMMUNISATION,Tooth pain
+Masindi,ANTENATAL,Tooth pain
+Soroti,OPTICAL,Prescription refill
+Fort Portal,HIV_CARE,Child immunisation
+Mbale,MENTAL_HEALTH,Eye test
+Busia,MENTAL_HEALTH,Routine check-up
+Masindi,GENERAL,Fever and headache
+Soroti,OPTICAL,Prescription refill
+Gulu,MENTAL_HEALTH,Routine check-up
+Jinja,HIV_CARE,Tooth pain
+Arua,GENERAL,Fever and headache
+Wakiso,MATERNITY,Tooth pain
+Jinja,IMMUNISATION,Antenatal visit
+Jinja,IMMUNISATION,Follow-up visit
+Kabale,SURGERY,Routine check-up
+Wakiso,PAEDIATRICS,Antenatal visit
+Mukono,OPTICAL,Tooth pain
+Arua,MATERNITY,Tooth pain
+Fort Portal,ANTENATAL,Antenatal visit
+Gulu,SURGERY,Routine check-up
+Kasese,MENTAL_HEALTH,Antenatal visit
+Hoima,ANTENATAL,Child immunisation
+Kabale,DENTAL,Follow-up visit
+Tororo,MENTAL_HEALTH,Tooth pain
+Iganga,OPTICAL,Antenatal visit
+Kasese,ANTENATAL,Antenatal visit
+Mbale,ANTENATAL,Eye test
+Kampala,ANTENATAL,Antenatal visit
+Mukono,MATERNITY,Child immunisation
+Lira,HIV_CARE,Routine check-up
+Masindi,MENTAL_HEALTH,Child immunisation
+Kampala,OPTICAL,Tooth pain
+Hoima,PAEDIATRICS,Fever and headache
+Fort Portal,ANTENATAL,Child immunisation
+Iganga,IMMUNISATION,Fever and headache
+Wakiso,HIV_CARE,Follow-up visit
+Iganga,ANTENATAL,Tooth pain
+Masaka,GENERAL,Prescription refill
+Soroti,OPTICAL,Routine check-up
+Kabale,PAEDIATRICS,Tooth pain
+Soroti,SURGERY,Antenatal visit
+Busia,HIV_CARE,Routine check-up
+Jinja,DENTAL,Fever and headache
+Mukono,PAEDIATRICS,Eye test
+Jinja,SURGERY,Follow-up visit
+Mbale,DENTAL,Eye test
+Mukono,MENTAL_HEALTH,Antenatal visit
+Jinja,PAEDIATRICS,Prescription refill
+Kasese,MENTAL_HEALTH,Routine check-up
+Iganga,MENTAL_HEALTH,Antenatal visit
+Mukono,MENTAL_HEALTH,Prescription refill
+Hoima,PAEDIATRICS,Routine check-up
+Masaka,OPTICAL,Antenatal visit
+Kampala,DENTAL,Antenatal visit
+Kabale,PAEDIATRICS,Antenatal visit
+Mukono,GENERAL,Routine check-up
+Tororo,SURGERY,Follow-up visit
+Busia,PAEDIATRICS,Prescription refill
+Kabale,DENTAL,Antenatal visit
+Kasese,HIV_CARE,Fever and headache
+Lira,HIV_CARE,Eye test
+Fort Portal,IMMUNISATION,Routine check-up
+Kampala,OPTICAL,Antenatal visit
+Jinja,SURGERY,Fever and headache
+Kabale,PAEDIATRICS,Eye test
+Soroti,IMMUNISATION,Routine check-up
+Kampala,HIV_CARE,Follow-up visit
+Mukono,IMMUNISATION,Routine check-up
+Arua,MATERNITY,Antenatal visit
+Tororo,MENTAL_HEALTH,Prescription refill
+Kabale,DENTAL,Follow-up visit
+Hoima,PAEDIATRICS,Prescription refill
+Arua,HIV_CARE,Routine check-up
+Masindi,ANTENATAL,Tooth pain
+Gulu,PAEDIATRICS,Follow-up visit
+Mukono,HIV_CARE,Prescription refill
+Fort Portal,MENTAL_HEALTH,Eye test
+Kasese,PAEDIATRICS,Antenatal visit
+Hoima,HIV_CARE,Prescription refill
+Soroti,IMMUNISATION,Fever and headache
+Kampala,IMMUNISATION,Child immunisation
+Masindi,MENTAL_HEALTH,Tooth pain
+Kabale,GENERAL,Eye test
+Fort Portal,GENERAL,Follow-up visit
+Wakiso,PAEDIATRICS,Tooth pain
+Kasese,DENTAL,Fever and headache
+Moroto,ANTENATAL,Eye test
+Fort Portal,OPTICAL,Antenatal visit
+Masaka,HIV_CARE,Prescription refill
+Kasese,ANTENATAL,Follow-up visit
+Moroto,DENTAL,Fever and headache
+Masindi,SURGERY,Eye test
+Busia,MENTAL_HEALTH,Routine check-up
+Hoima,HIV_CARE,Routine check-up
+Moroto,GENERAL,Eye test
+Lira,MATERNITY,Follow-up visit
+Jinja,GENERAL,Child immunisation
+Mbarara,GENERAL,Child immunisation
+Moroto,DENTAL,Routine check-up
+Moroto,OPTICAL,Child immunisation
+Masindi,ANTENATAL,Follow-up visit
+Hoima,HIV_CARE,Routine check-up
+Jinja,DENTAL,Fever and headache
+Lira,OPTICAL,Tooth pain
+Busia,HIV_CARE,Prescription refill
+Mbarara,PAEDIATRICS,Prescription refill
+Gulu,SURGERY,Antenatal visit
+Gulu,ANTENATAL,Child immunisation
+Kasese,GENERAL,Prescription refill
+Gulu,SURGERY,Prescription refill
+Jinja,ANTENATAL,Fever and headache
+Masaka,MATERNITY,Fever and headache
+Masaka,OPTICAL,Tooth pain
+Wakiso,ANTENATAL,Follow-up visit
+Kabale,OPTICAL,Prescription refill
+Masindi,MATERNITY,Fever and headache
+Masaka,DENTAL,Child immunisation
+Jinja,OPTICAL,Fever and headache
+Kabale,OPTICAL,Follow-up visit
+Iganga,SURGERY,Fever and headache
+Arua,ANTENATAL,Routine check-up
+Mbale,IMMUNISATION,Eye test
+Gulu,DENTAL,Fever and headache
+Hoima,MENTAL_HEALTH,Fever and headache
+Mbale,MENTAL_HEALTH,Follow-up visit
+Soroti,GENERAL,Follow-up visit
+Wakiso,IMMUNISATION,Follow-up visit
+Arua,SURGERY,Tooth pain
+Masindi,MATERNITY,Tooth pain
+Kampala,HIV_CARE,Follow-up visit
+Masaka,ANTENATAL,Tooth pain
+Arua,DENTAL,Child immunisation
+Masindi,HIV_CARE,Routine check-up
+Masaka,IMMUNISATION,Eye test
+Masindi,MENTAL_HEALTH,Eye test
+Mbarara,HIV_CARE,Antenatal visit
+Kampala,MENTAL_HEALTH,Follow-up visit
+Arua,HIV_CARE,Antenatal visit
+Mbale,OPTICAL,Child immunisation
+Fort Portal,SURGERY,Antenatal visit
+Fort Portal,OPTICAL,Follow-up visit
+Masaka,OPTICAL,Follow-up visit
+Fort Portal,OPTICAL,Routine check-up
+Kampala,IMMUNISATION,Routine check-up
+Kabale,MATERNITY,Follow-up visit
+Mbale,ANTENATAL,Fever and headache
+Gulu,OPTICAL,Child immunisation
+Masindi,SURGERY,Tooth pain
+Gulu,OPTICAL,Routine check-up
+Iganga,IMMUNISATION,Tooth pain
+Masindi,IMMUNISATION,Tooth pain
+Kabale,GENERAL,Antenatal visit
+Mbale,HIV_CARE,Antenatal visit
+Iganga,IMMUNISATION,Tooth pain
+Soroti,MATERNITY,Antenatal visit
+Mukono,SURGERY,Tooth pain
+Masindi,SURGERY,Follow-up visit
+Kabale,SURGERY,Fever and headache
+Mbarara,MATERNITY,Child immunisation
+Gulu,HIV_CARE,Fever and headache
+Jinja,MATERNITY,Follow-up visit
+Tororo,IMMUNISATION,Child immunisation
+Moroto,MENTAL_HEALTH,Eye test
+Fort Portal,MATERNITY,Fever and headache
+Jinja,SURGERY,Routine check-up
+Jinja,PAEDIATRICS,Routine check-up
+Mbarara,MENTAL_HEALTH,Child immunisation
+Kampala,ANTENATAL,Antenatal visit
+Kampala,ANTENATAL,Antenatal visit
+Arua,MATERNITY,Fever and headache
+Hoima,OPTICAL,Follow-up visit
+Arua,MENTAL_HEALTH,Child immunisation
+Arua,IMMUNISATION,Routine check-up
+Kasese,GENERAL,Routine check-up
+Masindi,SURGERY,Prescription refill
+Fort Portal,MATERNITY,Tooth pain
+Busia,IMMUNISATION,Routine check-up
+Jinja,SURGERY,Antenatal visit
+Fort Portal,IMMUNISATION,Child immunisation
+Masaka,MENTAL_HEALTH,Child immunisation
+Jinja,SURGERY,Eye test
+Kasese,DENTAL,Tooth pain
+Kasese,MATERNITY,Fever and headache
+Masindi,HIV_CARE,Antenatal visit
+Tororo,HIV_CARE,Fever and headache
+Moroto,PAEDIATRICS,Antenatal visit
+Hoima,ANTENATAL,Routine check-up
+Gulu,ANTENATAL,Tooth pain
+Hoima,GENERAL,Fever and headache
+Masindi,DENTAL,Eye test
+Kasese,ANTENATAL,Prescription refill
+Wakiso,HIV_CARE,Routine check-up
+Kabale,DENTAL,Child immunisation
+Arua,HIV_CARE,Routine check-up
+Kabale,GENERAL,Fever and headache
+Moroto,IMMUNISATION,Routine check-up
+Arua,OPTICAL,Follow-up visit
+Hoima,ANTENATAL,Follow-up visit
+Soroti,HIV_CARE,Fever and headache
+Hoima,DENTAL,Child immunisation
+Mukono,HIV_CARE,Eye test
+Hoima,MENTAL_HEALTH,Fever and headache
+Moroto,OPTICAL,Routine check-up
+Kasese,DENTAL,Eye test
+Masindi,MATERNITY,Tooth pain
+Masaka,SURGERY,Antenatal visit
+Hoima,PAEDIATRICS,Tooth pain
+Mbale,MATERNITY,Antenatal visit
+Mbale,ANTENATAL,Routine check-up
+Lira,HIV_CARE,Routine check-up
+Kabale,SURGERY,Routine check-up
+Gulu,OPTICAL,Routine check-up
+Kampala,GENERAL,Antenatal visit
+Tororo,MENTAL_HEALTH,Antenatal visit
+Kabale,GENERAL,Routine check-up
+Fort Portal,IMMUNISATION,Fever and headache
+Fort Portal,HIV_CARE,Antenatal visit
+Hoima,IMMUNISATION,Routine check-up
+Tororo,MENTAL_HEALTH,Follow-up visit
+Wakiso,GENERAL,Child immunisation
+Arua,ANTENATAL,Child immunisation
+Kasese,DENTAL,Follow-up visit
+Mbale,IMMUNISATION,Routine check-up
+Hoima,MATERNITY,Routine check-up
+Kasese,SURGERY,Routine check-up
+Busia,MENTAL_HEALTH,Child immunisation
+Iganga,SURGERY,Eye test
+Masaka,MATERNITY,Fever and headache
+Lira,HIV_CARE,Prescription refill
+Tororo,SURGERY,Fever and headache
+Kasese,HIV_CARE,Prescription refill
+Arua,MENTAL_HEALTH,Fever and headache
+Jinja,HIV_CARE,Antenatal visit
+Mbarara,HIV_CARE,Child immunisation
+Wakiso,SURGERY,Eye test
+Mbale,ANTENATAL,Antenatal visit
+Iganga,HIV_CARE,Follow-up visit
+Masindi,GENERAL,Follow-up visit
+Iganga,OPTICAL,Eye test
+Wakiso,GENERAL,Fever and headache
+Iganga,IMMUNISATION,Follow-up visit
+Tororo,GENERAL,Fever and headache
+Masindi,IMMUNISATION,Child immunisation
+Kasese,DENTAL,Eye test
+Soroti,PAEDIATRICS,Tooth pain
+Tororo,PAEDIATRICS,Follow-up visit
+Kabale,MENTAL_HEALTH,Antenatal visit
+Jinja,DENTAL,Tooth pain
+Jinja,SURGERY,Antenatal visit
+Wakiso,IMMUNISATION,Child immunisation
+Mbarara,MENTAL_HEALTH,Follow-up visit
+Wakiso,SURGERY,Fever and headache
+Lira,DENTAL,Fever and headache
+Wakiso,MATERNITY,Fever and headache
+Mbale,DENTAL,Prescription refill
+Busia,PAEDIATRICS,Child immunisation
+Busia,MENTAL_HEALTH,Fever and headache
+Kasese,ANTENATAL,Antenatal visit
+Iganga,MENTAL_HEALTH,Follow-up visit
+Kampala,MENTAL_HEALTH,Antenatal visit
+Gulu,ANTENATAL,Tooth pain
+Arua,OPTICAL,Tooth pain
+Busia,MENTAL_HEALTH,Child immunisation
+Kasese,HIV_CARE,Routine check-up
+Fort Portal,MENTAL_HEALTH,Prescription refill
+Fort Portal,MENTAL_HEALTH,Tooth pain
+Kasese,SURGERY,Child immunisation
+Mbarara,MATERNITY,Routine check-up
+Masaka,OPTICAL,Fever and headache
+Kampala,HIV_CARE,Eye test
+Hoima,DENTAL,Prescription refill
+Kampala,DENTAL,Follow-up visit
+Kabale,ANTENATAL,Tooth pain
+Masindi,PAEDIATRICS,Child immunisation
+Jinja,ANTENATAL,Fever and headache
+Mbale,OPTICAL,Routine check-up
+Kabale,HIV_CARE,Prescription refill
+Tororo,GENERAL,Eye test
+Fort Portal,ANTENATAL,Eye test
+Masaka,HIV_CARE,Routine check-up
+Masindi,OPTICAL,Prescription refill
+Masindi,IMMUNISATION,Follow-up visit
+Tororo,GENERAL,Routine check-up
+Gulu,DENTAL,Fever and headache
+Iganga,ANTENATAL,Prescription refill
+Arua,HIV_CARE,Prescription refill
+Fort Portal,DENTAL,Fever and headache
+Moroto,DENTAL,Routine check-up
+Mbale,GENERAL,Tooth pain
+Kabale,IMMUNISATION,Antenatal visit
+Kampala,HIV_CARE,Child immunisation
+Mbale,IMMUNISATION,Tooth pain
+Hoima,ANTENATAL,Eye test
+Gulu,HIV_CARE,Child immunisation
+Soroti,ANTENATAL,Fever and headache
+Kabale,HIV_CARE,Antenatal visit
+Mbarara,HIV_CARE,Tooth pain
+Mbale,ANTENATAL,Prescription refill
+Tororo,GENERAL,Tooth pain
+Kampala,PAEDIATRICS,Antenatal visit
+Iganga,OPTICAL,Fever and headache
+Masaka,MATERNITY,Routine check-up
+Mukono,IMMUNISATION,Follow-up visit
+Tororo,DENTAL,Routine check-up
+Lira,PAEDIATRICS,Prescription refill
+Kasese,SURGERY,Fever and headache
+Lira,PAEDIATRICS,Routine check-up
+Masindi,SURGERY,Antenatal visit
+Kabale,PAEDIATRICS,Antenatal visit
+Gulu,GENERAL,Fever and headache
+Mbale,OPTICAL,Child immunisation
+Wakiso,MATERNITY,Prescription refill
+Kabale,PAEDIATRICS,Antenatal visit
+Tororo,GENERAL,Prescription refill
+Kasese,HIV_CARE,Routine check-up
+Mbale,ANTENATAL,Prescription refill
+Mbale,MATERNITY,Prescription refill
+Masaka,MENTAL_HEALTH,Prescription refill
+Tororo,MATERNITY,Prescription refill
+Busia,DENTAL,Prescription refill
+Hoima,OPTICAL,Antenatal visit
+Mbale,IMMUNISATION,Routine check-up
+Kasese,IMMUNISATION,Follow-up visit
+Mukono,SURGERY,Tooth pain
+Wakiso,ANTENATAL,Fever and headache
+Mukono,DENTAL,Child immunisation
+Hoima,SURGERY,Follow-up visit
+Jinja,IMMUNISATION,Eye test
+Kampala,DENTAL,Routine check-up
+Mbale,HIV_CARE,Follow-up visit
+Arua,ANTENATAL,Antenatal visit
+Jinja,HIV_CARE,Antenatal visit
+Iganga,MENTAL_HEALTH,Tooth pain
+Mbale,IMMUNISATION,Routine check-up
+Fort Portal,PAEDIATRICS,Eye test
+Tororo,MENTAL_HEALTH,Routine check-up
+Arua,GENERAL,Prescription refill
+Iganga,OPTICAL,Routine check-up
+Hoima,GENERAL,Antenatal visit
+Busia,ANTENATAL,Prescription refill
+Masindi,OPTICAL,Routine check-up
+Jinja,MENTAL_HEALTH,Eye test
+Iganga,GENERAL,Prescription refill
+Kampala,IMMUNISATION,Child immunisation
+Tororo,DENTAL,Fever and headache
+Kabale,PAEDIATRICS,Antenatal visit
+Moroto,DENTAL,Eye test
+Mbale,DENTAL,Eye test
+Tororo,IMMUNISATION,Tooth pain
+Fort Portal,OPTICAL,Eye test
+Lira,MATERNITY,Routine check-up
+Moroto,ANTENATAL,Prescription refill
+Mbale,OPTICAL,Routine check-up
+Masaka,SURGERY,Child immunisation
+Gulu,SURGERY,Fever and headache
+Busia,ANTENATAL,Routine check-up
+Masindi,ANTENATAL,Tooth pain
+Moroto,DENTAL,Routine check-up
+Mbarara,GENERAL,Follow-up visit
+Fort Portal,GENERAL,Antenatal visit
+Arua,DENTAL,Prescription refill
+Masindi,PAEDIATRICS,Child immunisation
+Mukono,ANTENATAL,Antenatal visit
+Hoima,MENTAL_HEALTH,Antenatal visit
+Arua,PAEDIATRICS,Routine check-up
+Kampala,ANTENATAL,Prescription refill
+Mukono,ANTENATAL,Fever and headache
+Busia,SURGERY,Tooth pain
+Masaka,MENTAL_HEALTH,Antenatal visit
+Hoima,HIV_CARE,Child immunisation
+Kampala,DENTAL,Follow-up visit
+Jinja,MENTAL_HEALTH,Routine check-up
+Soroti,HIV_CARE,Follow-up visit
+Kabale,MENTAL_HEALTH,Antenatal visit
+Hoima,ANTENATAL,Child immunisation
+Iganga,OPTICAL,Follow-up visit
+Fort Portal,SURGERY,Eye test
+Masindi,PAEDIATRICS,Prescription refill
+Soroti,IMMUNISATION,Fever and headache
+Iganga,GENERAL,Antenatal visit
+Wakiso,PAEDIATRICS,Routine check-up
+Moroto,MENTAL_HEALTH,Follow-up visit
+Jinja,PAEDIATRICS,Child immunisation
+Fort Portal,SURGERY,Tooth pain
+Mbale,SURGERY,Fever and headache
+Moroto,MENTAL_HEALTH,Fever and headache
+Kabale,HIV_CARE,Antenatal visit
+Mbarara,SURGERY,Eye test
+Mbarara,IMMUNISATION,Follow-up visit
+Masaka,MENTAL_HEALTH,Fever and headache
+Fort Portal,GENERAL,Fever and headache
+Gulu,ANTENATAL,Eye test
+Mbarara,IMMUNISATION,Prescription refill
+Mbarara,HIV_CARE,Tooth pain
+Tororo,DENTAL,Child immunisation
+Moroto,ANTENATAL,Fever and headache
+Busia,MENTAL_HEALTH,Child immunisation
+Soroti,PAEDIATRICS,Routine check-up
+Soroti,IMMUNISATION,Tooth pain
+Wakiso,PAEDIATRICS,Tooth pain
+Arua,MATERNITY,Routine check-up
+Kasese,MENTAL_HEALTH,Tooth pain
+Fort Portal,PAEDIATRICS,Tooth pain
+Arua,SURGERY,Fever and headache
+Kabale,DENTAL,Child immunisation
+Masindi,MATERNITY,Antenatal visit
+Arua,ANTENATAL,Tooth pain
+Fort Portal,GENERAL,Routine check-up
+Kabale,GENERAL,Routine check-up
+Arua,GENERAL,Routine check-up
+Wakiso,GENERAL,Fever and headache
+Kasese,IMMUNISATION,Routine check-up
+Mbale,DENTAL,Tooth pain
+Soroti,GENERAL,Tooth pain
+Hoima,HIV_CARE,Follow-up visit
+Arua,SURGERY,Follow-up visit
+Lira,SURGERY,Prescription refill
+Jinja,MATERNITY,Follow-up visit
+Moroto,ANTENATAL,Routine check-up
+Tororo,MENTAL_HEALTH,Child immunisation
+Mukono,ANTENATAL,Tooth pain
+Iganga,MENTAL_HEALTH,Antenatal visit
+Soroti,PAEDIATRICS,Fever and headache
+Hoima,ANTENATAL,Eye test
+Moroto,SURGERY,Routine check-up
+Arua,PAEDIATRICS,Child immunisation
+Mbarara,IMMUNISATION,Tooth pain
+Gulu,DENTAL,Routine check-up
+Fort Portal,MENTAL_HEALTH,Prescription refill
+Masaka,PAEDIATRICS,Child immunisation
+Arua,GENERAL,Antenatal visit
+Hoima,SURGERY,Child immunisation
+Kabale,DENTAL,Child immunisation
+Moroto,SURGERY,Eye test
+Lira,OPTICAL,Eye test
+Kabale,DENTAL,Tooth pain
+Wakiso,HIV_CARE,Child immunisation
+Gulu,ANTENATAL,Prescription refill
+Masaka,OPTICAL,Routine check-up
+Iganga,MENTAL_HEALTH,Antenatal visit
+Mukono,MENTAL_HEALTH,Child immunisation
+Masaka,ANTENATAL,Child immunisation
+Soroti,MENTAL_HEALTH,Fever and headache
+Moroto,OPTICAL,Child immunisation
+Gulu,GENERAL,Prescription refill
+Mukono,HIV_CARE,Prescription refill
+Arua,PAEDIATRICS,Routine check-up
+Kasese,MENTAL_HEALTH,Child immunisation
+Masindi,MENTAL_HEALTH,Tooth pain
+Masindi,OPTICAL,Follow-up visit
+Jinja,HIV_CARE,Follow-up visit
+Kabale,OPTICAL,Child immunisation
+Moroto,ANTENATAL,Child immunisation
+Masindi,MATERNITY,Fever and headache
+Masindi,PAEDIATRICS,Tooth pain
+Wakiso,OPTICAL,Routine check-up
+Arua,ANTENATAL,Fever and headache
+Soroti,PAEDIATRICS,Fever and headache
+Masindi,OPTICAL,Follow-up visit
+Fort Portal,DENTAL,Child immunisation
+Lira,PAEDIATRICS,Child immunisation
+Mukono,HIV_CARE,Eye test
+Gulu,SURGERY,Fever and headache
+Busia,SURGERY,Eye test
+Lira,ANTENATAL,Antenatal visit
+Masaka,ANTENATAL,Eye test
+Mbale,IMMUNISATION,Eye test
+Gulu,OPTICAL,Antenatal visit
+Lira,OPTICAL,Child immunisation
+Iganga,OPTICAL,Tooth pain
+Kasese,PAEDIATRICS,Prescription refill
+Masaka,PAEDIATRICS,Child immunisation
+Tororo,PAEDIATRICS,Follow-up visit
+Iganga,OPTICAL,Tooth pain
+Mbarara,OPTICAL,Antenatal visit
+Kampala,GENERAL,Fever and headache
+Arua,ANTENATAL,Follow-up visit
+Masaka,MATERNITY,Routine check-up
+Masaka,MATERNITY,Follow-up visit
+Mbarara,GENERAL,Fever and headache
+Fort Portal,MENTAL_HEALTH,Child immunisation
+Kasese,MATERNITY,Child immunisation
+Tororo,IMMUNISATION,Eye test
+Kampala,HIV_CARE,Tooth pain
+Moroto,GENERAL,Tooth pain
+Tororo,GENERAL,Follow-up visit
+Gulu,MENTAL_HEALTH,Fever and headache
+Soroti,SURGERY,Antenatal visit
+Mbale,HIV_CARE,Tooth pain
+Soroti,PAEDIATRICS,Follow-up visit
+Kampala,ANTENATAL,Child immunisation
+Jinja,DENTAL,Tooth pain
+Hoima,HIV_CARE,Prescription refill
+Masaka,MATERNITY,Routine check-up
+Hoima,IMMUNISATION,Follow-up visit
+Mukono,PAEDIATRICS,Eye test
+Jinja,HIV_CARE,Prescription refill
+Soroti,GENERAL,Antenatal visit
+Soroti,PAEDIATRICS,Tooth pain
+Mukono,DENTAL,Antenatal visit
+Mbale,MATERNITY,Antenatal visit
+Wakiso,HIV_CARE,Follow-up visit
+Moroto,IMMUNISATION,Routine check-up
+Kasese,MATERNITY,Antenatal visit
+Arua,OPTICAL,Fever and headache
+Moroto,PAEDIATRICS,Antenatal visit
+Masindi,OPTICAL,Tooth pain
+Masindi,SURGERY,Eye test
+Lira,SURGERY,Child immunisation
+Kampala,ANTENATAL,Follow-up visit
+Hoima,MATERNITY,Routine check-up
+Moroto,MATERNITY,Tooth pain
+Mbale,MATERNITY,Routine check-up
+Jinja,HIV_CARE,Antenatal visit
+Iganga,PAEDIATRICS,Child immunisation
+Busia,ANTENATAL,Antenatal visit
+Hoima,ANTENATAL,Prescription refill
+Soroti,OPTICAL,Follow-up visit
+Busia,DENTAL,Eye test
+Kampala,GENERAL,Tooth pain
+Gulu,SURGERY,Fever and headache
+Lira,OPTICAL,Fever and headache
+Mukono,OPTICAL,Prescription refill
+Jinja,DENTAL,Tooth pain
+Gulu,OPTICAL,Eye test
+Mukono,SURGERY,Tooth pain
+Lira,MATERNITY,Antenatal visit
+Moroto,MENTAL_HEALTH,Prescription refill
+Hoima,PAEDIATRICS,Antenatal visit
+Kasese,MATERNITY,Prescription refill
+Mukono,IMMUNISATION,Fever and headache
+Lira,MENTAL_HEALTH,Follow-up visit
+Fort Portal,PAEDIATRICS,Tooth pain
+Fort Portal,PAEDIATRICS,Child immunisation
+Masaka,PAEDIATRICS,Fever and headache
+Jinja,GENERAL,Prescription refill
+Mukono,DENTAL,Fever and headache
+Masaka,DENTAL,Antenatal visit
+Moroto,MENTAL_HEALTH,Child immunisation
+Iganga,ANTENATAL,Child immunisation
+Busia,PAEDIATRICS,Prescription refill
+Wakiso,ANTENATAL,Fever and headache
+Arua,IMMUNISATION,Follow-up visit
+Fort Portal,IMMUNISATION,Antenatal visit
+Moroto,HIV_CARE,Prescription refill
+Masaka,PAEDIATRICS,Routine check-up
+Mbale,MENTAL_HEALTH,Child immunisation
+Lira,PAEDIATRICS,Tooth pain
+Fort Portal,PAEDIATRICS,Tooth pain
+Kasese,SURGERY,Follow-up visit
+Masaka,DENTAL,Follow-up visit
+Mbarara,OPTICAL,Fever and headache
+Mukono,MENTAL_HEALTH,Child immunisation
+Kampala,OPTICAL,Prescription refill
+Arua,MATERNITY,Follow-up visit
+Hoima,DENTAL,Child immunisation
+Mbarara,MENTAL_HEALTH,Tooth pain
+Masindi,GENERAL,Routine check-up
+Arua,SURGERY,Routine check-up
+Wakiso,IMMUNISATION,Child immunisation
+Hoima,MATERNITY,Child immunisation
+Kampala,GENERAL,Follow-up visit
+Gulu,DENTAL,Follow-up visit
+Tororo,MENTAL_HEALTH,Antenatal visit
+Mbarara,HIV_CARE,Routine check-up
+Kasese,SURGERY,Prescription refill
+Masindi,MATERNITY,Child immunisation
+Tororo,IMMUNISATION,Routine check-up
+Mbarara,ANTENATAL,Tooth pain
+Moroto,OPTICAL,Child immunisation
+Kasese,ANTENATAL,Child immunisation
+Masindi,HIV_CARE,Child immunisation
+Mukono,GENERAL,Routine check-up
+Moroto,GENERAL,Fever and headache
+Kabale,DENTAL,Prescription refill
+Masaka,PAEDIATRICS,Fever and headache
+Jinja,SURGERY,Eye test
+Masindi,IMMUNISATION,Eye test
+Mbale,MATERNITY,Eye test
+Iganga,MENTAL_HEALTH,Prescription refill
+Lira,IMMUNISATION,Fever and headache
+Tororo,ANTENATAL,Antenatal visit
+Fort Portal,OPTICAL,Routine check-up
+Soroti,SURGERY,Prescription refill
+Kampala,IMMUNISATION,Prescription refill
+Masindi,GENERAL,Eye test
+Mbarara,HIV_CARE,Tooth pain
+Iganga,HIV_CARE,Child immunisation
+Wakiso,OPTICAL,Fever and headache
+Arua,HIV_CARE,Fever and headache
+Busia,ANTENATAL,Antenatal visit
+Soroti,ANTENATAL,Eye test
+Busia,SURGERY,Antenatal visit
+Masindi,HIV_CARE,Fever and headache
+Tororo,GENERAL,Prescription refill
+Kasese,IMMUNISATION,Fever and headache
+Iganga,IMMUNISATION,Tooth pain
+Mbale,OPTICAL,Antenatal visit
+Jinja,GENERAL,Antenatal visit
+Masindi,DENTAL,Routine check-up
+Mukono,OPTICAL,Prescription refill
+Hoima,MENTAL_HEALTH,Routine check-up
+Lira,IMMUNISATION,Child immunisation
+Jinja,IMMUNISATION,Tooth pain
+Mbale,SURGERY,Routine check-up
+Moroto,ANTENATAL,Child immunisation
+Hoima,DENTAL,Routine check-up
+Wakiso,SURGERY,Child immunisation
+Kampala,DENTAL,Tooth pain
+Kabale,MATERNITY,Antenatal visit
+Hoima,MENTAL_HEALTH,Antenatal visit
+Mukono,SURGERY,Antenatal visit
+Jinja,GENERAL,Eye test
+Soroti,MATERNITY,Fever and headache
+Mbarara,HIV_CARE,Routine check-up
+Iganga,IMMUNISATION,Eye test
+Masindi,HIV_CARE,Antenatal visit
+Kasese,PAEDIATRICS,Antenatal visit
+Soroti,MENTAL_HEALTH,Eye test
+Mbarara,OPTICAL,Child immunisation
+Moroto,MATERNITY,Routine check-up
+Kasese,IMMUNISATION,Fever and headache
+Jinja,ANTENATAL,Routine check-up
+Fort Portal,HIV_CARE,Antenatal visit
+Arua,DENTAL,Antenatal visit
+Moroto,OPTICAL,Child immunisation
+Moroto,MATERNITY,Tooth pain
+Hoima,DENTAL,Routine check-up
+Busia,MATERNITY,Antenatal visit
+Hoima,ANTENATAL,Child immunisation
+Mukono,DENTAL,Tooth pain
+Iganga,MENTAL_HEALTH,Prescription refill
+Kampala,IMMUNISATION,Eye test
+Masaka,HIV_CARE,Follow-up visit
+Gulu,OPTICAL,Tooth pain
+Moroto,PAEDIATRICS,Routine check-up
+Mbale,MENTAL_HEALTH,Antenatal visit
+Fort Portal,MATERNITY,Antenatal visit
+Wakiso,IMMUNISATION,Tooth pain
+Hoima,SURGERY,Prescription refill
+Jinja,HIV_CARE,Fever and headache
+Masindi,GENERAL,Follow-up visit
+Mbale,MENTAL_HEALTH,Fever and headache
+Kampala,MATERNITY,Child immunisation
+Hoima,MATERNITY,Child immunisation
+Gulu,MATERNITY,Routine check-up
+Kabale,HIV_CARE,Prescription refill
+Tororo,SURGERY,Fever and headache
+Kampala,HIV_CARE,Child immunisation
+Wakiso,DENTAL,Child immunisation
+Busia,IMMUNISATION,Child immunisation
+Tororo,MENTAL_HEALTH,Routine check-up
+Fort Portal,DENTAL,Antenatal visit
+Kasese,GENERAL,Tooth pain
+Tororo,IMMUNISATION,Tooth pain
+Kampala,OPTICAL,Routine check-up
+Kampala,DENTAL,Eye test
+Tororo,MATERNITY,Eye test
+Mukono,MENTAL_HEALTH,Child immunisation
+Busia,MENTAL_HEALTH,Antenatal visit
+Mbale,HIV_CARE,Child immunisation
+Masaka,MENTAL_HEALTH,Antenatal visit
+Mbale,HIV_CARE,Prescription refill
+Iganga,GENERAL,Child immunisation
+Masindi,DENTAL,Fever and headache
+Mbale,IMMUNISATION,Antenatal visit
+Tororo,MENTAL_HEALTH,Eye test
+Fort Portal,PAEDIATRICS,Fever and headache
+Gulu,PAEDIATRICS,Eye test
+Gulu,SURGERY,Antenatal visit
+Lira,MATERNITY,Tooth pain
+Masindi,MATERNITY,Antenatal visit
+Kabale,SURGERY,Eye test
+Soroti,HIV_CARE,Fever and headache
+Gulu,ANTENATAL,Prescription refill
+Masaka,MENTAL_HEALTH,Prescription refill
+Masindi,PAEDIATRICS,Follow-up visit
+Mbarara,DENTAL,Prescription refill
+Busia,IMMUNISATION,Follow-up visit
+Moroto,DENTAL,Fever and headache
+Fort Portal,ANTENATAL,Prescription refill
+Tororo,GENERAL,Prescription refill
+Mbale,GENERAL,Tooth pain
+Hoima,GENERAL,Antenatal visit
+Mbarara,HIV_CARE,Follow-up visit
+Kasese,ANTENATAL,Routine check-up
+Masindi,OPTICAL,Tooth pain
+Mukono,IMMUNISATION,Fever and headache
+Tororo,OPTICAL,Routine check-up
+Arua,HIV_CARE,Routine check-up
+Iganga,GENERAL,Tooth pain
+Kasese,MENTAL_HEALTH,Routine check-up
+Gulu,MATERNITY,Tooth pain
+Hoima,DENTAL,Routine check-up
+Tororo,DENTAL,Routine check-up
+Gulu,SURGERY,Eye test
+Wakiso,MATERNITY,Tooth pain
+Hoima,PAEDIATRICS,Eye test
+Kasese,OPTICAL,Child immunisation
+Masaka,IMMUNISATION,Antenatal visit
+Kabale,PAEDIATRICS,Routine check-up
+Arua,PAEDIATRICS,Routine check-up
+Gulu,ANTENATAL,Follow-up visit
+Masaka,OPTICAL,Follow-up visit
+Mbarara,ANTENATAL,Fever and headache
+Kampala,OPTICAL,Fever and headache
+Soroti,SURGERY,Fever and headache
+Masindi,GENERAL,Tooth pain
+Kampala,GENERAL,Fever and headache
+Tororo,IMMUNISATION,Tooth pain
+Masaka,DENTAL,Prescription refill
+Lira,ANTENATAL,Routine check-up
+Arua,PAEDIATRICS,Child immunisation
+Kabale,HIV_CARE,Fever and headache
+Mukono,GENERAL,Fever and headache
+Lira,MENTAL_HEALTH,Eye test
+Masindi,MENTAL_HEALTH,Prescription refill
+Jinja,DENTAL,Prescription refill
+Kasese,HIV_CARE,Antenatal visit
+Tororo,MATERNITY,Antenatal visit
+Masaka,HIV_CARE,Routine check-up
+Mbarara,MENTAL_HEALTH,Eye test
+Kasese,MENTAL_HEALTH,Child immunisation
+Kampala,MENTAL_HEALTH,Fever and headache
+Kabale,ANTENATAL,Antenatal visit
+Masindi,MATERNITY,Fever and headache
+Tororo,HIV_CARE,Fever and headache
+Mbarara,OPTICAL,Routine check-up
+Mukono,HIV_CARE,Antenatal visit
+Kasese,HIV_CARE,Eye test
+Kampala,ANTENATAL,Child immunisation
+Masindi,OPTICAL,Routine check-up
+Gulu,GENERAL,Routine check-up
+Masindi,DENTAL,Child immunisation
+Kabale,MATERNITY,Child immunisation
+Iganga,GENERAL,Prescription refill
+Masindi,ANTENATAL,Tooth pain
+Mukono,GENERAL,Follow-up visit
+Jinja,MATERNITY,Fever and headache
+Busia,PAEDIATRICS,Child immunisation
+Jinja,ANTENATAL,Eye test
+Mbale,ANTENATAL,Child immunisation
+Lira,PAEDIATRICS,Eye test
+Moroto,IMMUNISATION,Eye test
+Masindi,SURGERY,Antenatal visit
+Iganga,ANTENATAL,Fever and headache
+Kabale,GENERAL,Routine check-up
+Gulu,DENTAL,Child immunisation
+Tororo,IMMUNISATION,Fever and headache
+Jinja,OPTICAL,Eye test
+Kasese,IMMUNISATION,Child immunisation
+Masaka,SURGERY,Tooth pain
+Fort Portal,SURGERY,Routine check-up
+Moroto,PAEDIATRICS,Child immunisation
+Kasese,IMMUNISATION,Antenatal visit
+Kasese,MATERNITY,Antenatal visit
+Moroto,MENTAL_HEALTH,Fever and headache
+Soroti,ANTENATAL,Tooth pain
+Tororo,HIV_CARE,Child immunisation
+Kampala,HIV_CARE,Fever and headache
+Arua,SURGERY,Follow-up visit
+Tororo,IMMUNISATION,Fever and headache
+Masindi,GENERAL,Routine check-up
+Wakiso,PAEDIATRICS,Antenatal visit
+Tororo,ANTENATAL,Prescription refill
+Hoima,GENERAL,Routine check-up
+Masindi,MENTAL_HEALTH,Child immunisation
+Kasese,SURGERY,Prescription refill
+Wakiso,MATERNITY,Tooth pain
+Gulu,IMMUNISATION,Follow-up visit
+Fort Portal,IMMUNISATION,Antenatal visit
+Fort Portal,MATERNITY,Follow-up visit
+Arua,PAEDIATRICS,Tooth pain
+Mbarara,DENTAL,Antenatal visit
+Masindi,MATERNITY,Prescription refill
+Jinja,IMMUNISATION,Child immunisation
+Mbarara,HIV_CARE,Child immunisation
+Wakiso,PAEDIATRICS,Prescription refill
+Kabale,DENTAL,Tooth pain
+Fort Portal,DENTAL,Eye test
+Mbale,MENTAL_HEALTH,Eye test
+Hoima,PAEDIATRICS,Child immunisation
+Mbale,OPTICAL,Fever and headache
+Kabale,PAEDIATRICS,Eye test
+Tororo,GENERAL,Follow-up visit
+Gulu,MATERNITY,Routine check-up
+Masaka,HIV_CARE,Fever and headache
+Iganga,DENTAL,Follow-up visit
+Mbale,GENERAL,Follow-up visit
+Lira,SURGERY,Child immunisation
+Masaka,DENTAL,Tooth pain
+Arua,DENTAL,Prescription refill
+Tororo,OPTICAL,Routine check-up
+Masaka,MATERNITY,Follow-up visit
+Kabale,SURGERY,Eye test
+Fort Portal,ANTENATAL,Child immunisation
+Fort Portal,IMMUNISATION,Fever and headache
+Mbale,SURGERY,Child immunisation
+Arua,MATERNITY,Tooth pain
+Masaka,HIV_CARE,Antenatal visit
+Moroto,OPTICAL,Tooth pain
+Fort Portal,PAEDIATRICS,Tooth pain
+Arua,MENTAL_HEALTH,Routine check-up
+Iganga,HIV_CARE,Fever and headache
+Kabale,ANTENATAL,Follow-up visit
+Kabale,SURGERY,Routine check-up
+Masindi,ANTENATAL,Tooth pain
+Tororo,IMMUNISATION,Follow-up visit
+Mbale,ANTENATAL,Follow-up visit
+Fort Portal,MENTAL_HEALTH,Child immunisation
+Hoima,HIV_CARE,Child immunisation
+Kabale,MENTAL_HEALTH,Follow-up visit
+Kampala,DENTAL,Routine check-up
+Arua,IMMUNISATION,Fever and headache
+Iganga,SURGERY,Routine check-up
+Masaka,ANTENATAL,Child immunisation
+Tororo,ANTENATAL,Prescription refill
+Wakiso,MATERNITY,Tooth pain
+Wakiso,SURGERY,Prescription refill
+Kabale,ANTENATAL,Routine check-up
+Mbale,MATERNITY,Fever and headache
+Tororo,IMMUNISATION,Fever and headache
+Mbale,IMMUNISATION,Eye test
+Kabale,GENERAL,Follow-up visit
+Kasese,MENTAL_HEALTH,Fever and headache
+Mukono,OPTICAL,Routine check-up
+Masindi,DENTAL,Eye test
+Lira,DENTAL,Tooth pain
+Fort Portal,MATERNITY,Eye test
+Mbale,IMMUNISATION,Routine check-up
+Kampala,ANTENATAL,Follow-up visit
+Masaka,MATERNITY,Fever and headache
+Jinja,ANTENATAL,Antenatal visit
+Arua,MENTAL_HEALTH,Prescription refill
+Wakiso,SURGERY,Fever and headache
+Mbarara,ANTENATAL,Antenatal visit
+Moroto,PAEDIATRICS,Antenatal visit
+Kasese,IMMUNISATION,Eye test
+Fort Portal,MATERNITY,Fever and headache
+Lira,GENERAL,Child immunisation
+Busia,PAEDIATRICS,Fever and headache
+Hoima,PAEDIATRICS,Fever and headache
+Wakiso,SURGERY,Prescription refill
+Tororo,GENERAL,Routine check-up
+Gulu,OPTICAL,Tooth pain
+Lira,IMMUNISATION,Tooth pain
+Kabale,HIV_CARE,Prescription refill
+Jinja,PAEDIATRICS,Tooth pain
+Fort Portal,GENERAL,Routine check-up
+Lira,ANTENATAL,Routine check-up
+Iganga,DENTAL,Antenatal visit
+Jinja,IMMUNISATION,Fever and headache
+Kabale,GENERAL,Antenatal visit
+Masaka,MENTAL_HEALTH,Fever and headache
+Hoima,DENTAL,Routine check-up
+Busia,GENERAL,Child immunisation
+Kabale,SURGERY,Tooth pain
+Kabale,ANTENATAL,Child immunisation
+Moroto,IMMUNISATION,Routine check-up
+Wakiso,ANTENATAL,Prescription refill
+Masindi,OPTICAL,Fever and headache
+Mbarara,SURGERY,Routine check-up
+Mukono,SURGERY,Prescription refill
+Mbale,MENTAL_HEALTH,Child immunisation
+Moroto,MATERNITY,Tooth pain
+Kampala,PAEDIATRICS,Child immunisation
+Tororo,DENTAL,Tooth pain
+Arua,SURGERY,Follow-up visit
+Busia,DENTAL,Follow-up visit
+Masaka,ANTENATAL,Prescription refill
+Mbarara,ANTENATAL,Prescription refill
+Kampala,DENTAL,Antenatal visit
+Kasese,DENTAL,Eye test
+Kampala,DENTAL,Follow-up visit
+Iganga,PAEDIATRICS,Antenatal visit
+Moroto,DENTAL,Routine check-up
+Mbale,PAEDIATRICS,Prescription refill
+Kasese,MATERNITY,Eye test
+Busia,PAEDIATRICS,Child immunisation
+Fort Portal,PAEDIATRICS,Follow-up visit
+Jinja,ANTENATAL,Prescription refill
+Masaka,ANTENATAL,Follow-up visit
+Iganga,IMMUNISATION,Follow-up visit
+Kabale,DENTAL,Tooth pain
+Kampala,HIV_CARE,Prescription refill
+Fort Portal,MATERNITY,Tooth pain
+Tororo,HIV_CARE,Follow-up visit
+Mbale,IMMUNISATION,Child immunisation
+Hoima,SURGERY,Antenatal visit
+Mbale,HIV_CARE,Child immunisation
+Jinja,OPTICAL,Antenatal visit
+Kasese,SURGERY,Prescription refill
+Mukono,PAEDIATRICS,Prescription refill
+Kabale,GENERAL,Tooth pain
+Arua,HIV_CARE,Prescription refill
+Kasese,MENTAL_HEALTH,Eye test
+Lira,OPTICAL,Child immunisation
+Busia,SURGERY,Antenatal visit
+Iganga,GENERAL,Tooth pain
+Kampala,DENTAL,Child immunisation
+Wakiso,DENTAL,Fever and headache
+Mbale,PAEDIATRICS,Tooth pain
+Soroti,SURGERY,Prescription refill
+Jinja,OPTICAL,Prescription refill
+Wakiso,MENTAL_HEALTH,Fever and headache
+Busia,PAEDIATRICS,Child immunisation
+Gulu,GENERAL,Routine check-up
+Wakiso,MATERNITY,Prescription refill
+Arua,PAEDIATRICS,Eye test
+Mbale,HIV_CARE,Fever and headache
+Kabale,MATERNITY,Eye test
+Mukono,SURGERY,Routine check-up
+Masaka,GENERAL,Antenatal visit
+Wakiso,MATERNITY,Antenatal visit
+Busia,DENTAL,Fever and headache
+Kampala,IMMUNISATION,Prescription refill
+Jinja,PAEDIATRICS,Antenatal visit
+Masindi,MATERNITY,Follow-up visit
+Mukono,ANTENATAL,Fever and headache
+Arua,PAEDIATRICS,Eye test
+Wakiso,PAEDIATRICS,Antenatal visit
+Masindi,PAEDIATRICS,Child immunisation
+Masindi,OPTICAL,Tooth pain
+Mbale,GENERAL,Follow-up visit
+Mbarara,MENTAL_HEALTH,Eye test
+Kasese,SURGERY,Antenatal visit
+Soroti,MATERNITY,Fever and headache
+Iganga,OPTICAL,Follow-up visit
+Kabale,GENERAL,Child immunisation
+Masindi,MATERNITY,Follow-up visit
+Tororo,GENERAL,Child immunisation
+Iganga,GENERAL,Tooth pain
+Moroto,GENERAL,Antenatal visit
+Masindi,IMMUNISATION,Tooth pain
+Kabale,SURGERY,Tooth pain
+Mbale,SURGERY,Eye test
+Tororo,DENTAL,Prescription refill
+Fort Portal,MENTAL_HEALTH,Fever and headache
+Masaka,SURGERY,Routine check-up
+Gulu,PAEDIATRICS,Antenatal visit
+Kasese,MATERNITY,Fever and headache
+Iganga,GENERAL,Tooth pain
+Mbarara,SURGERY,Follow-up visit
+Kasese,SURGERY,Routine check-up
+Masindi,MENTAL_HEALTH,Fever and headache
+Soroti,HIV_CARE,Fever and headache
+Soroti,OPTICAL,Routine check-up
+Mukono,HIV_CARE,Eye test
+Lira,OPTICAL,Child immunisation
+Kabale,SURGERY,Antenatal visit
+Hoima,DENTAL,Child immunisation
+Hoima,IMMUNISATION,Routine check-up
+Wakiso,GENERAL,Antenatal visit
+Arua,SURGERY,Eye test
+Kasese,MENTAL_HEALTH,Tooth pain
+Lira,ANTENATAL,Child immunisation
+Kampala,IMMUNISATION,Tooth pain
+Masaka,PAEDIATRICS,Antenatal visit
+Tororo,MATERNITY,Tooth pain
+Jinja,DENTAL,Tooth pain
+Kampala,OPTICAL,Antenatal visit
+Fort Portal,HIV_CARE,Routine check-up
+Jinja,SURGERY,Follow-up visit
+Mukono,MATERNITY,Fever and headache
+Kampala,PAEDIATRICS,Routine check-up
+Iganga,DENTAL,Routine check-up
+Mukono,PAEDIATRICS,Tooth pain
+Tororo,MENTAL_HEALTH,Fever and headache
+Busia,MATERNITY,Follow-up visit
+Kasese,PAEDIATRICS,Tooth pain
+Iganga,ANTENATAL,Child immunisation
+Arua,SURGERY,Follow-up visit
+Jinja,GENERAL,Antenatal visit
+Kabale,DENTAL,Routine check-up
+Mbarara,MATERNITY,Antenatal visit
+Arua,OPTICAL,Antenatal visit
+Mukono,ANTENATAL,Follow-up visit
+Lira,SURGERY,Tooth pain
+Arua,DENTAL,Eye test
+Jinja,DENTAL,Child immunisation
+Soroti,MATERNITY,Eye test
+Fort Portal,PAEDIATRICS,Prescription refill
+Busia,HIV_CARE,Eye test
+Mukono,ANTENATAL,Antenatal visit
+Kampala,HIV_CARE,Eye test
+Lira,PAEDIATRICS,Fever and headache
+Soroti,PAEDIATRICS,Child immunisation
+Fort Portal,HIV_CARE,Follow-up visit
+Mbarara,GENERAL,Follow-up visit
+Kampala,MENTAL_HEALTH,Fever and headache
+Mukono,SURGERY,Tooth pain
+Fort Portal,DENTAL,Tooth pain
+Iganga,DENTAL,Fever and headache
+Moroto,MATERNITY,Eye test
+Busia,MENTAL_HEALTH,Child immunisation
+Fort Portal,MATERNITY,Eye test
+Moroto,PAEDIATRICS,Prescription refill
+Arua,ANTENATAL,Child immunisation
+Kasese,IMMUNISATION,Routine check-up
+Moroto,OPTICAL,Routine check-up
+Soroti,MENTAL_HEALTH,Follow-up visit
+Kabale,DENTAL,Child immunisation
+Mbale,MATERNITY,Fever and headache
+Soroti,GENERAL,Follow-up visit
+Soroti,SURGERY,Prescription refill
+Moroto,MATERNITY,Child immunisation
+Kabale,HIV_CARE,Eye test
+Arua,DENTAL,Antenatal visit
+Iganga,PAEDIATRICS,Follow-up visit
+Mukono,HIV_CARE,Routine check-up
+Tororo,SURGERY,Antenatal visit
+Kabale,PAEDIATRICS,Antenatal visit
+Hoima,MATERNITY,Routine check-up
+Iganga,MENTAL_HEALTH,Routine check-up
+Wakiso,MENTAL_HEALTH,Fever and headache
+Iganga,ANTENATAL,Tooth pain
+Iganga,MENTAL_HEALTH,Antenatal visit
+Masaka,DENTAL,Routine check-up
+Tororo,HIV_CARE,Antenatal visit
+Gulu,GENERAL,Follow-up visit
+Gulu,DENTAL,Follow-up visit
+Kasese,IMMUNISATION,Prescription refill
+Jinja,PAEDIATRICS,Follow-up visit
+Masindi,IMMUNISATION,Follow-up visit
+Kampala,PAEDIATRICS,Prescription refill
+Kabale,PAEDIATRICS,Prescription refill
+Lira,SURGERY,Routine check-up
+Jinja,SURGERY,Child immunisation
+Kasese,MATERNITY,Fever and headache
+Fort Portal,IMMUNISATION,Follow-up visit
+Masindi,PAEDIATRICS,Follow-up visit
+Fort Portal,SURGERY,Eye test
+Hoima,IMMUNISATION,Tooth pain
+Mbarara,HIV_CARE,Fever and headache
+Kabale,MATERNITY,Tooth pain
+Lira,GENERAL,Child immunisation
+Mbarara,DENTAL,Eye test
+Tororo,ANTENATAL,Fever and headache
+Mbarara,PAEDIATRICS,Fever and headache
+Busia,PAEDIATRICS,Fever and headache
+Kasese,IMMUNISATION,Routine check-up
+Mbale,MENTAL_HEALTH,Follow-up visit
+Kasese,SURGERY,Follow-up visit
+Hoima,GENERAL,Eye test
+Hoima,GENERAL,Eye test
+Fort Portal,SURGERY,Eye test
+Mukono,DENTAL,Routine check-up
+Kasese,MATERNITY,Tooth pain
+Masaka,ANTENATAL,Child immunisation
+Hoima,DENTAL,Tooth pain
+Mbale,DENTAL,Eye test
+Mbarara,PAEDIATRICS,Prescription refill
+Lira,MATERNITY,Fever and headache
+Busia,MENTAL_HEALTH,Prescription refill
+Kampala,MATERNITY,Fever and headache
+Soroti,HIV_CARE,Child immunisation
+Gulu,DENTAL,Tooth pain
+Masaka,OPTICAL,Child immunisation
+Fort Portal,IMMUNISATION,Child immunisation
+Soroti,ANTENATAL,Fever and headache
+Soroti,OPTICAL,Prescription refill
+Wakiso,DENTAL,Tooth pain
+Gulu,ANTENATAL,Fever and headache
+Jinja,IMMUNISATION,Follow-up visit
+Gulu,PAEDIATRICS,Fever and headache
+Kabale,HIV_CARE,Antenatal visit
+Masaka,MENTAL_HEALTH,Prescription refill
+Masaka,HIV_CARE,Tooth pain
+Iganga,HIV_CARE,Eye test
+Kabale,OPTICAL,Eye test
+Soroti,MATERNITY,Follow-up visit
+Fort Portal,SURGERY,Routine check-up
+Lira,ANTENATAL,Prescription refill
+Fort Portal,HIV_CARE,Follow-up visit
+Fort Portal,ANTENATAL,Antenatal visit
+Gulu,MENTAL_HEALTH,Eye test
+Mukono,PAEDIATRICS,Prescription refill
+Gulu,SURGERY,Routine check-up
+Lira,DENTAL,Antenatal visit
+Masindi,SURGERY,Follow-up visit
+Hoima,HIV_CARE,Eye test
+Wakiso,IMMUNISATION,Routine check-up
+Gulu,SURGERY,Child immunisation
+Fort Portal,IMMUNISATION,Child immunisation
+Masaka,PAEDIATRICS,Follow-up visit
+Gulu,MATERNITY,Tooth pain
+Kasese,OPTICAL,Eye test
+Masaka,MATERNITY,Antenatal visit
+Busia,MENTAL_HEALTH,Tooth pain
+Soroti,MENTAL_HEALTH,Eye test
+Fort Portal,GENERAL,Child immunisation
+Mukono,PAEDIATRICS,Child immunisation
+Masaka,HIV_CARE,Prescription refill
+Masindi,DENTAL,Fever and headache
+Iganga,DENTAL,Child immunisation
+Lira,DENTAL,Prescription refill
+Moroto,ANTENATAL,Routine check-up
+Iganga,OPTICAL,Prescription refill
+Kabale,IMMUNISATION,Tooth pain
+Moroto,ANTENATAL,Fever and headache
+Kampala,SURGERY,Eye test
+Soroti,ANTENATAL,Routine check-up
+Moroto,SURGERY,Tooth pain
+Kabale,SURGERY,Eye test
+Arua,GENERAL,Tooth pain
+Masaka,MATERNITY,Tooth pain
+Mukono,DENTAL,Tooth pain
+Masaka,GENERAL,Antenatal visit
+Hoima,SURGERY,Follow-up visit
+Kabale,SURGERY,Fever and headache
+Iganga,OPTICAL,Prescription refill
+Masaka,PAEDIATRICS,Routine check-up
+Kabale,IMMUNISATION,Antenatal visit
+Soroti,HIV_CARE,Prescription refill
+Wakiso,SURGERY,Routine check-up
+Fort Portal,MATERNITY,Tooth pain
+Kabale,DENTAL,Fever and headache
+Busia,OPTICAL,Follow-up visit
+Hoima,SURGERY,Eye test
+Iganga,MATERNITY,Antenatal visit
+Fort Portal,SURGERY,Fever and headache
+Masindi,MATERNITY,Tooth pain
+Soroti,DENTAL,Routine check-up
+Hoima,ANTENATAL,Follow-up visit
+Mbarara,ANTENATAL,Routine check-up
+Mbale,PAEDIATRICS,Child immunisation
+Soroti,PAEDIATRICS,Eye test
+Jinja,PAEDIATRICS,Routine check-up
+Jinja,MENTAL_HEALTH,Fever and headache
+Busia,GENERAL,Prescription refill
+Masindi,DENTAL,Routine check-up
+Moroto,SURGERY,Antenatal visit
+Gulu,MATERNITY,Child immunisation
+Hoima,HIV_CARE,Prescription refill
+Moroto,MENTAL_HEALTH,Follow-up visit
+Lira,MENTAL_HEALTH,Follow-up visit
+Wakiso,ANTENATAL,Follow-up visit
+Mbale,PAEDIATRICS,Child immunisation
+Tororo,MATERNITY,Follow-up visit
+Wakiso,IMMUNISATION,Tooth pain
+Kasese,GENERAL,Eye test
+Kampala,OPTICAL,Child immunisation
+Iganga,GENERAL,Routine check-up
+Lira,PAEDIATRICS,Tooth pain
+Mbale,HIV_CARE,Child immunisation
+Wakiso,DENTAL,Follow-up visit
+Soroti,HIV_CARE,Eye test
+Mukono,HIV_CARE,Prescription refill
+Kabale,MATERNITY,Routine check-up
+Kampala,GENERAL,Tooth pain
+Kasese,MENTAL_HEALTH,Follow-up visit
+Lira,ANTENATAL,Prescription refill
+Wakiso,MATERNITY,Prescription refill
+Fort Portal,DENTAL,Eye test
+Iganga,GENERAL,Routine check-up
+Mukono,SURGERY,Fever and headache
+Kasese,MATERNITY,Follow-up visit
+Kabale,HIV_CARE,Eye test
+Iganga,SURGERY,Fever and headache
+Iganga,MENTAL_HEALTH,Prescription refill
+Arua,DENTAL,Routine check-up
+Kabale,GENERAL,Fever and headache
+Moroto,SURGERY,Tooth pain
+Moroto,MENTAL_HEALTH,Fever and headache
+Hoima,IMMUNISATION,Eye test
+Soroti,MATERNITY,Prescription refill
+Moroto,OPTICAL,Routine check-up
+Masaka,DENTAL,Fever and headache
+Kampala,DENTAL,Antenatal visit
+Soroti,MATERNITY,Child immunisation
+Fort Portal,GENERAL,Antenatal visit
+Jinja,MENTAL_HEALTH,Routine check-up
+Wakiso,MENTAL_HEALTH,Follow-up visit
+Kabale,SURGERY,Prescription refill
+Moroto,IMMUNISATION,Child immunisation
+Jinja,GENERAL,Tooth pain
+Wakiso,PAEDIATRICS,Tooth pain
+Mukono,SURGERY,Tooth pain
+Lira,DENTAL,Eye test
+Mbale,GENERAL,Antenatal visit
+Jinja,GENERAL,Child immunisation
+Kampala,IMMUNISATION,Eye test
+Hoima,DENTAL,Tooth pain
+Wakiso,MATERNITY,Routine check-up
+Tororo,HIV_CARE,Antenatal visit
+Arua,DENTAL,Antenatal visit
+Soroti,ANTENATAL,Tooth pain
+Arua,ANTENATAL,Tooth pain
+Kampala,SURGERY,Prescription refill
+Soroti,MATERNITY,Antenatal visit
+Gulu,PAEDIATRICS,Follow-up visit
+Gulu,IMMUNISATION,Follow-up visit
+Kasese,IMMUNISATION,Antenatal visit
+Tororo,SURGERY,Follow-up visit
+Masindi,DENTAL,Child immunisation
+Hoima,PAEDIATRICS,Routine check-up
+Tororo,PAEDIATRICS,Prescription refill
+Tororo,GENERAL,Follow-up visit
+Kabale,OPTICAL,Fever and headache
+Arua,ANTENATAL,Routine check-up
+Masindi,MATERNITY,Antenatal visit
+Kabale,IMMUNISATION,Fever and headache
+Kasese,MATERNITY,Tooth pain
+Soroti,MENTAL_HEALTH,Child immunisation
+Jinja,MENTAL_HEALTH,Routine check-up
+Mukono,HIV_CARE,Tooth pain
+Tororo,HIV_CARE,Antenatal visit
+Hoima,MATERNITY,Fever and headache
+Lira,ANTENATAL,Antenatal visit
+Gulu,IMMUNISATION,Follow-up visit
+Soroti,GENERAL,Antenatal visit
+Masaka,ANTENATAL,Child immunisation
+Lira,DENTAL,Fever and headache
+Masaka,GENERAL,Antenatal visit
+Mbale,PAEDIATRICS,Child immunisation
+Gulu,IMMUNISATION,Fever and headache
+Iganga,IMMUNISATION,Tooth pain
+Masindi,DENTAL,Antenatal visit
+Mbale,ANTENATAL,Child immunisation
+Kampala,MATERNITY,Prescription refill
+Gulu,HIV_CARE,Eye test
+Busia,MATERNITY,Routine check-up
+Masaka,PAEDIATRICS,Routine check-up
+Masindi,GENERAL,Antenatal visit
+Moroto,ANTENATAL,Antenatal visit
+Hoima,MATERNITY,Eye test
+Mukono,SURGERY,Eye test
+Tororo,SURGERY,Routine check-up
+Arua,SURGERY,Child immunisation
+Fort Portal,SURGERY,Child immunisation
+Hoima,GENERAL,Follow-up visit
+Iganga,SURGERY,Tooth pain
+Masindi,DENTAL,Fever and headache
+Hoima,MENTAL_HEALTH,Fever and headache
+Hoima,IMMUNISATION,Tooth pain
+Arua,GENERAL,Eye test
+Gulu,SURGERY,Child immunisation
+Fort Portal,OPTICAL,Fever and headache
+Busia,GENERAL,Follow-up visit
+Kasese,DENTAL,Tooth pain
+Kabale,DENTAL,Antenatal visit
+Soroti,ANTENATAL,Prescription refill
+Kabale,PAEDIATRICS,Tooth pain
+Iganga,GENERAL,Eye test
+Lira,PAEDIATRICS,Prescription refill
+Mbarara,ANTENATAL,Prescription refill
+Kasese,GENERAL,Prescription refill
+Masindi,OPTICAL,Follow-up visit
+Mbale,MENTAL_HEALTH,Routine check-up
+Arua,SURGERY,Fever and headache
+Mukono,ANTENATAL,Routine check-up
+Masaka,MATERNITY,Eye test
+Kampala,ANTENATAL,Eye test
+Gulu,PAEDIATRICS,Follow-up visit
+Soroti,GENERAL,Antenatal visit
+Moroto,GENERAL,Prescription refill
+Hoima,GENERAL,Tooth pain
+Jinja,HIV_CARE,Routine check-up
+Lira,OPTICAL,Routine check-up
+Jinja,SURGERY,Eye test
+Gulu,SURGERY,Prescription refill
+Busia,IMMUNISATION,Tooth pain
+Masindi,SURGERY,Follow-up visit
+Wakiso,MATERNITY,Fever and headache
+Masindi,GENERAL,Child immunisation
+Moroto,PAEDIATRICS,Tooth pain
+Masindi,MENTAL_HEALTH,Prescription refill
+Tororo,OPTICAL,Fever and headache
+Mukono,GENERAL,Tooth pain
+Arua,DENTAL,Routine check-up
+Soroti,SURGERY,Eye test
+Mbale,MENTAL_HEALTH,Tooth pain
+Mbarara,GENERAL,Tooth pain
+Gulu,IMMUNISATION,Antenatal visit
+Masaka,DENTAL,Child immunisation
+Moroto,DENTAL,Eye test
+Gulu,PAEDIATRICS,Fever and headache
+Tororo,OPTICAL,Routine check-up
+Lira,GENERAL,Eye test
+Kasese,ANTENATAL,Follow-up visit
+Mbale,MATERNITY,Tooth pain
+Masindi,PAEDIATRICS,Antenatal visit
+Masaka,IMMUNISATION,Antenatal visit
+Mbarara,ANTENATAL,Child immunisation
+Soroti,DENTAL,Routine check-up
+Soroti,MATERNITY,Tooth pain
+Kampala,MENTAL_HEALTH,Eye test
+Jinja,IMMUNISATION,Fever and headache
+Hoima,OPTICAL,Child immunisation
+Kasese,MENTAL_HEALTH,Tooth pain
+Lira,OPTICAL,Routine check-up
+Kabale,HIV_CARE,Antenatal visit
+Iganga,ANTENATAL,Antenatal visit
+Mbarara,HIV_CARE,Child immunisation
+Mukono,ANTENATAL,Child immunisation
+Masindi,IMMUNISATION,Prescription refill
+Hoima,DENTAL,Routine check-up
+Tororo,IMMUNISATION,Follow-up visit
+Wakiso,IMMUNISATION,Follow-up visit
+Iganga,MENTAL_HEALTH,Routine check-up
+Fort Portal,SURGERY,Tooth pain
+Masindi,MENTAL_HEALTH,Fever and headache
+Hoima,IMMUNISATION,Follow-up visit
+Tororo,HIV_CARE,Child immunisation
+Tororo,GENERAL,Fever and headache
+Masindi,DENTAL,Routine check-up
+Busia,GENERAL,Antenatal visit
+Moroto,MATERNITY,Prescription refill
+Mbarara,ANTENATAL,Prescription refill
+Gulu,ANTENATAL,Antenatal visit
+Tororo,DENTAL,Routine check-up
+Masindi,DENTAL,Prescription refill
+Mbarara,OPTICAL,Prescription refill
+Gulu,DENTAL,Prescription refill
+Iganga,HIV_CARE,Prescription refill
+Iganga,HIV_CARE,Fever and headache
+Fort Portal,IMMUNISATION,Tooth pain
+Iganga,MENTAL_HEALTH,Eye test
+Iganga,MENTAL_HEALTH,Child immunisation
+Busia,IMMUNISATION,Prescription refill
+Jinja,MENTAL_HEALTH,Eye test
+Mbale,ANTENATAL,Follow-up visit
+Kasese,MENTAL_HEALTH,Fever and headache
+Mbale,IMMUNISATION,Antenatal visit
+Masindi,HIV_CARE,Tooth pain
+Kabale,MENTAL_HEALTH,Routine check-up
+Hoima,DENTAL,Follow-up visit
+Hoima,IMMUNISATION,Prescription refill
+Iganga,ANTENATAL,Follow-up visit
+Masindi,MENTAL_HEALTH,Tooth pain
+Lira,DENTAL,Antenatal visit
+Kampala,IMMUNISATION,Eye test
+Mbarara,PAEDIATRICS,Antenatal visit
+Masaka,DENTAL,Eye test
+Iganga,PAEDIATRICS,Antenatal visit
+Jinja,IMMUNISATION,Routine check-up
+Kampala,MENTAL_HEALTH,Tooth pain
+Mukono,HIV_CARE,Antenatal visit
+Kasese,MATERNITY,Prescription refill
+Masindi,MATERNITY,Eye test
+Masindi,PAEDIATRICS,Routine check-up
+Mbarara,PAEDIATRICS,Eye test
+Tororo,MATERNITY,Routine check-up
+Masaka,SURGERY,Routine check-up
+Mbale,PAEDIATRICS,Tooth pain
+Arua,ANTENATAL,Routine check-up
+Soroti,GENERAL,Eye test
+Kampala,IMMUNISATION,Fever and headache
+Mbale,HIV_CARE,Antenatal visit
+Gulu,HIV_CARE,Routine check-up
+Kasese,OPTICAL,Fever and headache
+Masindi,SURGERY,Routine check-up
+Masindi,PAEDIATRICS,Tooth pain
+Lira,MENTAL_HEALTH,Follow-up visit
+Hoima,GENERAL,Prescription refill
+Lira,OPTICAL,Fever and headache
+Kabale,OPTICAL,Child immunisation
+Mbarara,ANTENATAL,Prescription refill
+Kabale,IMMUNISATION,Prescription refill
+Masaka,SURGERY,Fever and headache
+Wakiso,OPTICAL,Routine check-up
+Arua,OPTICAL,Prescription refill
+Kampala,PAEDIATRICS,Routine check-up
+Wakiso,PAEDIATRICS,Routine check-up
+Masaka,MATERNITY,Eye test
+Masindi,SURGERY,Eye test
+Busia,GENERAL,Antenatal visit
+Lira,MENTAL_HEALTH,Tooth pain
+Iganga,HIV_CARE,Eye test
+Mukono,HIV_CARE,Follow-up visit
+Kampala,IMMUNISATION,Follow-up visit
+Tororo,MATERNITY,Fever and headache
+Masaka,ANTENATAL,Prescription refill
+Kasese,HIV_CARE,Tooth pain
+Lira,GENERAL,Antenatal visit
+Kabale,ANTENATAL,Child immunisation
+Busia,DENTAL,Fever and headache
+Jinja,MENTAL_HEALTH,Fever and headache
+Kabale,GENERAL,Follow-up visit
+Jinja,MATERNITY,Antenatal visit
+Fort Portal,MENTAL_HEALTH,Eye test
+Mbarara,SURGERY,Eye test
+Masindi,MATERNITY,Child immunisation
+Wakiso,OPTICAL,Routine check-up
+Masindi,HIV_CARE,Follow-up visit
+Jinja,GENERAL,Antenatal visit
+Lira,DENTAL,Tooth pain
+Fort Portal,DENTAL,Antenatal visit
+Busia,SURGERY,Eye test
+Mukono,ANTENATAL,Tooth pain
+Tororo,PAEDIATRICS,Eye test
+Tororo,GENERAL,Child immunisation
+Kasese,DENTAL,Fever and headache
+Gulu,PAEDIATRICS,Tooth pain
+Masaka,OPTICAL,Follow-up visit
+Lira,IMMUNISATION,Prescription refill
+Moroto,MATERNITY,Antenatal visit
+Masindi,ANTENATAL,Child immunisation
+Kampala,PAEDIATRICS,Routine check-up
+Gulu,HIV_CARE,Eye test
+Jinja,OPTICAL,Eye test
+Fort Portal,PAEDIATRICS,Antenatal visit
+Fort Portal,MENTAL_HEALTH,Tooth pain
+Hoima,SURGERY,Routine check-up
+Masindi,PAEDIATRICS,Follow-up visit
+Masindi,IMMUNISATION,Fever and headache
+Lira,ANTENATAL,Prescription refill
+Tororo,GENERAL,Eye test
+Mbarara,PAEDIATRICS,Fever and headache
+Lira,GENERAL,Routine check-up
+Masindi,PAEDIATRICS,Fever and headache
+Kasese,DENTAL,Prescription refill
+Kasese,PAEDIATRICS,Eye test
+Moroto,MATERNITY,Tooth pain
+Mbarara,GENERAL,Fever and headache
+Fort Portal,MATERNITY,Child immunisation
+Arua,ANTENATAL,Fever and headache
+Lira,MATERNITY,Tooth pain
+Tororo,MENTAL_HEALTH,Prescription refill
+Moroto,ANTENATAL,Child immunisation
+Hoima,IMMUNISATION,Follow-up visit
+Masindi,HIV_CARE,Follow-up visit
+Fort Portal,GENERAL,Routine check-up
+Soroti,ANTENATAL,Eye test
+Fort Portal,GENERAL,Antenatal visit
+Mbale,DENTAL,Prescription refill
+Busia,MENTAL_HEALTH,Prescription refill
+Kabale,SURGERY,Prescription refill
+Iganga,ANTENATAL,Routine check-up
+Hoima,MATERNITY,Routine check-up
+Hoima,PAEDIATRICS,Prescription refill
+Mbarara,MATERNITY,Fever and headache
+Busia,SURGERY,Routine check-up
+Jinja,PAEDIATRICS,Fever and headache
+Mbale,SURGERY,Eye test
+Masindi,OPTICAL,Eye test
+Kabale,SURGERY,Eye test
+Moroto,GENERAL,Eye test
+Moroto,GENERAL,Eye test
+Mukono,ANTENATAL,Eye test
+Wakiso,PAEDIATRICS,Tooth pain
+Wakiso,HIV_CARE,Prescription refill
+Wakiso,DENTAL,Fever and headache
+Kabale,PAEDIATRICS,Child immunisation
+Lira,MATERNITY,Tooth pain
+Jinja,DENTAL,Routine check-up
+Masindi,HIV_CARE,Tooth pain
+Wakiso,MATERNITY,Child immunisation
+Busia,SURGERY,Routine check-up
+Jinja,SURGERY,Fever and headache
+Soroti,GENERAL,Tooth pain
+Lira,ANTENATAL,Eye test
+Kasese,HIV_CARE,Antenatal visit
+Moroto,IMMUNISATION,Follow-up visit
+Kasese,ANTENATAL,Follow-up visit
+Busia,PAEDIATRICS,Routine check-up
+Hoima,DENTAL,Fever and headache
+Kampala,MENTAL_HEALTH,Eye test
+Kasese,SURGERY,Antenatal visit
+Tororo,MATERNITY,Eye test
+Masaka,HIV_CARE,Child immunisation
+Fort Portal,MATERNITY,Prescription refill
+Kabale,ANTENATAL,Prescription refill
+Mukono,PAEDIATRICS,Prescription refill
+Arua,ANTENATAL,Child immunisation
+Masindi,GENERAL,Routine check-up
+Mukono,HIV_CARE,Prescription refill
+Fort Portal,GENERAL,Fever and headache
+Kampala,HIV_CARE,Prescription refill
+Mbale,IMMUNISATION,Antenatal visit
+Iganga,ANTENATAL,Routine check-up
+Kasese,PAEDIATRICS,Prescription refill
+Hoima,ANTENATAL,Fever and headache
+Mukono,MENTAL_HEALTH,Child immunisation
+Kabale,DENTAL,Routine check-up
+Wakiso,SURGERY,Prescription refill
+Kampala,IMMUNISATION,Tooth pain
+Kabale,SURGERY,Follow-up visit
+Mbale,IMMUNISATION,Tooth pain
+Mbale,MATERNITY,Follow-up visit
+Tororo,DENTAL,Antenatal visit
+Gulu,MENTAL_HEALTH,Routine check-up
+Busia,IMMUNISATION,Antenatal visit
+Arua,PAEDIATRICS,Antenatal visit
+Masindi,PAEDIATRICS,Child immunisation
+Hoima,PAEDIATRICS,Antenatal visit
+Lira,IMMUNISATION,Fever and headache
+Kampala,PAEDIATRICS,Follow-up visit
+Mukono,PAEDIATRICS,Child immunisation
+Tororo,MATERNITY,Follow-up visit
+Masaka,OPTICAL,Tooth pain
+Kabale,SURGERY,Child immunisation
+Mukono,SURGERY,Follow-up visit
+Gulu,OPTICAL,Follow-up visit
+Mbarara,GENERAL,Routine check-up
+Busia,HIV_CARE,Antenatal visit
+Kasese,SURGERY,Routine check-up
+Fort Portal,DENTAL,Routine check-up
+Masaka,OPTICAL,Fever and headache
+Busia,MENTAL_HEALTH,Child immunisation
+Kasese,SURGERY,Prescription refill
+Wakiso,OPTICAL,Antenatal visit
+Masaka,SURGERY,Tooth pain
+Busia,ANTENATAL,Fever and headache
+Iganga,SURGERY,Child immunisation
+Busia,MENTAL_HEALTH,Follow-up visit
+Moroto,DENTAL,Fever and headache
+Kasese,DENTAL,Fever and headache
+Masindi,OPTICAL,Follow-up visit
+Gulu,MENTAL_HEALTH,Fever and headache
+Iganga,GENERAL,Routine check-up
+Kabale,PAEDIATRICS,Child immunisation
+Soroti,MATERNITY,Follow-up visit
+Wakiso,SURGERY,Follow-up visit
+Masaka,IMMUNISATION,Child immunisation
+Jinja,PAEDIATRICS,Child immunisation
+Moroto,ANTENATAL,Tooth pain
+Masaka,PAEDIATRICS,Prescription refill
+Jinja,IMMUNISATION,Routine check-up
+Kabale,DENTAL,Eye test
+Gulu,ANTENATAL,Tooth pain
+Mukono,MATERNITY,Fever and headache
+Kabale,PAEDIATRICS,Child immunisation
+Masaka,ANTENATAL,Tooth pain
+Lira,PAEDIATRICS,Eye test
+Gulu,GENERAL,Tooth pain
+Wakiso,ANTENATAL,Child immunisation
+Masindi,GENERAL,Routine check-up
+Iganga,IMMUNISATION,Tooth pain
+Mbarara,IMMUNISATION,Child immunisation
+Masindi,HIV_CARE,Tooth pain
+Mbale,PAEDIATRICS,Child immunisation
+Fort Portal,MENTAL_HEALTH,Fever and headache
+Moroto,OPTICAL,Follow-up visit
+Tororo,DENTAL,Tooth pain
+Moroto,OPTICAL,Fever and headache
+Mbale,GENERAL,Child immunisation
+Busia,ANTENATAL,Tooth pain
+Lira,ANTENATAL,Antenatal visit
+Mukono,MENTAL_HEALTH,Prescription refill
+Arua,MENTAL_HEALTH,Routine check-up
+Kampala,HIV_CARE,Tooth pain
+Kampala,SURGERY,Eye test
+Wakiso,SURGERY,Antenatal visit
+Wakiso,SURGERY,Follow-up visit
+Busia,IMMUNISATION,Antenatal visit
+Hoima,SURGERY,Prescription refill
+Mbale,PAEDIATRICS,Routine check-up
+Jinja,PAEDIATRICS,Routine check-up
+Wakiso,ANTENATAL,Antenatal visit
+Moroto,SURGERY,Tooth pain
+Gulu,MENTAL_HEALTH,Fever and headache
+Mukono,MATERNITY,Fever and headache
+Jinja,MATERNITY,Tooth pain
+Gulu,HIV_CARE,Prescription refill
+Hoima,GENERAL,Prescription refill
+Tororo,OPTICAL,Fever and headache
+Masaka,HIV_CARE,Follow-up visit
+Kampala,HIV_CARE,Tooth pain
+Kasese,IMMUNISATION,Follow-up visit
+Mukono,SURGERY,Tooth pain
+Lira,HIV_CARE,Routine check-up
+Mukono,GENERAL,Antenatal visit
+Busia,HIV_CARE,Follow-up visit
+Busia,SURGERY,Follow-up visit
+Wakiso,PAEDIATRICS,Antenatal visit
+Kampala,PAEDIATRICS,Eye test
+Iganga,ANTENATAL,Tooth pain
+Mbarara,GENERAL,Eye test
+Masindi,GENERAL,Prescription refill
+Fort Portal,OPTICAL,Fever and headache
+Kabale,ANTENATAL,Eye test
+Masindi,OPTICAL,Child immunisation
+Moroto,DENTAL,Antenatal visit
+Kabale,MATERNITY,Tooth pain
+Mukono,IMMUNISATION,Child immunisation
+Kampala,PAEDIATRICS,Child immunisation
+Soroti,GENERAL,Child immunisation
+Busia,DENTAL,Follow-up visit
+Wakiso,OPTICAL,Routine check-up
+Wakiso,MATERNITY,Child immunisation
+Iganga,MENTAL_HEALTH,Routine check-up
+Busia,DENTAL,Follow-up visit
+Moroto,HIV_CARE,Routine check-up
+Masaka,PAEDIATRICS,Child immunisation
+Lira,MENTAL_HEALTH,Follow-up visit
+Mbale,HIV_CARE,Routine check-up
+Hoima,HIV_CARE,Antenatal visit
+Fort Portal,SURGERY,Routine check-up
+Gulu,IMMUNISATION,Eye test
+Iganga,ANTENATAL,Prescription refill
+Kasese,MATERNITY,Prescription refill
+Moroto,HIV_CARE,Tooth pain
+Busia,MATERNITY,Child immunisation
+Iganga,GENERAL,Fever and headache
+Mbarara,HIV_CARE,Prescription refill
+Tororo,OPTICAL,Prescription refill
+Kampala,DENTAL,Follow-up visit
+Masaka,ANTENATAL,Tooth pain
+Tororo,DENTAL,Eye test
+Kampala,DENTAL,Routine check-up
+Moroto,SURGERY,Eye test
+Kasese,OPTICAL,Antenatal visit
+Gulu,OPTICAL,Routine check-up
+Wakiso,PAEDIATRICS,Antenatal visit
+Masaka,DENTAL,Child immunisation
+Mbarara,GENERAL,Antenatal visit
+Kabale,SURGERY,Follow-up visit
+Mbale,DENTAL,Antenatal visit
+Kabale,PAEDIATRICS,Fever and headache
+Hoima,HIV_CARE,Tooth pain
+Masaka,DENTAL,Prescription refill
+Kabale,GENERAL,Child immunisation
+Iganga,GENERAL,Antenatal visit
+Wakiso,HIV_CARE,Prescription refill
+Gulu,MENTAL_HEALTH,Tooth pain
+Mbarara,OPTICAL,Prescription refill
+Jinja,ANTENATAL,Fever and headache
+Masindi,MATERNITY,Antenatal visit
+Tororo,SURGERY,Routine check-up
+Soroti,MATERNITY,Child immunisation
+Wakiso,HIV_CARE,Routine check-up
+Wakiso,SURGERY,Eye test
+Kampala,DENTAL,Routine check-up
+Fort Portal,PAEDIATRICS,Antenatal visit
+Mbarara,IMMUNISATION,Tooth pain
+Mukono,MENTAL_HEALTH,Child immunisation
+Iganga,PAEDIATRICS,Routine check-up
+Kabale,ANTENATAL,Eye test
+Moroto,OPTICAL,Eye test
+Soroti,ANTENATAL,Prescription refill
+Arua,ANTENATAL,Fever and headache
+Hoima,MENTAL_HEALTH,Eye test
+Mbale,OPTICAL,Tooth pain
+Fort Portal,ANTENATAL,Follow-up visit
+Jinja,OPTICAL,Prescription refill
+Lira,DENTAL,Follow-up visit
+Iganga,PAEDIATRICS,Child immunisation
+Hoima,PAEDIATRICS,Tooth pain
+Fort Portal,HIV_CARE,Tooth pain
+Masindi,MENTAL_HEALTH,Eye test
+Mbarara,DENTAL,Routine check-up
+Kasese,HIV_CARE,Routine check-up
+Kabale,MENTAL_HEALTH,Fever and headache
+Soroti,DENTAL,Follow-up visit
+Kabale,HIV_CARE,Tooth pain
+Masaka,SURGERY,Tooth pain
+Mukono,DENTAL,Follow-up visit
+Hoima,DENTAL,Tooth pain
+Fort Portal,DENTAL,Fever and headache
+Masindi,GENERAL,Routine check-up
+Mbale,OPTICAL,Routine check-up
+Lira,PAEDIATRICS,Prescription refill
+Iganga,OPTICAL,Child immunisation
+Arua,GENERAL,Eye test
+Jinja,IMMUNISATION,Follow-up visit
+Masindi,ANTENATAL,Eye test
+Iganga,OPTICAL,Antenatal visit
+Mbarara,HIV_CARE,Tooth pain
+Arua,HIV_CARE,Fever and headache
+Fort Portal,ANTENATAL,Child immunisation
+Kabale,ANTENATAL,Follow-up visit
+Busia,DENTAL,Prescription refill
+Arua,OPTICAL,Prescription refill
+Hoima,HIV_CARE,Child immunisation
+Mbarara,OPTICAL,Fever and headache
+Mukono,IMMUNISATION,Prescription refill
+Wakiso,MENTAL_HEALTH,Fever and headache
+Tororo,PAEDIATRICS,Antenatal visit
+Masaka,MENTAL_HEALTH,Eye test
+Kampala,MATERNITY,Fever and headache
+Kampala,DENTAL,Routine check-up
+Hoima,MATERNITY,Eye test
+Hoima,GENERAL,Prescription refill
+Wakiso,ANTENATAL,Follow-up visit
+Kampala,OPTICAL,Child immunisation
+Busia,SURGERY,Eye test
+Mbale,MENTAL_HEALTH,Antenatal visit
+Mukono,GENERAL,Child immunisation
+Fort Portal,ANTENATAL,Tooth pain
+Mbarara,HIV_CARE,Eye test
+Kasese,DENTAL,Prescription refill
+Kabale,OPTICAL,Tooth pain
+Soroti,HIV_CARE,Tooth pain
+Wakiso,PAEDIATRICS,Eye test
+Gulu,PAEDIATRICS,Prescription refill
+Iganga,IMMUNISATION,Routine check-up
+Mbale,HIV_CARE,Antenatal visit
+Mbale,HIV_CARE,Tooth pain
+Wakiso,OPTICAL,Prescription refill
+Wakiso,SURGERY,Prescription refill
+Tororo,HIV_CARE,Fever and headache
+Tororo,GENERAL,Tooth pain
+Kasese,HIV_CARE,Follow-up visit
+Arua,OPTICAL,Antenatal visit
+Kabale,ANTENATAL,Prescription refill
+Kampala,GENERAL,Routine check-up
+Arua,HIV_CARE,Routine check-up
+Kasese,HIV_CARE,Fever and headache
+Iganga,MENTAL_HEALTH,Tooth pain
+Kabale,PAEDIATRICS,Antenatal visit
+Wakiso,MATERNITY,Antenatal visit
