@@ -1,0 +1,46 @@
+# Prometheus alert rules for UgandaConnect load tests.
+# They mirror sla.json so problems show up live, not only in the end-of-run report.
+# Metrics come from the Prometheus Listener in UgandaConnect_LoadTest.jmx.
+groups:
+  - name: ugandaconnect-load-test
+    rules:
+      # ---- recording rules: per-operation numbers the dashboards and alerts reuse ----
+      - record: uc:throughput_rps:by_label
+        expr: sum by (label) (rate(uc_requests_total[1m]))
+      - record: uc:error_pct:by_label
+        expr: 100 * sum by (label) (rate(uc_failures_total[1m])) / clamp_min(sum by (label) (rate(uc_requests_total[1m])), 0.001)
+      - record: uc:p95_ms:by_label
+        expr: histogram_quantile(0.95, sum by (le, label) (rate(uc_response_time_ms_bucket[1m])))
+      - record: uc:p99_ms:by_label
+        expr: histogram_quantile(0.99, sum by (le, label) (rate(uc_response_time_ms_bucket[1m])))
+      - record: uc:avg_ms:by_label
+        expr: sum by (label) (rate(uc_response_time_ms_sum[1m])) / clamp_min(sum by (label) (rate(uc_response_time_ms_count[1m])), 0.001)
+
+      # ---- alerts ----
+      - alert: LoadTestHighErrorRate
+        expr: 100 * sum(rate(uc_failures_total[2m])) / clamp_min(sum(rate(uc_requests_total[2m])), 0.001) > 1
+        for: 2m
+        labels: { severity: warning }
+        annotations:
+          summary: "Load test error rate above 1% ({{ $value | printf \"%.2f\" }}%)"
+
+      - alert: LoadTestOperationP95Breach
+        expr: uc:p95_ms:by_label{label=~"[A-Z0-9]+ .*"} > 2000 and on(label) uc:throughput_rps:by_label > 0
+        for: 3m
+        labels: { severity: warning }
+        annotations:
+          summary: "{{ $labels.label }} p95 is {{ $value | printf \"%.0f\" }} ms (SLA 2000-3000 ms)"
+
+      - alert: LoadTestPaymentErrors
+        expr: uc:error_pct:by_label{label=~"BILLS 0[34].*"} > 0.5
+        for: 2m
+        labels: { severity: critical }
+        annotations:
+          summary: "Payment step {{ $labels.label }} failing at {{ $value | printf \"%.2f\" }}%"
+
+      - alert: LoadGeneratorSaturated
+        expr: 100 * (1 - avg by (instance) (rate(node_cpu_seconds_total{mode="idle", role="load-generator"}[2m]))) > 80
+        for: 2m
+        labels: { severity: warning }
+        annotations:
+          summary: "Load generator {{ $labels.instance }} CPU > 80% - results may understate the backend; add generators"

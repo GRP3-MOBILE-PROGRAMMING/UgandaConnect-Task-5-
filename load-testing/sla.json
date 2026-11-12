@@ -1,0 +1,16 @@
+{
+  "description": "Pass/fail thresholds for the UgandaConnect launch load test. Checked by scripts/check_sla.py against the HTML report's statistics.json. First matching rule wins; 'default' applies otherwise.",
+  "overall": {
+    "max_error_pct": 1.0,
+    "min_throughput_rps": 0
+  },
+  "rules": [
+    { "match": "Login|Logout",                         "p95_ms": 1500, "p99_ms": 3000, "max_error_pct": 0.5 },
+    { "match": "Submit Mobile Money Payment|Confirm Payment Status", "p95_ms": 3000, "p99_ms": 5000, "max_error_pct": 0.5 },
+    { "match": "Submit|Book|Report New|Request Certified", "p95_ms": 3000, "p99_ms": 6000, "max_error_pct": 1.0 },
+    { "match": "UNEB 02 Check Results",               "p95_ms": 2000, "p99_ms": 4000, "max_error_pct": 1.0 },
+    { "match": "^(?:\\d\\d |[A-Z]+ \\d\\d )",          "p95_ms": 2000, "p99_ms": 4000, "max_error_pct": 1.0 }
+  ],
+  "default": { "p95_ms": 2000, "p99_ms": 4000, "max_error_pct": 1.0 },
+  "only_transactions": true
+}

@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# load-test outputs
+load-testing/results/
+
+# docs kept locally only
+*.md

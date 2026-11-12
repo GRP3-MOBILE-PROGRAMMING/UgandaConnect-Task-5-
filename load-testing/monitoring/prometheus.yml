@@ -1,0 +1,54 @@
+# Prometheus config for the Docker stack in docker-compose.yml.
+# Works as-is when Jenkins (and so the JMeter container) runs on the same machine.
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+rule_files:
+  - /etc/prometheus/load-test-alerts.yml
+
+scrape_configs:
+  - job_name: prometheus
+    static_configs:
+      - targets: ["localhost:9090"]
+
+  # Live JMeter results. The Jenkins pipeline publishes the JMeter container's port 9270
+  # on this machine while a test runs. (Target shows DOWN between tests - that is normal.)
+  - job_name: jmeter
+    scrape_interval: 5s
+    static_configs:
+      - targets: ["host.docker.internal:9270"]
+        labels: { env: local }
+      # Extra load-generator machines for big runs:
+      # - targets: ["jmeter-gen-001:9270", "jmeter-gen-002:9270"]
+
+  # Your native Jenkins (needs the "Prometheus metrics" Jenkins plugin): build durations,
+  # queue length, executor usage, Jenkins JVM. Change 8080 if Jenkins uses another port.
+  - job_name: jenkins
+    metrics_path: /prometheus
+    static_configs:
+      - targets: ["host.docker.internal:8080"]
+
+  # This machine (the load generator): CPU, memory, network
+  - job_name: node
+    static_configs:
+      - targets: ["node-exporter:9100"]
+        labels: { role: load-generator }
+      # Add node_exporter on the backend servers when testing staging:
+      # - targets: ["api-1.staging.local:9100", "api-2.staging.local:9100"]
+      #   labels: { role: api }
+      # - targets: ["db-1.staging.local:9100"]
+      #   labels: { role: database }
+
+  # Backend application metrics - uncomment when the backend exposes them
+  # (Spring Boot: /actuator/prometheus, Node: prom-client, Django: django-prometheus)
+  # - job_name: ugandaconnect-api
+  #   metrics_path: /actuator/prometheus
+  #   static_configs:
+  #     - targets: ["api-1.staging.local:8080"]
+  #
+  # Database (postgres_exporter) and cache (redis_exporter)
+  # - job_name: postgres
+  #   static_configs: [{ targets: ["db-1.staging.local:9187"] }]
+  # - job_name: redis
+  #   static_configs: [{ targets: ["cache-1.staging.local:9121"] }]
