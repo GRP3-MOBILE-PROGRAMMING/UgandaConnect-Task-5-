@@ -296,7 +296,9 @@ def bills():
              http("POST /bills/accounts/validate", "POST", "/bills/accounts/validate",
                   body='{"provider":"${provider}","accountNumber":"${accountNumber}"}', sla="read",
                   checks=[("$.valid", "true"), "$.accountName", "$.outstandingBalance",
-                          ("$.accountNumber", "${accountNumber}")])),
+                          # regex mode: an all-digit expected value would otherwise be compared as a
+                          # number and never equal the string the API returns
+                          ("$.accountNumber", "${accountNumber}", True)])),
         pct("Customers who pay", 70, [
             step("BILLS 03 Submit Mobile Money Payment",
                  http("POST /bills/payments", "POST", "/bills/payments", codes=("202",),
